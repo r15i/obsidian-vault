@@ -1,0 +1,1 @@
+In a game of coplete information anybody Knows each other player [[Utility function]]  

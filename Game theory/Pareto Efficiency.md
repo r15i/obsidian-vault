@@ -1,0 +1,1 @@
+A joint [[Strategy]] not [[Pareto Dominated]] is [[Pareto Efficiency]]
