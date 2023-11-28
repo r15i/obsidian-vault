@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"f7b7e1a8c5203477","x":-46,"y":-4,"width":254,"height":50,"type":"text","text":"division in k partition of S"},
+		{"id":"2400a7cdcd4e7ed3","x":-45,"y":131,"width":253,"height":110,"type":"text","text":"for every $\\theta$  parameter\n\tfor every k :\nfind the average error for the parameteres\n\n"},
+		{"id":"ff3e1ef5c405711f","type":"text","text":"![[Pasted image 20231124160205.png]]","x":-760,"y":-199,"width":600,"height":440},
+		{"id":"55eca3cbad55202e","type":"text","text":"$S = (x_1,y_1),...(x_n,y_n)$\n$\\theta$ parametri  \nk division of the data\nLearning algo A","x":-103,"y":-261,"width":368,"height":125},
+		{"id":"41ac6c7d2f6afb54","x":-102,"y":300,"width":365,"height":91,"type":"text","text":"\nfind the $\\theta *$ = argmin of Error($\\theta$)\n$h_{\\theta*}  = A(S;\\theta *)$\n\n\n\n"}
+	],
+	"edges":[
+		{"id":"a1ddc1ff03fe22ad","fromNode":"55eca3cbad55202e","fromSide":"bottom","toNode":"f7b7e1a8c5203477","toSide":"top"},
+		{"id":"701aea5a108fd5ce","fromNode":"f7b7e1a8c5203477","fromSide":"bottom","toNode":"2400a7cdcd4e7ed3","toSide":"top"},
+		{"id":"e34890190f7717cc","fromNode":"2400a7cdcd4e7ed3","fromSide":"bottom","toNode":"41ac6c7d2f6afb54","toSide":"top"}
+	]
+}

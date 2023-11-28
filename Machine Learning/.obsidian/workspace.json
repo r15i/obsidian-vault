@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "abca4a1825153d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "724ca16d8ebb8672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "309daae17f5244dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VC-dimension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8cec2330b5a3042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAC learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db4270b3dad35f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realizability Assumption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d2be5c809ac6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assumptions on f.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd5226f993c814f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Assumption Binary classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ca3f5ef9c54380c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EMPIRICAL ERROR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7ea6a1b24223d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAC learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78c33e689e040cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uniform Convergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26b66d5d221b441c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f5f64b07719313c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayes Optimal Predictor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "787eb0df41941d9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e669dda507bd068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c95498111c0583a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7887d5eb570d210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "validation set",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36378f7eeea6d9c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7384faddb28364d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f730e75858eb85c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ba0ba4f6bdf8e76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Uniform Convergence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "181425f80720fb7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Uniform Convergence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "300e2f73e31955a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86e47f4ca6cd1264",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Uniform Convergence.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78c33e689e040cd8",
+  "lastOpenFiles": [
+    "PAC learning.md",
+    "Uniform Convergence.md",
+    "Pasted image 20231128153141.png",
+    "Loss Function.md",
+    "Absolute value loss (L1).md",
+    "Pasted image 20231128152833.png",
+    "Squared Loss (L2).md",
+    "Pasted image 20231128152708.png",
+    "Cross Entropy.md",
+    "0-1 loss.md",
+    "Pasted image 20231128152608.png",
+    "Assumption Binary classification.md",
+    "Learning problems.md",
+    "Bayes Optimal Predictor.md",
+    "TRUE ERROR.md",
+    "Types of error.md",
+    "EMPIRICAL ERROR.md",
+    "Pasted image 20231128144247.png",
+    "Pasted image 20231128144107.png",
+    "TRUE.md",
+    "Pasted image 20231128143908.png",
+    "Pasted image 20231128140816.png",
+    "Assumtions.md",
+    "Pasted image 20231128140351.png",
+    "Pasted image 20231128140313.png",
+    "Assumptions on f.md",
+    "target labeling function.md",
+    "Realizability Assumption.md",
+    "VC-dimension.md",
+    "Untitled",
+    "K fold cross validation algo.canvas",
+    "K-fold cross Validation.md",
+    "Kernel-based learning.md",
+    "Failed Learning.md",
+    "Confusion matrix.md",
+    "Support Vector Machines (SVM).md",
+    "Embedding into feature Spaces.md",
+    "Hard-SVM.md",
+    "Untitled.canvas",
+    "stuff"
+  ]
+}

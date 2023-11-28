@@ -1,0 +1,1 @@
+A training set 𝑆 = ( 𝒙𝟏, 𝑦1 , … , (𝒙𝒎, 𝑦𝑚)) is linearly separable if there exists a halfspace (w, b) such that 𝑦𝑖 = 𝑠𝑖𝑔𝑛 < 𝒘, 𝒙𝒊 > +𝑏 ∀𝑖 = 1, … , 𝑚 • i.e., it perfectly separates all samples in the training set • or, equivalently ∀𝑖 ∶ 𝑦𝑖 < 𝒘, 𝒙𝒊 > +𝑏 > 0
