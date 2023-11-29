@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preferences.md",
+                "file": "Iterated elimination of strictly dominated strategies (IESDS).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a81f6cd0d059b195",
+            "id": "58b94e2773d19642",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5e1dcdaec7233bc8",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strictly Dominate strategy.md",
+                "file": "Iterated elimination of strictly dominated strategies (IESDS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strictly Dominate strategy.md",
+                "file": "Iterated elimination of strictly dominated strategies (IESDS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strictly Dominate strategy.md"
+                "file": "Iterated elimination of strictly dominated strategies (IESDS).md"
               }
             }
           }
@@ -159,11 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a81f6cd0d059b195",
+  "active": "e72962d2bf874161",
   "lastOpenFiles": [
-    "Preferences.md",
+    "Pasted image 20231128192759.png",
     "Strictly Dominate strategy.md",
     "Iterated elimination of strictly dominated strategies (IESDS).md",
+    "Pasted image 20231128191017.png",
+    "Pasted image 20231128190104.png",
+    "Pasted image 20231128185418.png",
+    "Strategy.md",
+    "Actions.md",
+    "Static Game of Complete Information.md",
+    "Preferences.md",
     "Pareto Efficiency.md",
     "Pareto Dominated.md",
     "Matrix.md",
@@ -171,9 +178,7 @@
     "stuff/matrix example.png",
     "stuff",
     "Decision Problem.md",
-    "Strategy.md",
     "Common Knowledge.md",
-    "Static Game of Complete Information.md",
     "Complete Information.md",
     "Static.md",
     "Utility function.md",

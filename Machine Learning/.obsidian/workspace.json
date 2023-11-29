@@ -4,131 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "724ca16d8ebb8672",
+        "id": "5959840f2f5d9ced",
         "type": "tabs",
         "children": [
           {
-            "id": "309daae17f5244dd",
+            "id": "3673f490c9cb10c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "VC-dimension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8cec2330b5a3042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAC learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db4270b3dad35f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realizability Assumption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d2be5c809ac6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assumptions on f.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd5226f993c814f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Assumption Binary classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ca3f5ef9c54380c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EMPIRICAL ERROR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7ea6a1b24223d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAC learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78c33e689e040cd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uniform Convergence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26b66d5d221b441c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning problems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f5f64b07719313c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bayes Optimal Predictor.md",
-                "mode": "source",
-                "source": false
+                "file": "stuff/Pasted image 20231124151554.png"
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniform Convergence.md",
+                "file": "stuff/Pasted image 20231124151554.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniform Convergence.md",
+                "file": "stuff/Pasted image 20231124151554.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniform Convergence.md"
+                "file": "stuff/Pasted image 20231124151554.png"
               }
             }
           }
@@ -255,37 +144,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78c33e689e040cd8",
+  "active": "3673f490c9cb10c2",
   "lastOpenFiles": [
-    "PAC learning.md",
-    "Uniform Convergence.md",
-    "Pasted image 20231128153141.png",
-    "Loss Function.md",
+    "stuff/Pasted image 20231128153141.png",
     "Absolute value loss (L1).md",
-    "Pasted image 20231128152833.png",
-    "Squared Loss (L2).md",
-    "Pasted image 20231128152708.png",
-    "Cross Entropy.md",
-    "0-1 loss.md",
-    "Pasted image 20231128152608.png",
-    "Assumption Binary classification.md",
-    "Learning problems.md",
     "Bayes Optimal Predictor.md",
-    "TRUE ERROR.md",
-    "Types of error.md",
+    "Learning problems.md",
+    "Uniform Convergence.md",
+    "PAC learning.md",
     "EMPIRICAL ERROR.md",
-    "Pasted image 20231128144247.png",
-    "Pasted image 20231128144107.png",
-    "TRUE.md",
-    "Pasted image 20231128143908.png",
-    "Pasted image 20231128140816.png",
-    "Assumtions.md",
-    "Pasted image 20231128140351.png",
-    "Pasted image 20231128140313.png",
+    "Assumption Binary classification.md",
     "Assumptions on f.md",
-    "target labeling function.md",
     "Realizability Assumption.md",
     "VC-dimension.md",
+    "Loss Function.md",
+    "stuff/Pasted image 20231128152833.png",
+    "Squared Loss (L2).md",
+    "stuff/Pasted image 20231128152708.png",
+    "Cross Entropy.md",
+    "0-1 loss.md",
+    "stuff/Pasted image 20231128152608.png",
+    "TRUE ERROR.md",
+    "Types of error.md",
+    "stuff/Pasted image 20231128144247.png",
+    "stuff/Pasted image 20231128144107.png",
+    "TRUE.md",
+    "stuff/Pasted image 20231128143908.png",
+    "stuff/Pasted image 20231128140816.png",
+    "Assumtions.md",
+    "stuff/Pasted image 20231128140351.png",
+    "stuff/Pasted image 20231128140313.png",
+    "target labeling function.md",
     "Untitled",
     "K fold cross validation algo.canvas",
     "K-fold cross Validation.md",
@@ -294,7 +183,6 @@
     "Confusion matrix.md",
     "Support Vector Machines (SVM).md",
     "Embedding into feature Spaces.md",
-    "Hard-SVM.md",
     "Untitled.canvas",
     "stuff"
   ]
