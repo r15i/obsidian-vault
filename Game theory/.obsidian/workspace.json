@@ -8,30 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e72962d2bf874161",
+            "id": "9178bbfb897e8ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iterated elimination of strictly dominated strategies (IESDS).md",
+                "file": "Game.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58b94e2773d19642",
+            "id": "68a21f79ace2cb71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strictly Dominate strategy.md",
+                "file": "Strategy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b38de23afeb83077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nash Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f959c16f03f4368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nash Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb3ca28b3640851d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Price of Anarchy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iterated elimination of strictly dominated strategies (IESDS).md",
+                "file": "Nash Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iterated elimination of strictly dominated strategies (IESDS).md",
+                "file": "Nash Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iterated elimination of strictly dominated strategies (IESDS).md"
+                "file": "Nash Theorem.md"
               }
             }
           }
@@ -159,29 +196,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e72962d2bf874161",
+  "active": "b38de23afeb83077",
   "lastOpenFiles": [
-    "Pasted image 20231128192759.png",
+    "Nash Theorem.md",
+    "Kakutani’s Fixed Point Theorem.md",
+    "Pasted image 20231130215952.png",
+    "Brouwer’s Fixed Point Theorem.md",
+    "Pasted image 20231130215918.png",
+    "Pasted image 20231130215436.png",
+    "Beliefs.md",
+    "Strategy.md",
+    "Pasted image 20231130211335.png",
+    "simplex.md",
+    "Pasted image 20231130205714.png",
+    "Nash Equilibrium.md",
+    "indifference principle.md",
+    "Nash Equilibrium vs Pareto Efficiency.md",
+    "Price of Anarchy.md",
+    "Static Game of Complete Information.md",
+    "Game.md",
+    "Pasted image 20231130155210.png",
+    "unilateral change.md",
+    "Pasted image 20231130154235.png",
+    "stuff/Pasted image 20231128192759.png",
+    "stuff/Pasted image 20231128185418.png",
+    "Decision Problem.md",
+    "Outcomes.md",
+    "Complete Information.md",
+    "Common Knowledge.md",
+    "Actions.md",
+    "stuff/matrix example.png",
     "Strictly Dominate strategy.md",
     "Iterated elimination of strictly dominated strategies (IESDS).md",
-    "Pasted image 20231128191017.png",
-    "Pasted image 20231128190104.png",
-    "Pasted image 20231128185418.png",
-    "Strategy.md",
-    "Actions.md",
-    "Static Game of Complete Information.md",
     "Preferences.md",
     "Pareto Efficiency.md",
     "Pareto Dominated.md",
     "Matrix.md",
-    "Game.md",
-    "stuff/matrix example.png",
     "stuff",
-    "Decision Problem.md",
-    "Common Knowledge.md",
-    "Complete Information.md",
-    "Static.md",
-    "Utility function.md",
-    "Rational.md"
+    "Static.md"
   ]
 }

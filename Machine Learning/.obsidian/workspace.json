@@ -4,20 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "5959840f2f5d9ced",
+        "id": "4fbba1e8eaa3004f",
         "type": "tabs",
         "children": [
           {
-            "id": "3673f490c9cb10c2",
+            "id": "4363e90df21e6f67",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "44a1c62b2a884c70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "stuff/Pasted image 20231124151554.png"
+                "file": "Gradient Descent (GD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93887827510bb8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Gradient Descent ( SGD ).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7384faddb28364d3",
@@ -83,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stuff/Pasted image 20231124151554.png",
+                "file": "Stochastic Gradient Descent ( SGD ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stuff/Pasted image 20231124151554.png",
+                "file": "Stochastic Gradient Descent ( SGD ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stuff/Pasted image 20231124151554.png"
+                "file": "Stochastic Gradient Descent ( SGD ).md"
               }
             }
           }
@@ -144,10 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3673f490c9cb10c2",
+  "active": "93887827510bb8e3",
   "lastOpenFiles": [
-    "stuff/Pasted image 20231128153141.png",
+    "Error Decomposition.md",
+    "Stochastic Gradient Descent ( SGD ).md",
+    "Pasted image 20231201115433.png",
+    "Risk Minimization (ERM).md",
+    "Gradient Descent (GD).md",
+    "Neural Networks (NN).md",
+    "Regularized Loss minimization (RLM).md",
+    "Pasted image 20231201114310.png",
+    "Pasted image 20231201114052.png",
+    "Pasted image 20231201113809.png",
+    "Pasted image 20231201113632.png",
+    "Pasted image 20231201112859.png",
+    "Gradient of a Convex function.md",
+    "Pasted image 20231201112542.png",
+    "Pasted image 20231201112307.png",
+    "Multiclass classification.md",
     "Absolute value loss (L1).md",
+    "stuff/Pasted image 20231124151554.png",
+    "stuff/Pasted image 20231128153141.png",
     "Bayes Optimal Predictor.md",
     "Learning problems.md",
     "Uniform Convergence.md",
@@ -158,31 +199,15 @@
     "Realizability Assumption.md",
     "VC-dimension.md",
     "Loss Function.md",
-    "stuff/Pasted image 20231128152833.png",
     "Squared Loss (L2).md",
-    "stuff/Pasted image 20231128152708.png",
     "Cross Entropy.md",
     "0-1 loss.md",
-    "stuff/Pasted image 20231128152608.png",
     "TRUE ERROR.md",
     "Types of error.md",
-    "stuff/Pasted image 20231128144247.png",
-    "stuff/Pasted image 20231128144107.png",
     "TRUE.md",
-    "stuff/Pasted image 20231128143908.png",
-    "stuff/Pasted image 20231128140816.png",
     "Assumtions.md",
-    "stuff/Pasted image 20231128140351.png",
-    "stuff/Pasted image 20231128140313.png",
-    "target labeling function.md",
     "Untitled",
     "K fold cross validation algo.canvas",
-    "K-fold cross Validation.md",
-    "Kernel-based learning.md",
-    "Failed Learning.md",
-    "Confusion matrix.md",
-    "Support Vector Machines (SVM).md",
-    "Embedding into feature Spaces.md",
     "Untitled.canvas",
     "stuff"
   ]

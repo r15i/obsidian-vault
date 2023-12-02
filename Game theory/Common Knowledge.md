@@ -1,7 +1,7 @@
 
 An information $E$ is common knowledge if :
 
-- evrybody knows $E$ 
+- everybody knows $E$ 
 
 - everybody knows that everybody knows that $E$
 

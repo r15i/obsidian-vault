@@ -35,9 +35,43 @@
             "id": "4bdaaa51e2fbfa3f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "stuff/Pasted image 20231130102316.png"
+              }
+            }
+          },
+          {
+            "id": "57e5b3f7f531d8ac",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Architectures.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5412c6dd0ed7eb4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frame.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae0c08e42ce0db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +83,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Devices.md",
+                "file": "Packet-switched network (PS).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f74e69f5439a5d89",
@@ -122,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network Devices.md",
+                "file": "Frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network Devices.md",
+                "file": "Frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network Devices.md"
+                "file": "Frame.md"
               }
             }
           }
@@ -183,36 +218,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3db384ff97a2904",
+  "active": "5412c6dd0ed7eb4f",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Network Devices.md",
+    "Data Link layer(DLL).md",
+    "Frame.md",
+    "Pasted image 20231201184040.png",
+    "Pasted image 20231201183354.png",
+    "ISO OSI MODEL.md",
+    "Physical layer.md",
+    "Transport Layer.md",
+    "Session Layer.md",
+    "Network layer.md",
+    "Protocols.md",
+    "Pasted image 20231201182711.png",
+    "Encapsulation.md",
+    "Service Data Unit (SDU).md",
+    "Protocol Data Unit (PDU).md",
+    "Pasted image 20231201181852.png",
+    "Pasted image 20231201181351.png",
+    "Pasted image 20231201181254.png",
+    "Untitled.md",
+    "stuff/Pasted image 20231130102316.png",
+    "Network.md",
     "Network Architectures.md",
-    "Network Topology.md",
+    "Packet-switched network (PS).md",
+    "stuff/Pasted image 20231201180733.png",
+    "stuff/Pasted image 20231201180650.png",
+    "stuff/Pasted image 20231201180422.png",
+    "Switch.md",
+    "Circuit-switched network (CS).md",
+    "Network Devices.md",
+    "Routers.md",
     "Performance Analysis.md",
-    "Pasted image 20231128230039.png",
-    "Pasted image 20231128225954.png",
-    "Pasted image 20231128225914.png",
-    "Pasted image 20231128225837.png",
+    "Bridge.md",
+    "Mac address.md",
+    "Hub.md",
+    "Network Topology.md",
     "Transmission Medium.md",
     "Network scope.md",
-    "Pipe Capacity metrics.md",
-    "Delay metrics.md",
-    "Traffic metrics.md",
-    "Reliability metrics.md",
-    "Pasted image 20231128224114.png",
-    "stuff/Pasted image 20231121185953.png",
     "stuff",
-    "stuff/Pasted image 20231128222608.png",
-    "SDU.md",
-    "PDU.md",
-    "stuff/Pasted image 20231121190507.png",
     "Internet/Performance Analysis/stuff",
-    "TEST.md",
     "Internet/Performance Analysis",
-    "Internet/Types of analysis/Delay metrics.md",
     "Internet/Types of analysis",
-    "Internet/Types of analysis/Risk metrics.md",
     "Senza nome.canvas",
     "Internet/Performance analysis",
     "Internet"
