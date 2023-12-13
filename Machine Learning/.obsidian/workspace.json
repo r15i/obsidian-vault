@@ -8,39 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4363e90df21e6f67",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "44a1c62b2a884c70",
+            "id": "93887827510bb8e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient Descent (GD).md",
+                "file": "Embedding into feature Spaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93887827510bb8e3",
+            "id": "3ba4beb7808a784b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "965413a43b9a792c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Gradient Descent ( SGD ).md",
+                "file": "Linkage-based clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7384faddb28364d3",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Gradient Descent ( SGD ).md",
+                "file": "Embedding into feature Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Gradient Descent ( SGD ).md",
+                "file": "Embedding into feature Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Gradient Descent ( SGD ).md"
+                "file": "Embedding into feature Spaces.md"
               }
             }
           }
@@ -168,44 +167,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93887827510bb8e3",
+  "active": "3ba4beb7808a784b",
   "lastOpenFiles": [
-    "Error Decomposition.md",
-    "Stochastic Gradient Descent ( SGD ).md",
-    "Pasted image 20231201115433.png",
-    "Risk Minimization (ERM).md",
-    "Gradient Descent (GD).md",
+    "Linkage-based clustering.md",
+    "K-means.md",
+    "Embedding into feature Spaces.md",
+    "Supervised Learning.md",
     "Neural Networks (NN).md",
+    "Machine Learning.md",
+    "PAC learning.md",
+    "Soft-SVM.md",
+    "stuff/Pasted image 20231209133242.png",
+    "Model selection and Validation.md",
+    "Gradient Descent (GD).md",
+    "Unsupervised learning.md",
+    "stuff/Pasted image 20231209154347.png",
+    "stuff/Pasted image 20231209154321.png",
+    "stuff/Pasted image 20231209154033.png",
+    "stuff/Pasted image 20231209153952.png",
+    "stuff/Pasted image 20231209153856.png",
+    "single linkage.md",
+    "stuff/Pasted image 20231209153634.png",
+    "Clustering.md",
+    "stuff/Pasted image 20231209153113.png",
+    "stuff/Pasted image 20231209153041.png",
+    "stuff/Pasted image 20231209152558.png",
+    "Triangle inequality.md",
+    "Principal Component Analysis (PCA).md",
+    "Learning problems.md",
+    "Kernel-based learning.md",
+    "Stochastic Gradient Descent ( SGD ).md",
+    "Error Decomposition.md",
+    "Risk Minimization (ERM).md",
     "Regularized Loss minimization (RLM).md",
-    "Pasted image 20231201114310.png",
-    "Pasted image 20231201114052.png",
-    "Pasted image 20231201113809.png",
-    "Pasted image 20231201113632.png",
-    "Pasted image 20231201112859.png",
     "Gradient of a Convex function.md",
-    "Pasted image 20231201112542.png",
-    "Pasted image 20231201112307.png",
     "Multiclass classification.md",
     "Absolute value loss (L1).md",
-    "stuff/Pasted image 20231124151554.png",
-    "stuff/Pasted image 20231128153141.png",
     "Bayes Optimal Predictor.md",
-    "Learning problems.md",
     "Uniform Convergence.md",
-    "PAC learning.md",
-    "EMPIRICAL ERROR.md",
-    "Assumption Binary classification.md",
-    "Assumptions on f.md",
-    "Realizability Assumption.md",
-    "VC-dimension.md",
-    "Loss Function.md",
-    "Squared Loss (L2).md",
-    "Cross Entropy.md",
-    "0-1 loss.md",
-    "TRUE ERROR.md",
-    "Types of error.md",
-    "TRUE.md",
-    "Assumtions.md",
     "Untitled",
     "K fold cross validation algo.canvas",
     "Untitled.canvas",

@@ -1,0 +1,1 @@
+command wich tells me the path that the packets take
