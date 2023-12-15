@@ -1,14 +1,14 @@
-# Firewall
-a firewall is a device(witch can be either physical i.e. a separate box on the network edge or logical), that implements access control between networks.
+## Firewall
 
-A typical usage of firewall is to protect information on a local trusted network 
-or Intranet,
+A firewall, whether physical (a separate network box) or logical (software-based), is a device that implements access control between networks.
 
-usually it also integrates a [[Network Address and Port Translation (Napt)]]
+### Typical Usage
 
-## Type of filters: for packets
+A common purpose of a firewall is to protect information on a local trusted network or Intranet. Additionally, firewalls often integrate [[Network Address and Port Translation (NAPT)]], allowing for better control and security.
 
-- Stateless 
-- Statefull 
+### Types of Filters for Packets
 
-An implementation a used implementation is the [[Linux Firewall]]
+- **Stateless**
+- **Stateful**
+
+An extensively used implementation is the [[Linux Firewall]].

@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat sheet lab/sniff packets on an interface(tcpdump).md",
+                "file": "cheat sheet lab/CheatSheet Lab.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "adf23c70e5164086",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat sheet lab/sniff packets on an interface(tcpdump).md",
+                "file": "cheat sheet lab/CheatSheet Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat sheet lab/sniff packets on an interface(tcpdump).md",
+                "file": "cheat sheet lab/CheatSheet Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat sheet lab/sniff packets on an interface(tcpdump).md"
+                "file": "cheat sheet lab/CheatSheet Lab.md"
               }
             }
           }
@@ -148,35 +156,34 @@
   },
   "active": "565d6300d29c6c90",
   "lastOpenFiles": [
-    "cheat sheet lab/traceroute.md",
-    "cheat sheet lab/Mangle Table.md",
-    "cheat sheet lab/Linux Firewall.md",
-    "cheat sheet lab/Filter Table.md",
     "cheat sheet lab/Kathara Physical setup(Phy level).md",
     "cheat sheet lab/CheatSheet Lab.md",
-    "cheat sheet lab/Local ip setup(ifconfig ).md",
-    "cheat sheet lab/Network setup(Logical part).md",
-    "cheat sheet lab/sniff packets on an interface(tcpdump).md",
-    "tags for lab.conf.md",
-    "cheat sheet lab/routing setup(route).md",
-    "cheat sheet lab/Maximum transfer unit (MTU).md",
-    "cheat sheet lab/ip setup.md",
-    "cheat sheet lab/Raw Table.md",
-    "cheat sheet lab/Nat Table.md",
     "cheat sheet lab/Firewalls.md",
+    "cheat sheet lab/Linux Firewall.md",
+    "cheat sheet lab/Mangle Table.md",
+    "cheat sheet lab/Nat Table.md",
+    "cheat sheet lab/Raw Table.md",
+    "cheat sheet lab/routing setup(route).md",
+    "cheat sheet lab/sniff packets on an interface(tcpdump).md",
+    "cheat sheet lab/traceroute.md",
+    "cheat sheet lab/Maximum transfer unit (MTU).md",
+    "cheat sheet lab/Local ip setup(ifconfig ).md",
+    "cheat sheet lab/Filter Table.md",
     "cheat sheet lab/iptables.md",
-    "cheat sheet lab/Network Address and Port Translation (Napt).md",
-    "cheat sheet lab",
+    "cheat sheet lab/ip setup.md",
+    "cheat sheet lab/Network setup(Logical part).md",
+    "stuff/Pasted image 20231206204003.png",
     "Untitled.md",
-    "Hub.md",
-    "Targets.md",
+    "Pasted_image_20231206204003.png.md",
     "Maching Criteria.md",
     "Rules Commands.md",
+    "ping.md",
+    "tags for lab.conf.md",
+    "cheat sheet lab/Network Address and Port Translation (Napt).md",
+    "cheat sheet lab",
+    "Hub.md",
+    "Targets.md",
     "stuff/Pasted image 20231201181254.png",
-    "stuff/Pasted image 20231206204003.png",
-    "Packet-switched network (PS).md",
-    "Protocols.md",
-    "Frame.md",
     "stuff/Pasted image 20231130102316.png",
     "stuff/Pasted image 20231201184040.png",
     "stuff/Pasted image 20231201183354.png",

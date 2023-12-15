@@ -1,9 +1,17 @@
-## Sniff packets on an interface 
+## Sniff Packets on an Interface
 
-**tcpdump**  -i  \<INTERFACE\>
+```bash
+tcpdump -i <INTERFACE> -w <PATH_TO_PCAP_FILE>
+```
 
-example:
-- **tcpdump**  -i **eth0** 
-	sniffs all the data on the interface eth0
+### Example:
+- Sniffing all data on the `eth0` interface and writing them to `/shared/test.pcap`:
+  ```bash
+  tcpdump -i eth0 -w /shared/test.pcap
+  ```
 
-#### sniff on eth0 and produces  a .pcap file  to load in wireshark
+This command captures network packets on the specified interface (`<INTERFACE>`) and saves them into a specified PCAP file (`<PATH_TO_PCAP_FILE>`).
+
+### Note: Background Tcpdump
+
+It's not ideal to run `tcpdump` in the background since halting it or saving data might not be straightforward.

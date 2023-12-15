@@ -1,31 +1,48 @@
+# The Linux Firewall
 
-# The Linux firewall
-[[iptables]] is a user-space tool that acts on the kernel-space counter parte
-[[Linux Firewall#NetFilter|NetFilter]] to implement a **stateful** packet filter with  [[Network Address and Port Translation (Napt)|Napt]]
+`iptables` is a user-space tool that interacts with the kernel-space counterpart [[NetFilter]] to establish a **stateful** packet filter incorporating [[Network Address and Port Translation (NAPT)]].
 
-## NetFilter 
-Structure on 2 levels:
-- ## Tables
- 4 tables each containing chains (some of them predefined):
- 1. [[Filter Table]]
- 2. [[Nat Table]]
- 3. [[Mangle Table]]
- 4. [[Raw Table]]
+## NetFilter Structure
 
-- each chain contains a list of rules, defining some matching criteria and a target
+NetFilter operates on two primary levels:
 
-## Path of the packets 
+### Tables
 
+There are four tables within NetFilter, each containing chains (some predefined):
+
+1. [[Filter Table]]
+2. [[Nat Table]]
+3. [[Mangle Table]]
+4. [[Raw Table]]
+### Chains
+
+There are five chains where rules are applied:
+
+1. PREROUTING
+2. FORWARD
+3. INPUT
+4. OUTPUT
+5. POSTROUTING
+
+Each chain contains a list of rules defining matching criteria and a target for packets.
+
+## Path of Packets
 ![[Pasted image 20231206204003.png]]
 
-when we arrive to routing we have to find out if it is for us or to forward
-and than it passes for the filters
 
-## Streams 
+After routing decisions, packets are directed to determine if they are destined for the local system or need forwarding. Subsequently, they pass through the defined filters.
+
+## Streams
+
 ### Input Stream Packets
+Packets entering the system.
+
 ### Output Stream Packets
+Packets leaving the system.
+
 ### Forward Stream Packets
+Packets being forwarded between interfaces on the system.
 
+---
 
-
-
+This explanation offers an overview of the Linux firewall, particularly focusing on `iptables` and its integration with NetFilter. It emphasizes the structure involving tables, chains, the path packets take through the system, and different packet streams that the firewall processes.

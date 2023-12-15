@@ -21,8 +21,10 @@ Kathara physical setup (collision domains)
 
 
 ## Share stuff between the host and the devices
-- /shared directory inside a device directly points to the /shared inside the lab
+- /shared directory inside a device directly points to the /shared inside the lab (useful for dumps)
 
+## Open explorer from termina
+xdg-open path tho open 
 
 [[Kathara Physical setup(Phy level)]]
 [[Network setup(Logical part)]]
