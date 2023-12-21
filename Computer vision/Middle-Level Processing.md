@@ -1,0 +1,5 @@
+   - Edge detection.
+   - Corner detection.
+   - Hough transform.
+   - Segmentation.
+   - Feature extraction, description, and matching.

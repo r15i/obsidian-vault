@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ec7394a9bdfe4b4",
+            "id": "cc9b6869b7f3981d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "stuff/Pasted image 20231220154300.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "stuff/Pasted image 20231220154300.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "stuff/Pasted image 20231220154300.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "stuff/Pasted image 20231220154300.png"
+              }
             }
           }
         ]
@@ -138,6 +144,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec7394a9bdfe4b4",
-  "lastOpenFiles": []
+  "active": "6a2b36c9ef27e5fe",
+  "lastOpenFiles": [
+    "stuff",
+    "Aperture.md",
+    "stuff/Pasted image 20231220161744.png",
+    "Real Cameras.md",
+    "Image Formation.md",
+    "Thin Lens Model.md",
+    "stuff/Pasted image 20231220161345.png",
+    "stuff/Pasted image 20231220161303.png",
+    "stuff/Pasted image 20231220161241.png",
+    "stuff/Pasted image 20231220161151.png",
+    "Visual Sensors.md",
+    "Bayer Filter.md",
+    "Mathematical Camera model.md",
+    "stuff/Pasted image 20231220160646.png",
+    "stuff/Pasted image 20231220160535.png",
+    "Field of View and Focal Distance.md",
+    "stuff/Pasted image 20231220160040.png",
+    "stuff/Pasted image 20231220155952.png",
+    "stuff/Pasted image 20231220155729.png",
+    "Homogeneous Coordinates.md",
+    "Parallelism.md",
+    "Untitled.md",
+    "High-Level Algorithms.md",
+    "Middle-Level Processing.md",
+    "Low-Level Image Processing Algorithms.md"
+  ]
 }

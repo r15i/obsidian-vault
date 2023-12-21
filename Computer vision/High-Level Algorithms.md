@@ -1,0 +1,3 @@
+   - Object detection and recognition.
+   - Viola and Jones algorithm.
+   - Deep learning architectures for image classification, object recognition, and semantic segmentation.

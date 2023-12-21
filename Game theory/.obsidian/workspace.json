@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9178bbfb897e8ef3",
+            "id": "3c92a4eadb03e7d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68a21f79ace2cb71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b38de23afeb83077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nash Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f959c16f03f4368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nash Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb3ca28b3640851d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Price of Anarchy.md",
+                "file": "Tree Map for Exam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nash Theorem.md",
+                "file": "Tree Map for Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nash Theorem.md",
+                "file": "Tree Map for Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nash Theorem.md"
+                "file": "Tree Map for Exam.md"
               }
             }
           }
@@ -196,43 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b38de23afeb83077",
+  "active": "3c92a4eadb03e7d9",
   "lastOpenFiles": [
-    "Nash Theorem.md",
-    "Kakutani’s Fixed Point Theorem.md",
-    "Pasted image 20231130215952.png",
-    "Brouwer’s Fixed Point Theorem.md",
-    "Pasted image 20231130215918.png",
-    "Pasted image 20231130215436.png",
-    "Beliefs.md",
-    "Strategy.md",
-    "Pasted image 20231130211335.png",
-    "simplex.md",
-    "Pasted image 20231130205714.png",
-    "Nash Equilibrium.md",
-    "indifference principle.md",
-    "Nash Equilibrium vs Pareto Efficiency.md",
+    "Bayesian games.md",
+    "Static Bayesian game.md",
+    "Pasted image 20231219145356.png",
+    "Pasted image 20231219144844.png",
+    "types.md",
+    "incomplete information.md",
+    "Tree Map for Exam.md",
+    "Dynamic Game of Complete Information.md",
+    "Pasted image 20231219141211.png",
+    "Pasted image 20231219141131.png",
+    "Pasted image 20231219141106.png",
+    "Pasted image 20231219141002.png",
+    "Pasted image 20231219134901.png",
+    "Pasted image 20231219134737.png",
+    "Pasted image 20231218224059.png",
+    "Pasted image 20231218224016.png",
+    "normal form.md",
+    "Contradictory discounting.md",
+    "Stackelberg games.md",
+    "Perfect Information.md",
     "Price of Anarchy.md",
-    "Static Game of Complete Information.md",
-    "Game.md",
-    "Pasted image 20231130155210.png",
-    "unilateral change.md",
-    "Pasted image 20231130154235.png",
-    "stuff/Pasted image 20231128192759.png",
-    "stuff/Pasted image 20231128185418.png",
-    "Decision Problem.md",
-    "Outcomes.md",
-    "Complete Information.md",
-    "Common Knowledge.md",
-    "Actions.md",
-    "stuff/matrix example.png",
-    "Strictly Dominate strategy.md",
     "Iterated elimination of strictly dominated strategies (IESDS).md",
-    "Preferences.md",
-    "Pareto Efficiency.md",
-    "Pareto Dominated.md",
-    "Matrix.md",
-    "stuff",
-    "Static.md"
+    "Information Set.md",
+    "indifference principle.md",
+    "Imperfect Information.md",
+    "Game.md",
+    "extensive form.md",
+    "Minmax And Maximin.md",
+    "Linear Programming.md",
+    "Competitive or adversarial games.md",
+    "Zero Sum Games.md",
+    "Sequential games.md",
+    "Subgame-perfect Nash Equilibrium (SPE).md",
+    "credibility of threats.md",
+    "Sub-game-perfect.md",
+    "Sub-game.md",
+    "stuff"
   ]
 }

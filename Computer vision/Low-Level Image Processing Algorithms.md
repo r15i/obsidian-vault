@@ -1,0 +1,3 @@
+   - Linear, bilateral, median filters.
+   - Histograms.
+   - Fourier domain processing.

@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedding into feature Spaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ba4beb7808a784b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "965413a43b9a792c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linkage-based clustering.md",
+                "file": "Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7384faddb28364d3",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedding into feature Spaces.md",
+                "file": "Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedding into feature Spaces.md",
+                "file": "Convolutional Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedding into feature Spaces.md"
+                "file": "Convolutional Neural Networks.md"
               }
             }
           }
@@ -167,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba4beb7808a784b",
+  "active": "93887827510bb8e3",
   "lastOpenFiles": [
-    "Linkage-based clustering.md",
-    "K-means.md",
-    "Embedding into feature Spaces.md",
-    "Supervised Learning.md",
+    "Pasted image 20231220180924.png",
     "Neural Networks (NN).md",
+    "Pasted image 20231220180904.png",
+    "Convolutional Neural Networks.md",
+    "Linkage-based clustering.md",
+    "Deep Networks.md",
+    "Embedding into feature Spaces.md",
+    "Support Vector Machines (SVM).md",
+    "stuff/Pasted image 20231220180248.png",
+    "stuff/Pasted image 20231220163501.png",
+    "stuff/Pasted image 20231220164119.png",
+    "stuff/Pasted image 20231220175856.png",
+    "stuff/Pasted image 20231220175627.png",
+    "Feedforward Neural Networks.md",
+    "Backward Propagation.md",
+    "stuff/Pasted image 20231220175129.png",
+    "stuff/Pasted image 20231220175057.png",
+    "stuff/Pasted image 20231220174855.png",
+    "stuff/Pasted image 20231220174834.png",
+    "Activation Function.md",
+    "Untitled.md",
+    "K-means.md",
+    "Supervised Learning.md",
     "Machine Learning.md",
     "PAC learning.md",
     "Soft-SVM.md",
-    "stuff/Pasted image 20231209133242.png",
     "Model selection and Validation.md",
     "Gradient Descent (GD).md",
     "Unsupervised learning.md",
-    "stuff/Pasted image 20231209154347.png",
-    "stuff/Pasted image 20231209154321.png",
-    "stuff/Pasted image 20231209154033.png",
-    "stuff/Pasted image 20231209153952.png",
-    "stuff/Pasted image 20231209153856.png",
     "single linkage.md",
-    "stuff/Pasted image 20231209153634.png",
     "Clustering.md",
-    "stuff/Pasted image 20231209153113.png",
-    "stuff/Pasted image 20231209153041.png",
-    "stuff/Pasted image 20231209152558.png",
     "Triangle inequality.md",
     "Principal Component Analysis (PCA).md",
     "Learning problems.md",
     "Kernel-based learning.md",
     "Stochastic Gradient Descent ( SGD ).md",
-    "Error Decomposition.md",
-    "Risk Minimization (ERM).md",
-    "Regularized Loss minimization (RLM).md",
-    "Gradient of a Convex function.md",
-    "Multiclass classification.md",
-    "Absolute value loss (L1).md",
-    "Bayes Optimal Predictor.md",
-    "Uniform Convergence.md",
     "Untitled",
     "K fold cross validation algo.canvas",
     "Untitled.canvas",
