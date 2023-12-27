@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree Map for Exam.md",
+                "file": "Minmax And Maximin.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree Map for Exam.md",
+                "file": "Minmax And Maximin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree Map for Exam.md",
+                "file": "Minmax And Maximin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree Map for Exam.md"
+                "file": "Minmax And Maximin.md"
               }
             }
           }
@@ -149,13 +149,17 @@
   },
   "active": "3c92a4eadb03e7d9",
   "lastOpenFiles": [
+    "Zero Sum Games.md",
+    "Minmax And Maximin.md",
+    "Tree Map for Exam.md",
+    "Common Games.md",
+    "Lotteries.md",
     "Bayesian games.md",
     "Static Bayesian game.md",
     "Pasted image 20231219145356.png",
     "Pasted image 20231219144844.png",
     "types.md",
     "incomplete information.md",
-    "Tree Map for Exam.md",
     "Dynamic Game of Complete Information.md",
     "Pasted image 20231219141211.png",
     "Pasted image 20231219141131.png",
@@ -176,15 +180,11 @@
     "Imperfect Information.md",
     "Game.md",
     "extensive form.md",
-    "Minmax And Maximin.md",
     "Linear Programming.md",
     "Competitive or adversarial games.md",
-    "Zero Sum Games.md",
     "Sequential games.md",
     "Subgame-perfect Nash Equilibrium (SPE).md",
     "credibility of threats.md",
-    "Sub-game-perfect.md",
-    "Sub-game.md",
     "stuff"
   ]
 }

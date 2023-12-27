@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat sheet lab/CheatSheet Lab.md",
+                "file": "Framing.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "adf23c70e5164086",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat sheet lab/CheatSheet Lab.md",
+                "file": "Framing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat sheet lab/CheatSheet Lab.md",
+                "file": "Framing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat sheet lab/CheatSheet Lab.md"
+                "file": "Framing.md"
               }
             }
           }
@@ -157,8 +149,23 @@
   },
   "active": "565d6300d29c6c90",
   "lastOpenFiles": [
-    "cheat sheet lab/Kathara Physical setup(Phy level).md",
+    "Pasted image 20231222144013.png",
+    "Data Link layer(DLL).md",
+    "Framing.md",
+    "Frame.md",
+    "Pasted image 20231222133402.png",
+    "Pasted image 20231222133335.png",
+    "Pasted image 20231222132224.png",
+    "Pasted image 20231222132206.png",
+    "Pasted image 20231222124717.png",
+    "Pasted image 20231222123828.png",
+    "Pasted image 20231222122513.png",
+    "Pasted image 20231222115913.png",
+    "Pasted image 20231222115347.png",
+    "ISO OSI MODEL.md",
+    "Circuit-switched network (CS).md",
     "cheat sheet lab/CheatSheet Lab.md",
+    "cheat sheet lab/Kathara Physical setup(Phy level).md",
     "cheat sheet lab/Firewalls.md",
     "cheat sheet lab/Linux Firewall.md",
     "cheat sheet lab/Mangle Table.md",
@@ -178,21 +185,7 @@
     "Pasted_image_20231206204003.png.md",
     "Maching Criteria.md",
     "Rules Commands.md",
-    "ping.md",
-    "tags for lab.conf.md",
-    "cheat sheet lab/Network Address and Port Translation (Napt).md",
     "cheat sheet lab",
-    "Hub.md",
-    "Targets.md",
-    "stuff/Pasted image 20231201181254.png",
-    "stuff/Pasted image 20231130102316.png",
-    "stuff/Pasted image 20231201184040.png",
-    "stuff/Pasted image 20231201183354.png",
-    "stuff/Pasted image 20231201182711.png",
-    "stuff/Pasted image 20231201181852.png",
-    "stuff/Pasted image 20231201181351.png",
-    "stuff/Pasted image 20231201180733.png",
-    "stuff/Pasted image 20231201180650.png",
     "stuff",
     "Internet/Performance Analysis/stuff",
     "Internet/Performance Analysis",

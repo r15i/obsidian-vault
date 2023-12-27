@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional Neural Networks.md",
+                "file": "Neural Networks (NN).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutional Neural Networks.md",
+                "file": "Neural Networks (NN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolutional Neural Networks.md",
+                "file": "Neural Networks (NN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolutional Neural Networks.md"
+                "file": "Neural Networks (NN).md"
               }
             }
           }
@@ -149,12 +149,23 @@
   },
   "active": "93887827510bb8e3",
   "lastOpenFiles": [
-    "Pasted image 20231220180924.png",
+    "Feedforward Neural Networks.md",
     "Neural Networks (NN).md",
-    "Pasted image 20231220180904.png",
-    "Convolutional Neural Networks.md",
-    "Linkage-based clustering.md",
+    "Backward Propagation.md",
+    "Pasted image 20231221145757.png",
+    "Stochastic Gradient Descent ( SGD ).md",
     "Deep Networks.md",
+    "Bayes Optimal Predictor.md",
+    "Tree for the exam.md",
+    "stuff/Pasted image 20231220180904.png",
+    "0-1 loss.md",
+    "Clustering.md",
+    "Unsupervised learning.md",
+    "Principal Component Analysis (PCA).md",
+    "VC-dimension.md",
+    "Convolutional Neural Networks.md",
+    "stuff/Pasted image 20231220180924.png",
+    "Linkage-based clustering.md",
     "Embedding into feature Spaces.md",
     "Support Vector Machines (SVM).md",
     "stuff/Pasted image 20231220180248.png",
@@ -162,14 +173,9 @@
     "stuff/Pasted image 20231220164119.png",
     "stuff/Pasted image 20231220175856.png",
     "stuff/Pasted image 20231220175627.png",
-    "Feedforward Neural Networks.md",
-    "Backward Propagation.md",
     "stuff/Pasted image 20231220175129.png",
     "stuff/Pasted image 20231220175057.png",
-    "stuff/Pasted image 20231220174855.png",
-    "stuff/Pasted image 20231220174834.png",
     "Activation Function.md",
-    "Untitled.md",
     "K-means.md",
     "Supervised Learning.md",
     "Machine Learning.md",
@@ -177,14 +183,7 @@
     "Soft-SVM.md",
     "Model selection and Validation.md",
     "Gradient Descent (GD).md",
-    "Unsupervised learning.md",
     "single linkage.md",
-    "Clustering.md",
-    "Triangle inequality.md",
-    "Principal Component Analysis (PCA).md",
-    "Learning problems.md",
-    "Kernel-based learning.md",
-    "Stochastic Gradient Descent ( SGD ).md",
     "Untitled",
     "K fold cross validation algo.canvas",
     "Untitled.canvas",
