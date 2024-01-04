@@ -1,0 +1,1 @@
+normal distribution with variance inversely proportional to the sum of the number of incoming and out coming connection of the neuron 

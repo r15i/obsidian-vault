@@ -88,11 +88,32 @@ basically what can i model with this kind of algos (spoiler binary level lot)
 
 # The NN training algoritm 
 **It's a combination of BackPropagation algorithm with SGD**
-![[Pasted image 20231220175627.png]]
+## F&B training NN
+- input 
+	$w^{(t)}_{ij}$ $\forall i,j,t$ which are all the weigts from neuron i in t-1 to neuron j in t
+- Algorithm 
+	for $s$ till convergence:
+		- pick $(x_k,y_k)$ random from the training data
+		- compute $v_{t,j}$ $\forall j,t$ with [[Neural Networks (NN)#Forward Propagation|forward propagation]] 
+		   witch gives the last layer
+		- compute $\delta^{(t)}_j$ $\forall j,t$ with [[Neural Networks (NN)#Back propagation|back propagation]]  wich gives us the error from the first layer for each layer
+		- Update the weights reaching the current layer as [[Stochastic Gradient Descent ( SGD )|SGD]] 
+	
+			$w^{(t)[s+1]}_{ij} = w^{(t)[s]}_{ij} - \eta v_{t-1,i}\delta_j^{(t)}$
+	if converged then return $w^{(t)[s]}_{ij}$  $\forall i,j,t$
+	
+![[Pasted image 20231229152039.png]]
+
 ##### Details :
 1. Pre-processing : Typically, all inputs are normalized and centered in 0 and both local or global normalization stratigies
 2. Initialization of the weights 
-	![[Pasted image 20231220175856.png]]
+	- 0 will not work (0 activation)
+	- random values around 0 (here is mostly linear)
+	- uniform or normal distribution can be used
+	- multiple initialization and tranings can be used to bruteforce a lower error
+	- for [[Deep Networks]] we have [[Glorot]] inizialization
+	
+ 	
 ## [[Stochastic Gradient Descent ( SGD )]] for Neural Networks
 Handles the way we update the weights
 #### [[Stochastic Gradient Descent ( SGD )|SGD]] Algorithm for NN
@@ -108,7 +129,7 @@ Handles the way we update the weights
 	 choose $w^{[1]}\in R^{[E]}$ at random
 	 for s in range($\tau$):
 		 sample $(x,y) \sim D$ (prendi un sample dai dati)
-		 calculate the gradient $\nu_s$ = [[Backward Propagation|backpropagation]]$(x,y,w,(V,E),\sigma)$
+		 calculate the gradient $\nu_s$ = [[Neural Networks (NN)#Back propagation|backpropagation]]$(x,y,w,(V,E),\sigma)$
 		 **update $w^{[s+1]} =w^{[s]}-\eta_s(v_s+\lambda w^{[s]})$ (lambda is for regularization)**
 - Output
 	 $\bar w$ is the best performing  $w^{[s]}$ on the validation set
@@ -117,7 +138,10 @@ Handles the way we update the weights
 ![[Pasted image 20231220174751.png]]
 
 - $w^{[s+1]} =w^{[s]}-\eta_s(v_s+\lambda w^{[s]})$ (lambda is for regularization)
-- $w_{ij}^{(t)[s+1]} = w_{ij}^{(t)[s]}-\eta_s \frac{\partial L_s}{\partial  w_{ij}^{(t)[s]}}$ 
+- $w_{ij}^{(t)[s+1]} = w_{ij}^{(t)[s]}-\eta_s \frac{\partial L_s}{\partial  w_{ij}^{(t)[s]}}$ (TO NOTE IN RESPECT TO EACH WEIGHT)
+- $\frac{\partial L_s}{\partial  w} = \frac{\partial}{\partial  w}(\frac{1}{m} \sum_{i=1}^{m} l(h,(x_i,y_i)) =\frac{1}{m} \sum_{i=1}^{m} \frac{\partial L(h(x_i,y_i))}{\partial w}$  
+- $\delta^{(t)}=\frac{\partial L}{\partial  a^{(t)}}$  is the change in error w.r.t. to the weighted average before the non linear transformation 
+TO NOTE we can compute the loss only on the last layer (since we have a way to understand if it is right or not)
 
  [[Feedforward Neural Networks#Forward Propagation|Forward Propagation ]](**A neural network using Forward Propagation is sad [[Feedforward Neural Networks]]**)
 ## Back propagation
@@ -125,6 +149,7 @@ Handles the way we update the weights
 ![[Pasted image 20231220174834.png]]
 ![[Pasted image 20231220174855.png]]![[Pasted image 20231220175057.png]]
 
+![[Pasted image 20231229150613.png]]
 #### Complete algo back prop
 ![[Pasted image 20231220175129.png]]
 #### ENDPOINT:
@@ -142,13 +167,17 @@ NOTE: **Loss function usually has multiple local minima**
 
 
 # Issues with this model neural network
-![[Pasted image 20231220180904.png]]
+Issues with Fully connected [[Neural Networks (NN)#Feed forward network|feed forward]]:
+- each neuron of layer t-1 connected with each neuron of layer t
+	**exponential and huge number of edges/weights (quadratic w.r.t. the number of neurons in each layer)
+- The domain structure is not taken into account
+	- the model does not consider that a neuron can be "closer" (more related) to some neurons and less to others
+	- some domains have a structure
+		ex, a grid of pixels in an image, the sequece of samples of an audio signal, the letters of a workd in a text 
+		**need a way to rappresent that "near" data is related"
+	
+	- interesting features are often local, shift-invariant and deformation-invariant
+	- by simply placing data in a vector we have a loss of spatial or temporal strucure
+	- 
 [[Convolutional Neural Networks]] try to solve these problems
 
-
-
-
-
-### Types of propagation in NN 
-
-- [[Backward Propagation]]

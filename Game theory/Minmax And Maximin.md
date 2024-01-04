@@ -1,21 +1,31 @@
 Optimization approach to game theory
-
 # Maximin
+
 Considering a 2 player game (i vs -i)
 we define $f_i:S_i \rightarrow R$ as $f_i(s_i)= min_{s_{-i}\in S_{-i}} u_i(s_i,s_{-i})$ 
-
 $s_i^*=arg\,max_{s_{-i}\in S_{-i}} f_i(s_i)$ is a *SECURITY STRATEGY* (AKA maximinimizer) for i (and may be not be unique)
-
 We say that
-## $w_i=max_{s_{-i}\in S_{-i}}min_{s_{-i}\in S_{-i}} u_i(s_i,s_{-i})$
+### $w_i=max_{s_{-i}\in S_{-i}}min_{s_{-i}\in S_{-i}} u_i(s_i,s_{-i})$
+
 is the maximin of the security payoff of $i$
 
+## Security strategyj
 **A security strategy is a conservative approach allowing i to achieve the highest payoff in case of the worst move by -i**
+### iterated process
+1. find the minimum (across the strategy of my opponent) 
+2. between the minima choose the maxima 
+
 # Minimax
+
+
 Similarly:
 $F_i:S_{-i}\rightarrow R$ as $F_i(s_{-i})=max_{s_{-i}\in S_{-i}}min_{s_{-i}}u_i(s_i,s_{-i})$ is called the **minimax** for player i 
 IDEA: if i could move after -i , the minimax would be the minimum payoff wich is guaranteed to player i.
 
+## Securit
+### iterated process
+1. find the maximum payoff **of my opponent** (across my strategy) 
+2. between these maxima choose the minima
 ## Notes:
 - if we have a [[Nash Equilibrium]] $minimax_i$ = $maxmin_i$ = $u_i(s_i,s_{-i})$  point of equilibria 
 
