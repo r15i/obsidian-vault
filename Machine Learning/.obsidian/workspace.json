@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional Neural Networks.md",
+                "file": "PAC learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutional Neural Networks.md",
+                "file": "PAC learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolutional Neural Networks.md",
+                "file": "PAC learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolutional Neural Networks.md"
+                "file": "PAC learning.md"
               }
             }
           },
@@ -158,43 +158,43 @@
   },
   "active": "93887827510bb8e3",
   "lastOpenFiles": [
+    "True Error.md",
+    "PAC learning.md",
+    "Supervised Learning.md",
+    "Empirical Risk Minimization (ERM).md",
+    "Empirical Error.md",
+    "Pasted image 20240105224149.png",
+    "Hypothesis Class.md",
+    "Machine Learning.md",
+    "Error.md",
+    "Empirical Risk Minimization.md",
+    "Pasted image 20240105215841.png",
+    "Error Decomposition.md",
+    "Pasted image 20240105215553.png",
+    "Pasted image 20240105215334.png",
+    "Pasted image 20240105213838.png",
+    "Pasted image 20240105213323.png",
+    "Tree for the exam.md",
+    "Convolutional Neural Networks.md",
     "Pasted image 20231229163751.png",
     "Pasted image 20231229163534.png",
     "Pasted image 20231229154018.png",
     "Pasted image 20231229153611.png",
-    "Pasted image 20231229153328.png",
     "Neural Networks (NN).md",
-    "Convolutional Neural Networks.md",
     "Feedforward Neural Networks.md",
     "Backward Propagation.md",
-    "Pasted image 20231229152039.png",
-    "Pasted image 20231229150613.png",
     "Glorot.md",
-    "stuff/Pasted image 20231220175627.png",
     "Stochastic Gradient Descent ( SGD ).md",
     "VC-dimension.md",
     "Assumption Binary classification.md",
-    "stuff/Pasted image 20231124151159.png",
-    "stuff/Pasted image 20231124151554.png",
-    "stuff/Pasted image 20231124151929.png",
-    "Error Decomposition.md",
     "Regularized Loss minimization (RLM).md",
     "test",
     "Deep Networks.md",
     "Bayes Optimal Predictor.md",
-    "Tree for the exam.md",
     "0-1 loss.md",
     "Clustering.md",
     "Unsupervised learning.md",
     "Principal Component Analysis (PCA).md",
-    "Linkage-based clustering.md",
-    "Embedding into feature Spaces.md",
-    "Support Vector Machines (SVM).md",
-    "Activation Function.md",
-    "K-means.md",
-    "Supervised Learning.md",
-    "Machine Learning.md",
-    "PAC learning.md",
     "K fold cross validation algo.canvas",
     "Untitled.canvas",
     "stuff"

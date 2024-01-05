@@ -9,9 +9,9 @@ faster but nosier
 
 # Application of SGD
 
-# 1. [[Risk Minimization (ERM)|Risk minimization]]
+# 1. [[Empirical Risk Minimization (ERM)|Risk minimization]]
 ![[Pasted image 20231201115433.png]]
-	Minimize [[TRUE ERROR]] $L_{D}$ directly 
+	Minimize [[True Error]] $L_{D}$ directly 
 	find an ubiased estimate of the gradient of $L_{D}$
 	
 

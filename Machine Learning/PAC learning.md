@@ -2,10 +2,11 @@
 
 Since the training data is sampled accordingly to $D$
 we can only be:
-- **approximately** :  accuracy parameter $L_{D,f}(h_{s})\leq \epsilon$ 
- - **probably** :  confidence parameter , 
-			$h_s$ is a good hypothesis with probability  $\geq 1-\delta$	 
-**correct**
+- **approximately** correct
+- **probably** correct
+and we measure this 2 aspect with 
+- an   **accuracy** parameter $\epsilon$  such that the [[True Error]]  to be $L_{D,f}(h_{s})\leq \epsilon$ 
+ - a **confidence parameter** $\delta$ that measure the probability $h_s$ (hypotesis of traing set s ) of beeing a good hypothesis with probability  $\geq 1-\delta$ 	
 ## Finite Hypothesis Classes are PAC Learnable
 ![[Pasted image 20231128133730.png]]
 

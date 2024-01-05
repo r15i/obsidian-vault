@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ead1af47d62abc4",
+        "id": "ee6975ce9b052a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "565d6300d29c6c90",
+            "id": "47ff92684a9e9ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framing.md",
+                "file": "Tree Map for exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framing.md",
+                "file": "Tree Map for exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framing.md",
+                "file": "Tree Map for exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framing.md"
+                "file": "Tree Map for exam.md"
               }
             }
           }
@@ -146,44 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "565d6300d29c6c90",
+  "active": "47ff92684a9e9ffd",
   "lastOpenFiles": [
-    "Pasted image 20231222144013.png",
+    "Network Architectures.md",
+    "Tree Map for exam.md",
+    "Performance Analysis.md",
+    "Channelization.md",
+    "Pasted image 20240105162513.png",
+    "Medium Access Control (MAC).md",
+    "Controlled Access.md",
+    "Random Access.md",
+    "Ethernet.md",
+    "Carrier sense multiple access (CSMA).md",
+    "Pasted image 20240105161919.png",
+    "Pasted image 20240105161901.png",
+    "Pasted image 20240105161809.png",
+    "Slotted Aloha.md",
+    "Pasted image 20240105161121.png",
+    "Aloha.md",
+    "Pasted image 20240105161008.png",
+    "Pasted image 20240105155431.png",
+    "Pasted image 20240105155224.png",
+    "Pasted image 20240105155105.png",
     "Data Link layer(DLL).md",
+    "Automatic Repeat reQuest (ARQ).md",
+    "Mac address.md",
+    "Pasted image 20240105153556.png",
+    "Pipe Capacity metrics.md",
+    "Terminology.md",
+    "ACK.md",
+    "Data Link Control (DLC).md",
     "Framing.md",
-    "Frame.md",
-    "Pasted image 20231222133402.png",
-    "Pasted image 20231222133335.png",
-    "Pasted image 20231222132224.png",
-    "Pasted image 20231222132206.png",
-    "Pasted image 20231222124717.png",
-    "Pasted image 20231222123828.png",
-    "Pasted image 20231222122513.png",
-    "Pasted image 20231222115913.png",
-    "Pasted image 20231222115347.png",
-    "ISO OSI MODEL.md",
-    "Circuit-switched network (CS).md",
-    "cheat sheet lab/CheatSheet Lab.md",
-    "cheat sheet lab/Kathara Physical setup(Phy level).md",
-    "cheat sheet lab/Firewalls.md",
-    "cheat sheet lab/Linux Firewall.md",
-    "cheat sheet lab/Mangle Table.md",
-    "cheat sheet lab/Nat Table.md",
-    "cheat sheet lab/Raw Table.md",
-    "cheat sheet lab/routing setup(route).md",
-    "cheat sheet lab/sniff packets on an interface(tcpdump).md",
-    "cheat sheet lab/traceroute.md",
-    "cheat sheet lab/Maximum transfer unit (MTU).md",
-    "cheat sheet lab/Local ip setup(ifconfig ).md",
-    "cheat sheet lab/Filter Table.md",
-    "cheat sheet lab/iptables.md",
-    "cheat sheet lab/ip setup.md",
-    "cheat sheet lab/Network setup(Logical part).md",
-    "stuff/Pasted image 20231206204003.png",
-    "Untitled.md",
-    "Pasted_image_20231206204003.png.md",
-    "Maching Criteria.md",
-    "Rules Commands.md",
+    "ARP Protocol.md",
+    "Routing.md",
+    "IP.md",
+    "DHCP.md",
+    "Sub/Supernetting.md",
+    "Sub",
+    "Network layer.md",
+    "stuff/Pasted_image_20231206204003.png.md",
     "cheat sheet lab",
     "stuff",
     "Internet/Performance Analysis/stuff",

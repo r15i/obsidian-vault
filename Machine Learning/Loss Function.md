@@ -5,7 +5,7 @@ Given :
 -$Z$ : domain ($X \times Y$)
 a **loss function** is any function $l :  H\times Z \rightarrow R_{+}$
 
-It has a different [[TRUE ERROR#True error with Generalized Loss function|true error definition ]] and an [[EMPIRICAL ERROR#Empirical error with Generalized Loss function|empirical error definition]]
+It has a different [[True Error#True error with Generalized Loss function|true error definition ]] and an [[Empirical Error#Empirical error with Generalized Loss function|empirical error definition]]
 
 
 

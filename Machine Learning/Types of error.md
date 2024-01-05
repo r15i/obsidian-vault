@@ -1,4 +1,0 @@
-
-
-[[TRUE ERROR]]
-[[EMPIRICAL ERROR]]

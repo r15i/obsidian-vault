@@ -1,0 +1,5 @@
+1. [[Machine Learning]] 
+2. [[Supervised Learning]]
+3. [[Unsupervised learning]]
+4. [[Neural Networks (NN)]]
+5. [[Deep Networks]]

@@ -4,3 +4,7 @@
 expected losso over a given training set
 $S = (z_1,...,z_m) \in Z^m$ 
 ![[Pasted image 20231128144247.png]]
+
+This error is the main driver in [[Empirical Risk Minimization]] for [[Supervised Learning]]
+
+
