@@ -1,0 +1,2 @@
+- The network layer is respnsible for finding the best (**route**)
+- Using **routing protocols** saved in a **forwarding table**

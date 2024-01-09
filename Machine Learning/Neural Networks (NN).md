@@ -180,4 +180,68 @@ Issues with Fully connected [[Neural Networks (NN)#Feed forward network|feed for
 	- by simply placing data in a vector we have a loss of spatial or temporal strucure
 	- 
 [[Convolutional Neural Networks]] try to solve these problems
+# Problems NN
+### Overfitting 
+Fail to generalize to new examples (test data)
+![[Pasted image 20240109101325.png]]![[Pasted image 20240109101346.png]]
+Do not use a too complex network if training data is limited
+#### Tecniques to avoid overfitting:
+##### Dropout (killing neurons)
+![[Pasted image 20240109101613.png]]
+- Randomly drop neurons(along with their connection ) during training 
+- Each unit retained with fixed probability $p$ as **hyper parameter** to be tuned
+- Typically applied only at some layer 
+- More stable/ less risk of overfitting
+#### Regularization
+![[Pasted image 20240109104438.png]]
+- term added to the loss function 
+- penalizes big weights and reduces risk of overfitting 
+- Regularization parameter $\lambda$ determines how relevant regularization is during gradient computation 
+- Big $\lambda \rightarrow$ big penalty for big weights (higher training error but less overfitting)
+#### Early Stopping 
+
+![[Pasted image 20240109104659.png]]
+- Use validation error to decide when to stop training
+- Stop when monitored loss has not improved after n subsequent epochs 
+- parameter "n" is called **patience**
+#### Data Augmentation 
+![[Pasted image 20240109104812.png]]
+Artificially create different samples 
+- by noise 
+- by random tranformation 
+- by altering the colors / luminanace ...
+
+
+### Gradient Descent for NN
+1. [[Gradient Descent (GD)]]
+2. [[Stochastic Gradient Descent ( SGD )]]
+3. Mini-batch gradient descent
+4. [[Momentum ]]
+5. [[Adam(adaptive Moment Estimation)]]
+
+
+## Loss function:[[Cross Entropy]]
+
+# Multi-class
+#### One-hot encoding 
+Output: vector **y** with one component for each class
+$y_i :=1$ if the sample class i , $y_i = 0$ else
+Its an increased output data dimensionality 
+
+#### Extension of cross-entropy to multi-class
+- labels one-hot encoded, vector function $f$ to be estimated
+- $f_i(x)$ estimated probability that x belong to class i 
+$L(f(x),y)=-\sum_{i}{y_ilog(f_i(x))}$ 
+
+# Tools
+
+![[Pasted image 20240109111243.png]]
+
+
+
+
+### Advances [[Deep Learning]] approaces
+
+
+
 

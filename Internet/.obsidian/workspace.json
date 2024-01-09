@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree Map for exam.md",
+                "file": "Internet Protocol (IP).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f74e69f5439a5d89",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree Map for exam.md",
+                "file": "Internet Protocol (IP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree Map for exam.md",
+                "file": "Internet Protocol (IP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree Map for exam.md"
+                "file": "Internet Protocol (IP).md"
               }
             }
           }
@@ -148,43 +149,45 @@
   },
   "active": "47ff92684a9e9ffd",
   "lastOpenFiles": [
-    "Network Architectures.md",
+    "Pasted image 20240109092244.png",
+    "Internet Corporation for Assigned Names and Numbers (ICANN).md",
+    "Internet Protocol (IP).md",
+    "Pasted image 20240108213828.png",
+    "Pasted image 20240108213430.png",
+    "Pasted image 20240108212549.png",
+    "Pasted image 20240108212341.png",
+    "Pasted image 20240108210231.png",
+    "Pasted image 20240108205953.png",
+    "Pasted image 20240108200939.png",
+    "Network layer.md",
+    "Internet Group Management Protocol(IGMP).md",
+    "Internet Control Message Protocol (ICMP).md",
+    "Address Resolution Protocol (ARP).md",
+    "Pasted image 20240108195138.png",
+    "Forwarding.md",
+    "Pasted image 20240108195050.png",
+    "Routing.md",
+    "Net Framing.md",
+    "Pasted image 20240108194120.png",
+    "Dll Framing.md",
+    "cheat sheet esercizi/cheat sheet esercizi.md",
+    "cheat sheet esercizi",
+    "Sub/Supernetting.md",
+    "Network.md",
+    "Medium Access Control (MAC).md",
+    "Data Link layer(DLL).md",
+    "Data Link Control (DLC).md",
+    "Automatic Repeat reQuest (ARQ).md",
+    "Dictionary.md",
+    "Delay metrics.md",
     "Tree Map for exam.md",
     "Performance Analysis.md",
-    "Channelization.md",
-    "Pasted image 20240105162513.png",
-    "Medium Access Control (MAC).md",
-    "Controlled Access.md",
-    "Random Access.md",
-    "Ethernet.md",
-    "Carrier sense multiple access (CSMA).md",
-    "Pasted image 20240105161919.png",
-    "Pasted image 20240105161901.png",
-    "Pasted image 20240105161809.png",
-    "Slotted Aloha.md",
-    "Pasted image 20240105161121.png",
-    "Aloha.md",
-    "Pasted image 20240105161008.png",
-    "Pasted image 20240105155431.png",
-    "Pasted image 20240105155224.png",
-    "Pasted image 20240105155105.png",
-    "Data Link layer(DLL).md",
-    "Automatic Repeat reQuest (ARQ).md",
-    "Mac address.md",
-    "Pasted image 20240105153556.png",
     "Pipe Capacity metrics.md",
-    "Terminology.md",
-    "ACK.md",
-    "Data Link Control (DLC).md",
-    "Framing.md",
-    "ARP Protocol.md",
-    "Routing.md",
-    "IP.md",
-    "DHCP.md",
-    "Sub/Supernetting.md",
+    "Reliability metrics.md",
+    "Traffic metrics.md",
+    "Application Layer.md",
+    "CSMA",
     "Sub",
-    "Network layer.md",
-    "stuff/Pasted_image_20231206204003.png.md",
     "cheat sheet lab",
     "stuff",
     "Internet/Performance Analysis/stuff",

@@ -1,0 +1,1 @@
+Translation of data between a networking service and an application; e.g., character encoding, data compression and encryption / decryption

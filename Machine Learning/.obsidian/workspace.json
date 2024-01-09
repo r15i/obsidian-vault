@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78729d3e584bc81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random Forest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4713e1e36bcbfb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PAC learning.md",
+                "file": "Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAC learning.md",
+                "file": "Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAC learning.md"
+                "file": "Random Forest.md"
               }
             }
           },
@@ -156,45 +181,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "93887827510bb8e3",
+  "active": "78729d3e584bc81b",
   "lastOpenFiles": [
-    "True Error.md",
-    "PAC learning.md",
+    "Pasted image 20240109124405.png",
+    "Pasted image 20240109124208.png",
+    "Pasted image 20240109123950.png",
+    "Pasted image 20240109123808.png",
+    "Pasted image 20240109123747.png",
+    "Pasted image 20240109122557.png",
+    "Pasted image 20240109122329.png",
+    "Pasted image 20240109121654.png",
     "Supervised Learning.md",
-    "Empirical Risk Minimization (ERM).md",
-    "Empirical Error.md",
-    "Pasted image 20240105224149.png",
-    "Hypothesis Class.md",
-    "Machine Learning.md",
-    "Error.md",
-    "Empirical Risk Minimization.md",
-    "Pasted image 20240105215841.png",
-    "Error Decomposition.md",
-    "Pasted image 20240105215553.png",
-    "Pasted image 20240105215334.png",
-    "Pasted image 20240105213838.png",
-    "Pasted image 20240105213323.png",
-    "Tree for the exam.md",
-    "Convolutional Neural Networks.md",
-    "Pasted image 20231229163751.png",
-    "Pasted image 20231229163534.png",
-    "Pasted image 20231229154018.png",
-    "Pasted image 20231229153611.png",
-    "Neural Networks (NN).md",
-    "Feedforward Neural Networks.md",
-    "Backward Propagation.md",
-    "Glorot.md",
-    "Stochastic Gradient Descent ( SGD ).md",
-    "VC-dimension.md",
-    "Assumption Binary classification.md",
-    "Regularized Loss minimization (RLM).md",
-    "test",
-    "Deep Networks.md",
-    "Bayes Optimal Predictor.md",
-    "0-1 loss.md",
-    "Clustering.md",
+    "Random Forest.md",
     "Unsupervised learning.md",
     "Principal Component Analysis (PCA).md",
+    "Pasted image 20240109121015.png",
+    "Pasted image 20240109121014.png",
+    "Pasted image 20240109120954.png",
+    "Principal Component Analysis.md",
+    "PAC learning.md",
+    "Deep Learning.md",
+    "Neural Networks (NN).md",
+    "Advanced CNN schemes.md",
+    "Residual Networks.md",
+    "Transposed Convolution.md",
+    "Inception Modules.md",
+    "Cross Entropy.md",
+    "Loss Function.md",
+    "Momentum.md",
+    "Adam(adaptive Moment Estimation).md",
+    "Convolutional Neural Networks.md",
+    "Assumptions on f.md",
+    "Assumtions.md",
+    "Realizability Assumption.md",
+    "Machine Learning.md",
+    "Tree for the exam.md",
+    "True Error.md",
+    "Empirical Risk Minimization (ERM).md",
+    "Empirical Error.md",
+    "test",
     "K fold cross validation algo.canvas",
     "Untitled.canvas",
     "stuff"

@@ -1,0 +1,1 @@
+Helps accelerate SGD in the relevant direction and dampens oscillations ❑ It does this by adding a fraction of the update vector of the past step to the current update vector

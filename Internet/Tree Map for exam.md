@@ -1,15 +1,18 @@
-1.  intro : 
+1.  intro :
+	- [[Internet]]
+	- [[ISO OSI MODEL]]
 	- [[Network Devices]]
 	- [[Network Architectures]]
 	- [[Performance Analysis]]
-1. [[Data Link layer(DLL)]]
+	   ####  [[Answers|Answer intro]] 
+1. Data Link layer(DLL):
 	- [[Data Link layer(DLL)]]
 	- [[Automatic Repeat reQuest (ARQ)]]
-	- [[Mac address| MAC]] (Random Access, Channelization)
+	- [[Medium Access Control (MAC)|MAC]] (Random Access, Channelization)
 2. [[Network layer]]
 	- [[Sub/Supernetting]]
 	- [[DHCP]]
-	- [[IP]]
+	- [[Internet Protocol (IP)]]
 	- [[Routing]]	
 3. [[Transport Layer]]
 

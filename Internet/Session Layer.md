@@ -1,0 +1,1 @@
+• Managing communication sessions, i.e. continuous exchange of information in the form of multiple back-and-forth transmissions between two nodes

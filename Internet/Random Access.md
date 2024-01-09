@@ -14,9 +14,9 @@ if more than one station tries to send at the same time, there is a **collision*
 -[[Aloha]]
 -[[Slotted Aloha]]
 -[[Carrier sense multiple access (CSMA)]]
--[[CSMA/CD]]
--[[CSMA/CA]]
-
+-[[CSMA_CD]]
+-[[CSMA_CA]]
+![[Pasted image 20240107180741.png]]
 
 ## Implementations
-- [[Ethernet]]
+- [[CSMA_CD]] implementation is [[CSMA_CD#Ethernet|Ethernet]]

@@ -1,0 +1,1 @@
+❑ Commonly used method that computes adaptive learning rates for each parameter
