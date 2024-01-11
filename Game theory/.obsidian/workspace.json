@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minmax And Maximin.md",
+                "file": "Bayesian games.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minmax And Maximin.md",
+                "file": "Bayesian games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minmax And Maximin.md",
+                "file": "Bayesian games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minmax And Maximin.md"
+                "file": "Bayesian games.md"
               }
             }
           }
@@ -148,11 +148,14 @@
   },
   "active": "3c92a4eadb03e7d9",
   "lastOpenFiles": [
+    "incomplete information.md",
+    "Bayesian games.md",
+    "types.md",
+    "Minmax And Maximin.md",
     "Iterated elimination of strictly dominated strategies (IESDS).md",
     "Nash Equilibrium.md",
     "indifference principle.md",
     "Best Responses.md",
-    "Bayesian games.md",
     "backward induction.md",
     "Multistage games.md",
     "Dynamic Game of Complete Information.md",
@@ -169,15 +172,12 @@
     "Extensive form.md",
     "Decision Tree.md",
     "singleton.md",
-    "Minmax And Maximin.md",
     "Zero Sum Games.md",
     "Common Games.md",
     "Lotteries.md",
     "Static Bayesian game.md",
     "Pasted image 20231219145356.png",
     "Pasted image 20231219144844.png",
-    "types.md",
-    "incomplete information.md",
     "Pasted image 20231219141211.png",
     "Pasted image 20231219141131.png",
     "Pasted image 20231219141106.png",

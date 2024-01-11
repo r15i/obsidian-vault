@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff64fbf26f62df05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tree map for exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed80a099329c655c",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management.md",
+                "file": "Tree map for exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management.md",
+                "file": "Tree map for exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management.md"
+                "file": "Tree map for exam.md"
               }
             }
           }
@@ -171,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d1785a9248d4b86",
+  "active": "ff64fbf26f62df05",
   "lastOpenFiles": [
+    "Project Management.md",
+    "Tree map for exam.md",
     "Portfolio.md",
     "Program.md",
     "Process.md",
@@ -183,7 +198,6 @@
     "Project Management life cycle.md",
     "Activities.md",
     "Requirements.md",
-    "Project Management.md",
     "collection.md",
     "stuff/Pasted image 20231129194020.png",
     "Quality.md",
