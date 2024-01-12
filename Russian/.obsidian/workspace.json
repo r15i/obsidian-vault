@@ -1,50 +1,53 @@
 {
   "main": {
-    "id": "cdca2a5cfe7b92f3",
+    "id": "2c02d45b0e8247ab",
     "type": "split",
     "children": [
       {
-        "id": "c4b2670008564095",
+        "id": "23b63925da93fcf1",
         "type": "tabs",
         "children": [
           {
-            "id": "702d92ee1593b365",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "stuff/Pasted image 20240112105958.png"
-              }
-            }
-          },
-          {
-            "id": "d994545756d57ae6",
+            "id": "a6fea2954d7be60a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Pronunciation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "893aa7cd7550e78f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a35595d7f34828",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "449e91d1a7dbcc90",
+    "id": "40acb7cf7c3611c4",
     "type": "split",
     "children": [
       {
-        "id": "3b9b5000846b91ea",
+        "id": "f45e3594efdb3647",
         "type": "tabs",
         "children": [
           {
-            "id": "060698b6d93fb4ae",
+            "id": "1f79fb6d7c7273da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,12 +57,12 @@
             }
           },
           {
-            "id": "ada7ab623ddffe52",
+            "id": "d4f3370214903a03",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "scope triangle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +72,7 @@
             }
           },
           {
-            "id": "2f18b1a57be1f93f",
+            "id": "2f57606b4b98f6cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,23 +83,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "ed80a099329c655c",
+    "id": "504d2c01089d70e4",
     "type": "split",
     "children": [
       {
-        "id": "36b29113d76b657d",
+        "id": "2d3b6ceb9466c67b",
         "type": "tabs",
         "children": [
           {
-            "id": "285382b5cd801e60",
+            "id": "43d2c2ba37e52b84",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Pronunciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +112,19 @@
             }
           },
           {
-            "id": "5bdfbd9b7e41559b",
+            "id": "4b3cdbbf125ce6f7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Pronunciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9d69a90acea8b0f7",
+            "id": "43305004ba87ad52",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,12 +135,12 @@
             }
           },
           {
-            "id": "0cf7772a91489198",
+            "id": "aceba84209c55457",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Pronunciation.md"
               }
             }
           }
@@ -157,45 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d994545756d57ae6",
+  "active": "a6fea2954d7be60a",
   "lastOpenFiles": [
-    "stuff/Pasted image 20240112105958.png",
-    "Untitled 2.md",
-    "How to Scope a TPM Project.md",
-    "stuff/Pasted image 20240112123501.png",
-    "stuff/Pasted image 20240112123418.png",
-    "stuff/Pasted image 20240112122540.png",
-    "stuff/Pasted image 20240112122511.png",
-    "Tree map for exam.md",
-    "Project Management Process Groups.md",
-    "stuff/Pasted image 20240112122347.png",
-    "stuff/Pasted image 20240112122208.png",
-    "stuff/Pasted image 20240112122128.png",
-    "stuff/Pasted image 20240112121209.png",
-    "stuff/Pasted image 20240112120716.png",
-    "stuff/Pasted image 20240112115813.png",
-    "intro.md",
-    "Portfolio.md",
-    "Project.md",
-    "collection.md",
-    "Activities.md",
-    "Strategic Project Management.md",
-    "Project Management.md",
-    "Emertxe Project Management.md",
-    "Extreme Project Management.md",
-    "Agile Project Management.md",
-    "Traditional Project Management.md",
-    "Project Management life cycle.md",
-    "Process.md",
-    "Cost.md",
-    "Collaborative Project Team.md",
-    "what is Strategic Project Management.md",
-    "what is Project Management.md",
-    "Extreme PMLC Model.md",
-    "iterative PMLC Model.md",
-    "Adaptive PMLC Model.md",
-    "Incremental PMLC Model.md",
-    "Untitled",
-    "stuff"
+    "Russian.md",
+    "Pronunciation.md",
+    "Cyrillic Alphabet.md",
+    "Grammatic.md",
+    "Verb Conjugation.md"
   ]
 }
