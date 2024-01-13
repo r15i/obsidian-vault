@@ -13,9 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Single pixel operations and histogram processing.md",
+                "file": "histogram excercize.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8772ac3e84cdf5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "histogram excercize.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
             }
           }
@@ -69,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2174ab167ccdf6f6",
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single pixel operations and histogram processing.md",
+                "file": "histogram excercize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Single pixel operations and histogram processing.md",
+                "file": "histogram excercize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single pixel operations and histogram processing.md"
+                "file": "histogram excercize.md"
               }
             }
           }
@@ -149,20 +183,22 @@
   },
   "active": "22d2ff90deb8b796",
   "lastOpenFiles": [
-    "Pasted image 20240113135317.png",
-    "Pasted image 20240113133928.png",
-    "Pasted image 20240113133820.png",
-    "Pasted image 20240113133551.png",
-    "Tree map for exam.md",
-    "Color Vision.md",
-    "Pasted image 20240113131916.png",
-    "Pasted image 20240113131853.png",
-    "Pasted image 20240113131837.png",
-    "Pasted image 20240113130141.png",
-    "Pasted image 20240113130019.png",
-    "Pasted image 20240113125700.png",
-    "Pasted image 20240113125050.png",
+    "stuff/Pasted image 20240112173525.png",
+    "Linear Filters.md",
     "Single pixel operations and histogram processing.md",
+    "Tree map for exam.md",
+    "non-Linear Filters.md",
+    "stuff/Pasted image 20240113174500.png",
+    "stuff/Pasted image 20240113174449.png",
+    "stuff/Pasted image 20240113174432.png",
+    "stuff/Pasted image 20240113174240.png",
+    "stuff/Pasted image 20240113174143.png",
+    "stuff/Pasted image 20240113173928.png",
+    "stuff/Pasted image 20240113173825.png",
+    "stuff/Pasted image 20240113173746.png",
+    "stuff/Pasted image 20240113173706.png",
+    "stuff/Pasted image 20240113173703.png",
+    "Color Vision.md",
     "histogram excercize.md",
     "corner detection.md",
     "edge detection.md",
@@ -183,8 +219,6 @@
     "Homogeneous Coordinates.md",
     "Parallelism.md",
     "Untitled.md",
-    "High-Level Algorithms.md",
-    "Middle-Level Processing.md",
-    "Low-Level Image Processing Algorithms.md"
+    "High-Level Algorithms.md"
   ]
 }

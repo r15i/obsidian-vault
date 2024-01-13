@@ -10,12 +10,14 @@ Second exam: 16/2/2023 h 10.00
 
 ## Priority order based on exercises/project
 1. [[Single pixel operations and histogram processing]] 
-2. [[Deep Learning for image classification]]
-3. [[Deep Learning for object detection]]
-4. [[Semantic segmentation with deep learning]]
-5. [[edge detection]]
-6. [[corner detection]]
-7. [[Field of View and Focal Distance]]
+2. [[Linear Filters]]
+3. [[non-Linear Filters]]
+4. [[Deep Learning for image classification]]
+5. [[Deep Learning for object detection]]
+6. [[Semantic segmentation with deep learning]]
+7. [[edge detection]]
+8. [[corner detection]]
+9. [[Field of View and Focal Distance]]
 
 # Theory
 	
@@ -25,7 +27,8 @@ Second exam: 16/2/2023 h 10.00
 	[[Color Vision]]
 	[[Image processing]]
 	[[Single pixel operations and histogram processing ]]
-	[[non linear filters]]
+	[[linear filters]]
+	[[non-Linear Filters]]
 	[[edge detection]]
 	[[histogram excercize]]
 	[[corner detection]]
