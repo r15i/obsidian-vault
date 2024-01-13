@@ -1,5 +1,4 @@
 ![[Pasted image 20240111191240.png]]
-
 # Five Project Management Process Groups
 Refer to a set of interrelated and distinct phases or stages that a project goes through from initiation to closure.
 #### The Scoping Process Group 

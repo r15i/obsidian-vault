@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc9b6869b7f3981d",
+            "id": "22d2ff90deb8b796",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "stuff/Pasted image 20231220154300.png"
+                "file": "Single pixel operations and histogram processing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2174ab167ccdf6f6",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stuff/Pasted image 20231220154300.png",
+                "file": "Single pixel operations and histogram processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stuff/Pasted image 20231220154300.png",
+                "file": "Single pixel operations and histogram processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stuff/Pasted image 20231220154300.png"
+                "file": "Single pixel operations and histogram processing.md"
               }
             }
           }
@@ -144,27 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2b36c9ef27e5fe",
+  "active": "22d2ff90deb8b796",
   "lastOpenFiles": [
-    "stuff",
-    "Aperture.md",
-    "stuff/Pasted image 20231220161744.png",
-    "Real Cameras.md",
-    "Image Formation.md",
-    "Thin Lens Model.md",
-    "stuff/Pasted image 20231220161345.png",
-    "stuff/Pasted image 20231220161303.png",
-    "stuff/Pasted image 20231220161241.png",
-    "stuff/Pasted image 20231220161151.png",
-    "Visual Sensors.md",
-    "Bayer Filter.md",
-    "Mathematical Camera model.md",
-    "stuff/Pasted image 20231220160646.png",
-    "stuff/Pasted image 20231220160535.png",
+    "Pasted image 20240113135317.png",
+    "Pasted image 20240113133928.png",
+    "Pasted image 20240113133820.png",
+    "Pasted image 20240113133551.png",
+    "Tree map for exam.md",
+    "Color Vision.md",
+    "Pasted image 20240113131916.png",
+    "Pasted image 20240113131853.png",
+    "Pasted image 20240113131837.png",
+    "Pasted image 20240113130141.png",
+    "Pasted image 20240113130019.png",
+    "Pasted image 20240113125700.png",
+    "Pasted image 20240113125050.png",
+    "Single pixel operations and histogram processing.md",
+    "histogram excercize.md",
+    "corner detection.md",
+    "edge detection.md",
+    "Semantic segmentation with deep learning.md",
+    "Deep Learning for object detection.md",
+    "Deep Learning for image classification.md",
     "Field of View and Focal Distance.md",
-    "stuff/Pasted image 20231220160040.png",
-    "stuff/Pasted image 20231220155952.png",
-    "stuff/Pasted image 20231220155729.png",
+    "intro.md",
+    "Hough Transform.md",
+    "Image Formation.md",
+    "Bayer Filter.md",
+    "Aperture.md",
+    "stuff",
+    "Real Cameras.md",
+    "Thin Lens Model.md",
+    "Visual Sensors.md",
+    "Mathematical Camera model.md",
     "Homogeneous Coordinates.md",
     "Parallelism.md",
     "Untitled.md",

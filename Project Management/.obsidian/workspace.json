@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b2670008564095",
+        "id": "8a7bb772e9784b84",
         "type": "tabs",
         "children": [
           {
-            "id": "702d92ee1593b365",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "stuff/Pasted image 20240112105958.png"
-              }
-            }
-          },
-          {
-            "id": "d994545756d57ae6",
+            "id": "db71135ad2f1a4a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Traditional Project Management.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Traditional Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Traditional Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Traditional Project Management.md"
               }
             }
           }
@@ -157,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d994545756d57ae6",
+  "active": "db71135ad2f1a4a2",
   "lastOpenFiles": [
-    "stuff/Pasted image 20240112105958.png",
-    "Untitled 2.md",
-    "How to Scope a TPM Project.md",
-    "stuff/Pasted image 20240112123501.png",
-    "stuff/Pasted image 20240112123418.png",
-    "stuff/Pasted image 20240112122540.png",
-    "stuff/Pasted image 20240112122511.png",
     "Tree map for exam.md",
-    "Project Management Process Groups.md",
-    "stuff/Pasted image 20240112122347.png",
-    "stuff/Pasted image 20240112122208.png",
-    "stuff/Pasted image 20240112122128.png",
-    "stuff/Pasted image 20240112121209.png",
-    "stuff/Pasted image 20240112120716.png",
-    "stuff/Pasted image 20240112115813.png",
-    "intro.md",
-    "Portfolio.md",
-    "Project.md",
-    "collection.md",
-    "Activities.md",
-    "Strategic Project Management.md",
-    "Project Management.md",
-    "Emertxe Project Management.md",
-    "Extreme Project Management.md",
-    "Agile Project Management.md",
-    "Traditional Project Management.md",
-    "Project Management life cycle.md",
-    "Process.md",
-    "Cost.md",
-    "Collaborative Project Team.md",
     "what is Strategic Project Management.md",
-    "what is Project Management.md",
+    "Traditional Project Management.md",
+    "Strategic Project Management.md",
+    "Requirements of a project.md",
+    "Scope.md",
+    "Project Management Process Groups.md",
+    "Quality.md",
+    "Project Management.md",
+    "Project Management life cycle.md",
+    "intro.md",
+    "Process.md",
+    "Program.md",
+    "Project.md",
+    "Portfolio.md",
+    "How to Scope a TPM Project.md",
+    "Extreme Project Management.md",
+    "Emertxe Project Management.md",
+    "collection.md",
+    "Collaborative Project Team.md",
+    "Agile Project Management.md",
+    "Activities.md",
+    "Cost.md",
+    "Risk.md",
     "Extreme PMLC Model.md",
-    "iterative PMLC Model.md",
-    "Adaptive PMLC Model.md",
-    "Incremental PMLC Model.md",
+    "stuff/Pasted image 20240112170712.png",
+    "Untitled 1.md",
+    "stuff/Pasted image 20240112162317.png",
+    "stuff/Pasted image 20240112161815.png",
+    "stuff/Pasted image 20240112161744.png",
+    "stuff/Pasted image 20240112161540.png",
+    "stuff/Pasted image 20240112154615.png",
+    "stuff/Pasted image 20240112154432.png",
+    "stuff/Pasted image 20240112154338.png",
+    "stuff/Pasted image 20240112105958.png",
+    "stuff/Pasted image 20240112123501.png",
     "Untitled",
     "stuff"
   ]

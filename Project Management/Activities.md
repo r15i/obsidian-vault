@@ -1,7 +1,5 @@
 ## Activities 
-Loosely defined as a chunk of work 
-
-an atomic chenge of the world 
+Loosely defined as a chunk of work an atomic change of the world 
 ## Sequence of activities 
 A project comprises a number of activities that must be completed in some specified order or sequence
 ## Unique activities

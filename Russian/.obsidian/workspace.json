@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pronunciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pronunciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pronunciation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,10 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6fea2954d7be60a",
+  "active": "e7a35595d7f34828",
   "lastOpenFiles": [
-    "Russian.md",
     "Pronunciation.md",
+    "Russian.md",
     "Cyrillic Alphabet.md",
     "Grammatic.md",
     "Verb Conjugation.md"

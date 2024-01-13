@@ -9,46 +9,26 @@ Project are not viewed in isolation:
 
 
 # Classification of projects 
-Common rule for classifying projects :
-- risk (high, med,low,very low)
-- business value 
-- length 
-- complexity ( )
-- tech used 
-- number of departments
-- Cost
-- Size 
-- Type 
-- Application 
-- Complexity and Uncertainty 
+Common rule for classifying projects : risk (high, med,low,very low) ,business value ,Time length, complexity ,tech used ,number of departments, Cost, Size , Type , Application , Complexity and Uncertainty 
 
+
+## Project Types 
 usually divided in 5 types A,B,C,D
-based on duration , risk complexity , tecnology , likehood of problems from 
-A shorter high risk , high complexity , tecnology breaktrhou  and certain problem , to D longer, very low risk , tecnology practical, few problems
-
-
-
-
-
-
- 
-
-
-
-
+based on duration , risk complexity , tecnology , likehood of problems from a shorter high risk , high complexity , tecnology breaktrhou  and certain problem , to D longer, very low risk , tecnology practical, few problems
 # Constraint of a project 
 Limits of a project: 
-- [[Scope]]
-- [[Cost]]
-- [[Time]]
-- [[Resources]]
-- [[Risk]] 
-- [[Quality]]
-
+- Scope: Boundary of the project functional specification 
+- Cost
+- Time
+- Resources
+- Risk 
+- Quality :
+    -  Product quality : the quality of the deliverable product of the project 
+    - Process quality : the quality of the project management itself 
 ## Scope triangle 
 ### Graph to show the relation between the constraint of a project 
 ![[Pasted image 20231129194020.png]]
-NOTE: [[Risk]] is NOT integral part of the scope triangle but it is always present and spans all parts of the project (external, internal)
+NOTE: Risk is NOT integral part of the scope triangle but it is always present and spans all parts of the project (external, internal)
 
 is used in **problem escalation strategy** reference for *impact statement 
 part of the scope change process(PIS)**
