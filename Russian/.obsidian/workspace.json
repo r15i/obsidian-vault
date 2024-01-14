@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "504d2c01089d70e4",
@@ -100,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pronunciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pronunciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pronunciation.md"
+              }
             }
           }
         ]

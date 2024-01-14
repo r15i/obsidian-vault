@@ -1,7 +1,7 @@
-## **Project management is an organized:**
-Project management is an organized common sense approach that utilizes the appropriate client involvement in order to deliver client requirements that meed expected incremental business value
+## **Project management**
+main idea: Project management is the handling of a [[Definitions#Project|project]] in a [[Project Management#PMLC (Project Management Life Cycle )|life cycle]]
 
-Idea: handling of [[Project]] in a [[Project Management#PMLC (Project Management Life Cycle )|life cycle]]
+Project management is an organized common sense approach that utilizes the appropriate client involvement in order to deliver client requirements that meed expected incremental business value
 
 ### Project Manager's Role in Team Development:
 These steps highlight the evolving responsibilities of a project manager as a team progresses through different stages of development.

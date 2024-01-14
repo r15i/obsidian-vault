@@ -13,11 +13,9 @@ Second exam: 16/2/2023 h 10.00
 2. [[Linear Filters]]
 3. [[non-Linear Filters]]
 4. [[Deep Learning for image classification]]
-5. [[Deep Learning for object detection]]
-6. [[Semantic segmentation with deep learning]]
-7. [[edge detection]]
-8. [[corner detection]]
-9. [[Field of View and Focal Distance]]
+5. [[edge detection]]
+6. [[corner detection]]
+7. [[Field of View and Focal Distance]]
 
 # Theory
 	

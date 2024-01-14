@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traditional Project Management.md",
+                "file": "Strategic Project Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "babf5baf845a4e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed80a099329c655c",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traditional Project Management.md",
+                "file": "Strategic Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traditional Project Management.md",
+                "file": "Strategic Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traditional Project Management.md"
+                "file": "Strategic Project Management.md"
               }
             }
           }
@@ -148,33 +161,34 @@
   },
   "active": "db71135ad2f1a4a2",
   "lastOpenFiles": [
+    "Pasted image 20240114141035.png",
+    "Pasted image 20240114140753.png",
     "Tree map for exam.md",
-    "what is Strategic Project Management.md",
+    "Project Management.md",
     "Traditional Project Management.md",
+    "Project Management Process Groups.md",
+    "Collaborative Project Team.md",
+    "How to Scope a TPM Project.md",
     "Strategic Project Management.md",
+    "Definitions.md",
+    "Program.md",
+    "collection.md",
+    "Process.md",
+    "Portfolio.md",
+    "Activities.md",
+    "Project.md",
+    "what is Strategic Project Management.md",
     "Requirements of a project.md",
     "Scope.md",
-    "Project Management Process Groups.md",
     "Quality.md",
-    "Project Management.md",
     "Project Management life cycle.md",
-    "intro.md",
-    "Process.md",
-    "Program.md",
-    "Project.md",
-    "Portfolio.md",
-    "How to Scope a TPM Project.md",
     "Extreme Project Management.md",
     "Emertxe Project Management.md",
-    "collection.md",
-    "Collaborative Project Team.md",
     "Agile Project Management.md",
-    "Activities.md",
     "Cost.md",
     "Risk.md",
     "Extreme PMLC Model.md",
     "stuff/Pasted image 20240112170712.png",
-    "Untitled 1.md",
     "stuff/Pasted image 20240112162317.png",
     "stuff/Pasted image 20240112161815.png",
     "stuff/Pasted image 20240112161744.png",
@@ -183,7 +197,6 @@
     "stuff/Pasted image 20240112154432.png",
     "stuff/Pasted image 20240112154338.png",
     "stuff/Pasted image 20240112105958.png",
-    "stuff/Pasted image 20240112123501.png",
     "Untitled",
     "stuff"
   ]

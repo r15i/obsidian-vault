@@ -10,9 +10,9 @@
 	- [[Automatic Repeat reQuest (ARQ)]]
 	- [[Medium Access Control (MAC)|MAC]] (Random Access, Channelization)
 2. [[Network layer]]
-	- [[Sub/Supernetting]]
-	- [[DHCP]]
+	- [[Sub and Supernetting]]
 	- [[Internet Protocol (IP)]]
+	- [[DHCP]]
 	- [[Routing]]	
 3. [[Transport Layer]]
 

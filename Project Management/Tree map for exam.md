@@ -1,8 +1,8 @@
-[[intro]]
-[[Project Management|what is Project Management?]]
-[[Strategic Project Management|what is Strategic Project Management?]]
-[[Collaborative Project Team]]
-[[Project Management Process Groups]]
-[[How to Scope a TPM Project]]
+1. [[Definitions]]
+2. [[Project Management]]
+3. [[Strategic Project Management]]
+4. [[Collaborative Project Team]]
+5. [[Project Management Process Groups]]
+6. [[How to Scope a TPM Project]]
 
 
