@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategic Project Management.md",
+                "file": "Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strategic Project Management.md",
+                "file": "Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strategic Project Management.md",
+                "file": "Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strategic Project Management.md"
+                "file": "Definitions.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "db71135ad2f1a4a2",
   "lastOpenFiles": [
-    "Pasted image 20240114141035.png",
-    "Pasted image 20240114140753.png",
     "Tree map for exam.md",
     "Project Management.md",
-    "Traditional Project Management.md",
-    "Project Management Process Groups.md",
-    "Collaborative Project Team.md",
-    "How to Scope a TPM Project.md",
     "Strategic Project Management.md",
+    "Collaborative Project Team.md",
+    "Project Management Process Groups.md",
+    "How to Scope a TPM Project.md",
+    "Pasted image 20240114141035.png",
+    "Pasted image 20240114140753.png",
+    "Traditional Project Management.md",
     "Definitions.md",
     "Program.md",
     "collection.md",
@@ -196,7 +196,6 @@
     "stuff/Pasted image 20240112154615.png",
     "stuff/Pasted image 20240112154432.png",
     "stuff/Pasted image 20240112154338.png",
-    "stuff/Pasted image 20240112105958.png",
     "Untitled",
     "stuff"
   ]
