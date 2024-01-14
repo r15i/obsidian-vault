@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree map for exam.md",
+                "file": "Dataset.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tree map for exam.md",
+                "file": "Dataset.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree map for exam.md",
+                "file": "Dataset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree map for exam.md",
+                "file": "Dataset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree map for exam.md"
+                "file": "Dataset.md"
               }
             }
           }
@@ -196,8 +196,9 @@
   },
   "active": "22d2ff90deb8b796",
   "lastOpenFiles": [
-    "edge detection.md",
+    "Weather Classification.md",
     "Tree map for exam.md",
+    "edge detection.md",
     "Semantic segmentation with deep learning.md",
     "Deep Learning for object detection.md",
     "Deep Learning for image classification.md",
@@ -213,7 +214,6 @@
     "Pasted image 20240114161940.png",
     "Pasted image 20240114161926.png",
     "Linear Filters.md",
-    "Weather Classification.md",
     "histogram excercize.md",
     "Single pixel operations and histogram processing.md",
     "Color Vision.md",
