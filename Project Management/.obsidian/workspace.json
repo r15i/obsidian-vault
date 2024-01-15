@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tree map for exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8094f69fc147c915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Definitions.md",
                 "mode": "source",
                 "source": false
@@ -20,15 +32,11 @@
             }
           },
           {
-            "id": "babf5baf845a4e53",
+            "id": "68536625efd562aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategic Project Management.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed80a099329c655c",
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions.md",
+                "file": "Tree map for exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions.md",
+                "file": "Tree map for exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions.md"
+                "file": "Tree map for exam.md"
               }
             }
           }
@@ -159,21 +166,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db71135ad2f1a4a2",
+  "active": "060698b6d93fb4ae",
   "lastOpenFiles": [
     "Tree map for exam.md",
     "Project Management.md",
+    "Traditional Project Management.md",
+    "Definitions.md",
+    "Process.md",
+    "stuff/Pasted image 20240115093042.png",
     "Strategic Project Management.md",
     "Collaborative Project Team.md",
     "Project Management Process Groups.md",
     "How to Scope a TPM Project.md",
-    "Pasted image 20240114141035.png",
-    "Pasted image 20240114140753.png",
-    "Traditional Project Management.md",
-    "Definitions.md",
+    "stuff/Pasted image 20240114141035.png",
+    "stuff/Pasted image 20240114140753.png",
     "Program.md",
     "collection.md",
-    "Process.md",
     "Portfolio.md",
     "Activities.md",
     "Project.md",
@@ -195,7 +203,6 @@
     "stuff/Pasted image 20240112161540.png",
     "stuff/Pasted image 20240112154615.png",
     "stuff/Pasted image 20240112154432.png",
-    "stuff/Pasted image 20240112154338.png",
     "Untitled",
     "stuff"
   ]

@@ -1,12 +1,13 @@
 ## **Project management**
-main idea: Project management is the handling of a [[Definitions#Project|project]] in a [[Project Management#PMLC (Project Management Life Cycle )|life cycle]]
 
-Project management is an organized common sense approach that utilizes the appropriate client involvement in order to deliver client requirements that meed expected incremental business value
+- Project management is the handling of a [[Definitions#Project|project]] in a [[Project Management#Project Management Life Cycle (PMLC)|life cycle]]
+
+Project management is an **organized** common sense approach that utilizes the appropriate **client involvement** in order to **deliver** client requirements that meet expected **incremental business value**
 
 ### Project Manager's Role in Team Development:
-These steps highlight the evolving responsibilities of a project manager as a team progresses through different stages of development.
+Evolving of the responsibilities of a project manager as a team progresses through different stages of development.
 1. **Forming:**
-   - *Objective:* Assembling the team
+   -  Assembling the team
 2. **Storming:**
    - *Main Job:* Manage conflicts and disagreements that may arise within the team
    - *Note:* It's crucial not to force a group still storming into production.
@@ -14,33 +15,34 @@ These steps highlight the evolving responsibilities of a project manager as a te
    - *Objective:* Reinforce positive behaviors and promoting a sense of unity
 4. **Performing:**
    - *Objective:* Support the team during deployment
-## Challenges of project management:
-- Flexibility and adaptation 
-- Deep understanding of the business and it's system 
-- take charge of the project and it's management 
 # Creeps
-"creep" highlights a challenge in project management
+"creep" challenges in project management
 - Scope Creep
 - Hope Creep
 - Effort Creep 
 - Feature Creep
 # Requirements of a project
+
+## Common definition 
 Can be :
 1. Condition or Capability needed by a Stakeholder to solve a problem or achieve an object 
- 2. a Condition or capability that must be met or possessed by a solution or solution component to satisfy a contract, standard, specification 
+ 2. a Condition or capability that must be met or possessed by a solution or a solution component to satisfy a contract, standard, specification 
 3. a documented representation of 1 or 2 
 
 **GENERATING COMPLETE REQUIREMENTS IS NOT LIKELY DUE TO CHANGING MARKET CONDITION and of MANY OTHER FACTORS**
 #### Business value definition of requirements
-A requirement is a desired END-STATE, whose successful integration into the solution meets one or more needs and delivers
+A requirement is a desired **END-STATE**, whose **successful integration** into the solution meets one or more **needs and delivers**: 
 - specific 
 - measurable 
 - incremental 
-#### **Business value to the organization**
-The set of requirements form a necessary and sufficient set for achieving expected business value 
+**Business value to the organization** 
 
-# PMLC (Project Management Life Cycle )
-A project management life cycle (PMLC) is a sequence of [[Process|process]] that includes:
+The set of requirements form a **necessary and sufficient** set for achieving expected business value 
+
+
+
+# Project Management Life Cycle (PMLC)
+A project management life cycle (PMLC) is a sequence of [[Definitions#Process|process]] that includes:
 ![[Pasted image 20231129185334.png]]
 which is also the [[Traditional Project Management#Linear PMLC model|Linear PMLC model]]
 ## Project Management Life Cycle Approaches
