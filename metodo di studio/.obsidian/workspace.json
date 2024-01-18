@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADC.md",
+                "file": "Lettura efficace.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f2d4c872afc3ae5d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75ee58ff0a5ecec1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADC.md",
+                "file": "Lettura efficace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADC.md",
+                "file": "Lettura efficace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADC.md"
+                "file": "Lettura efficace.md"
               }
             }
           }
@@ -162,7 +148,11 @@
   },
   "active": "228b82eafd5f2810",
   "lastOpenFiles": [
+    "ADC.md",
+    "Lettura efficace.md",
+    "Caratteristiche del metodo di studio e fasi dell’apprendimento.md",
     "metodi e tecniche di studio.md",
-    "ADC.md"
+    "Ambiente di studio, strumenti, stato psicofisico e atteggiamento.md",
+    "Esercizio - Auto-valutazione del sonno (PDF).md"
   ]
 }
