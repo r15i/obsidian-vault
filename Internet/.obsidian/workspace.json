@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee6975ce9b052a6e",
+        "id": "6fc9db827b9628e2",
         "type": "tabs",
         "children": [
           {
-            "id": "47ff92684a9e9ffd",
+            "id": "fe272263087a0b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet Protocol (IP).md",
+                "file": "TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internet Protocol (IP).md",
+                "file": "TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internet Protocol (IP).md",
+                "file": "TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internet Protocol (IP).md"
+                "file": "TCP.md"
               }
             }
           }
@@ -147,45 +147,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47ff92684a9e9ffd",
+  "active": "fe272263087a0b7c",
   "lastOpenFiles": [
+    "Pasted image 20240118130754.png",
+    "Pasted image 20240118130721.png",
+    "Pasted image 20240118130712.png",
+    "Pasted image 20240118130332.png",
+    "Pasted image 20240118130115.png",
+    "Pasted image 20240118125116.png",
+    "Pasted image 20240118123705.png",
     "Tree Map for exam.md",
+    "TCP.md",
+    "UDP.md",
+    "Pasted image 20240116191418.png",
+    "Pasted image 20240116190620.png",
+    "Transport Layer.md",
+    "Stop-and-wait.md",
+    "Pasted image 20240116185858.png",
+    "Pasted image 20240116175512.png",
+    "cheat sheet lab/private and public ip.md",
+    "cheat sheet lab/Nat Table.md",
+    "cheat sheet esercizi/cheat sheet esercizi.md",
+    "Internet Control Message Protocol (ICMP).md",
+    "Routing.md",
     "Internet Protocol (IP).md",
-    "Pasted image 20240114191210.png",
-    "Pasted image 20240114191103.png",
-    "Pasted image 20240114190642.png",
     "IP address.md",
+    "Aloha.md",
+    "Address Resolution Protocol (ARP).md",
+    "ACK.md",
+    "Automatic Repeat reQuest (ARQ).md",
+    "Sub and Supernetting.md",
     "DHCP.md",
-    "Pasted image 20240114190103.png",
-    "Pasted image 20240114185748.png",
-    "Pasted image 20240114185730.png",
-    "Pasted image 20240114184944.png",
-    "Pasted image 20240114184905.png",
-    "Pasted image 20240114184540.png",
-    "Pasted image 20240114175548.png",
     "Network layer.md",
-    "Sub/Sub and Supernetting.md",
     "Sub",
     "Internet Corporation for Assigned Names and Numbers (ICANN).md",
     "Internet Group Management Protocol(IGMP).md",
-    "Internet Control Message Protocol (ICMP).md",
-    "Address Resolution Protocol (ARP).md",
     "Forwarding.md",
-    "Routing.md",
     "Net Framing.md",
     "Dll Framing.md",
-    "cheat sheet esercizi/cheat sheet esercizi.md",
     "cheat sheet esercizi",
     "Network.md",
-    "Medium Access Control (MAC).md",
-    "Data Link layer(DLL).md",
-    "Data Link Control (DLC).md",
-    "Automatic Repeat reQuest (ARQ).md",
-    "Dictionary.md",
-    "Delay metrics.md",
-    "Performance Analysis.md",
-    "Pipe Capacity metrics.md",
-    "Reliability metrics.md",
     "CSMA",
     "cheat sheet lab",
     "stuff",

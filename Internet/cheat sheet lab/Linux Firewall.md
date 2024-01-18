@@ -1,6 +1,6 @@
 # The Linux Firewall
 
-`iptables` is a user-space tool that interacts with the kernel-space counterpart [[NetFilter]] to establish a **stateful** packet filter incorporating [[Network Address and Port Translation (NAPT)]].
+`iptables` is a user-space tool that interacts with the kernel-space counterpart [[NetFilter]] to establish a **stateful** packet filter incorporating [[private and public ip]].
 
 ## NetFilter Structure
 
