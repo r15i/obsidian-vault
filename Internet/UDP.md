@@ -1,4 +1,3 @@
-
 Provide a **process-to-process** communication instead of host-to-host
 and nothing else
 - **connectionless**
@@ -32,6 +31,30 @@ there is no flow control
 ![[Pasted image 20240116191418.png]]
 - UDP checksum calculation includes 3 sections:
 1. **pseudoheader**, the UDP header, and the data coming from the application layer 
-2. 
+2. the **UDP header** and the data coming from the application layer
+3. the Data coming from the application layer 
+some field are to 0 
+# Checksum 
+additional level of protection 
+- violate the layering principles
+- is optional 
+# Error Control 
+# Congestion Control 
+
+# Encapsulation and Decapsulation 
+# Multiplexing and Demultiplexing
+
+## Application 
+useful for :
+- **Trivial File Transfer Protocol (TFTP)**: process flow and error control are inside the application layer 
+- **multicasting**
+- **Simple Network Managemnet Protocol (SNMP)** management processes 
+- update protocols like **Routing Information Protocol(RIP)**  
+- **in interactive real-time applications** that cannot tolerate uneven delay between sections of the received message
+ 
+
+
+
+
 
 
