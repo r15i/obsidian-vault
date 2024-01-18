@@ -4,7 +4,7 @@ A firewall, whether physical (a separate network box) or logical (software-based
 
 ### Typical Usage
 
-A common purpose of a firewall is to protect information on a local trusted network or Intranet. Additionally, firewalls often integrate [[Network Address and Port Translation (NAPT)]], allowing for better control and security.
+A common purpose of a firewall is to protect information on a local trusted network or Intranet. Additionally, firewalls often integrate [[private and public ip]], allowing for better control and security.
 
 ### Types of Filters for Packets
 

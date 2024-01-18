@@ -5,16 +5,24 @@
 	- [[Network Architectures]]
 	- [[Performance Analysis]]
 	   ####  [[Answers|Answer intro]] 
-1. Data Link layer(DLL):
+2. Data Link layer(DLL):
 	- [[Data Link layer(DLL)]]
 	- [[Automatic Repeat reQuest (ARQ)]]
 	- [[Medium Access Control (MAC)|MAC]] (Random Access, Channelization)
-2. [[Network layer]]
+3. Network layer
+	- [[Network layer]]
 	- [[Sub and Supernetting]]
 	- [[Internet Protocol (IP)]]
 	- [[DHCP]]
 	- [[Routing]]	
-3. [[Transport Layer]]
+	- [[Internet Control Message Protocol (ICMP)|ICMP]] 
+	- [[private and public ip|nat]]
+4. [[Transport Layer]]
+	- [[UDP]]
+	- [[TCP]]
+	- [[DNS]]
+
+
 
 
 

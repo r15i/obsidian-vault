@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "faca178a746318ba",
+    "id": "7f52069ff06ec8f5",
     "type": "split",
     "children": [
       {
-        "id": "6fc9db827b9628e2",
+        "id": "a98cf97cd7001c77",
         "type": "tabs",
         "children": [
           {
-            "id": "fe272263087a0b7c",
+            "id": "a667dce8874acc8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDP.md",
+                "file": "Job possible jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5be367fd8b7c942",
+    "id": "a9197ea91a3d5815",
     "type": "split",
     "children": [
       {
-        "id": "1ad5defed27fa554",
+        "id": "b53184f87387b869",
         "type": "tabs",
         "children": [
           {
-            "id": "dd65e2c100d1ccbc",
+            "id": "9c54698514d7b88c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "cb235ed991e05346",
+            "id": "64c157fdb2d5e1f0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2518dcad34cbc5c9",
+            "id": "fb475a7144a78a0a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,20 +73,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "f74e69f5439a5d89",
+    "id": "f08e2a5ef83fd662",
     "type": "split",
     "children": [
       {
-        "id": "72e1900cf3f95f4a",
+        "id": "481b7b9590e6ae4e",
         "type": "tabs",
         "children": [
           {
-            "id": "e211a133abd8e4ae",
+            "id": "20a71be733e074b8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDP.md",
+                "file": "Job possible jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,19 @@
             }
           },
           {
-            "id": "b16a717a9d0dfcba",
+            "id": "5e88e641f3749209",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDP.md",
+                "file": "Job possible jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "90690991170f233f",
+            "id": "2cf22113aaeebacd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +121,12 @@
             }
           },
           {
-            "id": "cc4b427e117f051c",
+            "id": "0d31fbdfa0ac1165",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDP.md"
+                "file": "Job possible jobs.md"
               }
             }
           }
@@ -147,54 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe272263087a0b7c",
+  "active": "a667dce8874acc8c",
   "lastOpenFiles": [
-    "Pasted image 20240116191418.png",
-    "Pasted image 20240116190620.png",
-    "Tree Map for exam.md",
-    "UDP.md",
-    "Transport Layer.md",
-    "Stop-and-wait.md",
-    "Pasted image 20240116185858.png",
-    "Pasted image 20240116175512.png",
-    "Pasted image 20240116174917.png",
-    "Pasted image 20240116174339.png",
-    "Pasted image 20240116174057.png",
-    "Pasted image 20240116173342.png",
-    "cheat sheet lab/private and public ip.md",
-    "Pasted image 20240116155135.png",
-    "Pasted image 20240116153202.png",
-    "Pasted image 20240116152602.png",
-    "cheat sheet lab/Nat Table.md",
-    "cheat sheet esercizi/cheat sheet esercizi.md",
-    "Internet Control Message Protocol (ICMP).md",
-    "Routing.md",
-    "Internet Protocol (IP).md",
-    "IP address.md",
-    "Aloha.md",
-    "Address Resolution Protocol (ARP).md",
-    "ACK.md",
-    "Automatic Repeat reQuest (ARQ).md",
-    "Sub and Supernetting.md",
-    "DHCP.md",
-    "Network layer.md",
-    "Sub",
-    "Internet Corporation for Assigned Names and Numbers (ICANN).md",
-    "Internet Group Management Protocol(IGMP).md",
-    "Forwarding.md",
-    "Net Framing.md",
-    "Dll Framing.md",
-    "cheat sheet esercizi",
-    "Network.md",
-    "Medium Access Control (MAC).md",
-    "CSMA",
-    "cheat sheet lab",
-    "stuff",
-    "Internet/Performance Analysis/stuff",
-    "Internet/Performance Analysis",
-    "Internet/Types of analysis",
-    "Senza nome.canvas",
-    "Internet/Performance analysis",
-    "Internet"
+    "Intelligenza artificiale.md",
+    "Job possible jobs.md",
+    "Sicurezza Informatica.md",
+    "Polizia postale.md",
+    "Assistenza Partime Padova.md",
+    "Online platforms.md"
   ]
 }

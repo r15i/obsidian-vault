@@ -1,22 +1,36 @@
 {
   "main": {
-    "id": "faca178a746318ba",
+    "id": "f7903d4bfb7a1b23",
     "type": "split",
     "children": [
       {
-        "id": "6fc9db827b9628e2",
+        "id": "7e18a0aa6da5c747",
         "type": "tabs",
         "children": [
           {
-            "id": "fe272263087a0b7c",
+            "id": "228b82eafd5f2810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDP.md",
+                "file": "ADC.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2d4c872afc3ae5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ee58ff0a5ecec1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -25,15 +39,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5be367fd8b7c942",
+    "id": "d53144882533aaf5",
     "type": "split",
     "children": [
       {
-        "id": "1ad5defed27fa554",
+        "id": "6c20f603e209054b",
         "type": "tabs",
         "children": [
           {
-            "id": "dd65e2c100d1ccbc",
+            "id": "99a8eec2a70a4856",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +57,7 @@
             }
           },
           {
-            "id": "cb235ed991e05346",
+            "id": "ca3d8be42cb3c3f7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +72,7 @@
             }
           },
           {
-            "id": "2518dcad34cbc5c9",
+            "id": "a85461e26c89847a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,24 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "f74e69f5439a5d89",
+    "id": "062762ab37d9fff5",
     "type": "split",
     "children": [
       {
-        "id": "72e1900cf3f95f4a",
+        "id": "2e519b7be95f2760",
         "type": "tabs",
         "children": [
           {
-            "id": "e211a133abd8e4ae",
+            "id": "e4cec99c2da21e6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UDP.md",
+                "file": "ADC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +111,19 @@
             }
           },
           {
-            "id": "b16a717a9d0dfcba",
+            "id": "a70409c8c58cdd5e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UDP.md",
+                "file": "ADC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "90690991170f233f",
+            "id": "6697d1a3b80e755b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +134,12 @@
             }
           },
           {
-            "id": "cc4b427e117f051c",
+            "id": "5bc79d89c77a1165",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UDP.md"
+                "file": "ADC.md"
               }
             }
           }
@@ -147,54 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe272263087a0b7c",
+  "active": "228b82eafd5f2810",
   "lastOpenFiles": [
-    "Pasted image 20240116191418.png",
-    "Pasted image 20240116190620.png",
-    "Tree Map for exam.md",
-    "UDP.md",
-    "Transport Layer.md",
-    "Stop-and-wait.md",
-    "Pasted image 20240116185858.png",
-    "Pasted image 20240116175512.png",
-    "Pasted image 20240116174917.png",
-    "Pasted image 20240116174339.png",
-    "Pasted image 20240116174057.png",
-    "Pasted image 20240116173342.png",
-    "cheat sheet lab/private and public ip.md",
-    "Pasted image 20240116155135.png",
-    "Pasted image 20240116153202.png",
-    "Pasted image 20240116152602.png",
-    "cheat sheet lab/Nat Table.md",
-    "cheat sheet esercizi/cheat sheet esercizi.md",
-    "Internet Control Message Protocol (ICMP).md",
-    "Routing.md",
-    "Internet Protocol (IP).md",
-    "IP address.md",
-    "Aloha.md",
-    "Address Resolution Protocol (ARP).md",
-    "ACK.md",
-    "Automatic Repeat reQuest (ARQ).md",
-    "Sub and Supernetting.md",
-    "DHCP.md",
-    "Network layer.md",
-    "Sub",
-    "Internet Corporation for Assigned Names and Numbers (ICANN).md",
-    "Internet Group Management Protocol(IGMP).md",
-    "Forwarding.md",
-    "Net Framing.md",
-    "Dll Framing.md",
-    "cheat sheet esercizi",
-    "Network.md",
-    "Medium Access Control (MAC).md",
-    "CSMA",
-    "cheat sheet lab",
-    "stuff",
-    "Internet/Performance Analysis/stuff",
-    "Internet/Performance Analysis",
-    "Internet/Types of analysis",
-    "Senza nome.canvas",
-    "Internet/Performance analysis",
-    "Internet"
+    "metodi e tecniche di studio.md",
+    "ADC.md"
   ]
 }
