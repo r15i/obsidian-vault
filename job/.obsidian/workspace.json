@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job possible jobs.md",
+                "file": "Online platforms.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job possible jobs.md",
+                "file": "Online platforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job possible jobs.md",
+                "file": "Online platforms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job possible jobs.md"
+                "file": "Online platforms.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "a667dce8874acc8c",
   "lastOpenFiles": [
-    "Intelligenza artificiale.md",
     "Job possible jobs.md",
+    "Intelligenza artificiale.md",
     "Sicurezza Informatica.md",
     "Polizia postale.md",
     "Assistenza Partime Padova.md",
