@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5109dc9dfb2c7dcf",
+    "id": "66c06ca07a3126b2",
     "type": "split",
     "children": [
       {
-        "id": "f3fd733b161dd14a",
+        "id": "f12cd1f1a9face50",
         "type": "tabs",
         "children": [
           {
-            "id": "74f474984753005a",
+            "id": "b3ae0bd5ca0034e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weather Classification.md",
+                "file": "projects/Simple Chat.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "20837f2c7e055050",
+    "id": "0d2553cbfef70505",
     "type": "split",
     "children": [
       {
-        "id": "92a5241920f81c55",
+        "id": "38087172b75ba948",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2b36c9ef27e5fe",
+            "id": "45d6eb736ac4e76e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "171ed57063c44509",
+            "id": "3ed04faf64178675",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "d46dabe6850fe624",
+            "id": "6762413762041614",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "2174ab167ccdf6f6",
+    "id": "91509fc350b9d88c",
     "type": "split",
     "children": [
       {
-        "id": "e8fb2ac3a61a886d",
+        "id": "bf3fa68ddd9a0a46",
         "type": "tabs",
         "children": [
           {
-            "id": "457212dda8fb14be",
+            "id": "040d4579fc30ff9e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weather Classification.md",
+                "file": "projects/Simple Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "67ccdaf3d7bd4e98",
+            "id": "f98c82ae9fed3d74",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weather Classification.md",
+                "file": "projects/Simple Chat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bd96c44819283cee",
+            "id": "a9b4c70332d0e035",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "95fa99bb80152603",
+            "id": "22356f67156a1a54",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weather Classification.md"
+                "file": "projects/Simple Chat.md"
               }
             }
           }
@@ -146,44 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74f474984753005a",
+  "active": "b3ae0bd5ca0034e4",
   "lastOpenFiles": [
-    "strategies.md",
-    "Weather Classification.md",
-    "Dataset.md",
-    "Deep Learning for image classification.md",
-    "stuff/Pasted image 20240114141501 1.png",
-    "Tree map for exam.md",
-    "edge detection.md",
-    "Semantic segmentation with deep learning.md",
-    "Deep Learning for object detection.md",
-    "stuff/Pasted image 20240114171203 1.png",
-    "stuff/Pasted image 20240114171019 1.png",
-    "stuff/Pasted image 20240114170946 1.png",
-    "stuff/Pasted image 20240114170541 1.png",
-    "stuff/Pasted image 20240114170440 1.png",
-    "stuff/Pasted image 20240114165954 1.png",
-    "non-Linear Filters.md",
-    "stuff/Pasted image 20240114162300 1.png",
-    "stuff/Pasted image 20240114162250 1.png",
-    "stuff/Pasted image 20240114161940 1.png",
-    "Linear Filters.md",
-    "histogram excercize.md",
-    "Single pixel operations and histogram processing.md",
-    "Color Vision.md",
-    "corner detection.md",
-    "Field of View and Focal Distance.md",
-    "intro.md",
-    "Hough Transform.md",
-    "Image Formation.md",
-    "Bayer Filter.md",
-    "Aperture.md",
-    "stuff",
-    "Real Cameras.md",
-    "Thin Lens Model.md",
-    "Visual Sensors.md",
-    "Mathematical Camera model.md",
-    "Homogeneous Coordinates.md",
-    "Parallelism.md"
+    "Immagine WhatsApp 2024-01-19 ore 20.27.21_f02b6490.jpg",
+    "projects",
+    "projects/Adventure-ia.md",
+    "Caratteristiche di una storia.md",
+    "Immagine WhatsApp 2024-01-19 ore 20.06.31_558d2888.jpg",
+    "projects/Simple Chat.md",
+    "Svelte project structure.md",
+    "Svelte.md",
+    "Web dev.md",
+    "nvim.md",
+    "Gimp.md"
   ]
 }

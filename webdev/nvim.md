@@ -1,0 +1,1 @@
+- need a way to open the a .svelte file with colors
