@@ -15,8 +15,7 @@ Rappresenta l'analisi dei titoli , schemi etc... e di tutto quello che sta intor
 serve a : 
 - dare info sulla progressione 
 - riscaldarsi
-- a leggere piu efficaciamente in un momento successivo
-- 
+- a leggere piu efficaciamente in un momento successivo 
 
 
    
