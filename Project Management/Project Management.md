@@ -1,6 +1,5 @@
 ## **Project management**
-
-- Project management is the handling of a [[Definitions#Project|project]] in a [[Project Management#Project Management Life Cycle (PMLC)|life cycle]]
+IDEA: Project management is the handling of a [[Definitions#Project|project]] in a [[Project Management#Project Management Life Cycle (PMLC)|life cycle]]
 
 Project management is an **organized** common sense approach that utilizes the appropriate **client involvement** in order to **deliver** client requirements that meet expected **incremental business value**
 
@@ -15,15 +14,7 @@ Evolving of the responsibilities of a project manager as a team progresses throu
    - *Objective:* Reinforce positive behaviors and promoting a sense of unity
 4. **Performing:**
    - *Objective:* Support the team during deployment
-# Creeps
-"creep" challenges in project management
-- Scope Creep
-- Hope Creep
-- Effort Creep 
-- Feature Creep
-# Requirements of a project
-
-## Common definition 
+# Requirements 
 Can be :
 1. Condition or Capability needed by a Stakeholder to solve a problem or achieve an object 
  2. a Condition or capability that must be met or possessed by a solution or a solution component to satisfy a contract, standard, specification 
@@ -39,12 +30,13 @@ A requirement is a desired **END-STATE**, whose **successful integration** into 
 
 The set of requirements form a **necessary and sufficient** set for achieving expected business value 
 
-
-
 # Project Management Life Cycle (PMLC)
 A project management life cycle (PMLC) is a sequence of [[Definitions#Process|process]] that includes:
 ![[Pasted image 20231129185334.png]]
 which is also the [[Traditional Project Management#Linear PMLC model|Linear PMLC model]]
+# Choosing the best PMLC
+![[Pasted image 20240120202230.png]]
+
 ## Project Management Life Cycle Approaches
 ![[Pasted image 20231129183752.png]]
 

@@ -1,4 +1,12 @@
 ![[Pasted image 20240111191240.png]]
+# Static risk assessment (Project Management Process Groups)
+For a "static" risk assessment, where a risk has a medium probability of occurrence and a medium impact, the most recommended action is:
+
+**a) Keep into consideration**
+
+This means that the project team should be aware of the risk, monitor it, and factor it into their planning and decision-making processes. Ignoring or hiding the risk is not advisable, and taking action would typically be reserved for risks with higher probabilities or impacts that require proactive mitigation or response efforts. Keeping the risk into consideration allows for ongoing awareness and management without necessarily implementing immediate actions.
+
+
 # Five Project Management Process Groups
 Refer to a set of interrelated and distinct phases or stages that a project goes through from initiation to closure.
 #### The Scoping Process Group 

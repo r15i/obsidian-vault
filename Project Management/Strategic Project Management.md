@@ -47,15 +47,15 @@ SWOT analysis is a strategic planning tool that stands for :
 	- Threats : Threats are external factors that could negatively impact the organization.
 	
 
-# BCG Model (da rivedere nel libro)
+# BCG Growth-Share Matrix
 Boston Consulting Group matrix
 ![[Pasted image 20240111170204.png]]
 - the size of the circle shows the capitalization of the company
 ### Sectors
-- **Stars**: High market share and high market growth rate
-- ? or Problem Child : Low market share but high market grow rate 
-- Cash Cow: High market share and low market grow rate
-- Dogs : Low market share and low market grow rate 
+- **Stars**: These are products/services that have strong market positions and clearly strong growth potential. Projects related to stars are good investment opportunities. Stars are the future cash cows
+- ? or Problem Child : The question mark represents the starting point of the model. Products/services that are untested in the market but appear to have strong growth potential are worthy of spending research and development (R&D) dollars. Projects linked to those efforts are good investment opportunities. The objective is to turn them into stars and then cash cows.
+- Cash Cow: These are well-established products/services that have a strong market share but limited growth potentia
+- Dogs : Because these products/services are not competitive and have little or no growth potential, any projects related to them should not be undertaken. The best thing an organization can do with dogs is phase them out as quickly and painlessly as possible. Don’t throw good money after bad!
 # Value Chain Anaysis
 made by Micheal Porter
 
@@ -69,6 +69,7 @@ stands for : **V**alue, **R**arity , **I**mitability, **O**rganization
 Framework used to analyze the internal resources and capabilities of a firm , determining whether they provide a sustainable competitive advantage
 ![[Pasted image 20240111172205.png]]
 
+![[Pasted image 20240120194814.png]]
 
 ## OST Model 
 Objective, strategy, Tactics model

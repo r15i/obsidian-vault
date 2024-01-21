@@ -11,9 +11,9 @@
             "id": "74f474984753005a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Deep Learning for image classification.md",
+                "file": "iteration 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning for image classification.md",
+                "file": "iteration 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning for image classification.md",
+                "file": "iteration 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning for image classification.md"
+                "file": "iteration 1.md"
               }
             }
           }
@@ -146,14 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2b36c9ef27e5fe",
+  "active": "74f474984753005a",
   "lastOpenFiles": [
-    "strategies.md",
+    "intro.md",
+    "Image Formation.md",
+    "Hough Transform.md",
+    "Homogeneous Coordinates.md",
+    "High-Level Algorithms.md",
+    "edge detection.md",
+    "Deep Learning for image classification.md",
+    "Bayer Filter.md",
+    "Color Vision.md",
+    "Aperture.md",
     "Weather Classification.md",
     "Dataset.md",
+    "strategies.md",
     "stuff/Pasted image 20240114141501 1.png",
     "Tree map for exam.md",
-    "edge detection.md",
     "Semantic segmentation with deep learning.md",
     "Deep Learning for object detection.md",
     "stuff/Pasted image 20240114171203 1.png",
@@ -169,20 +178,12 @@
     "Linear Filters.md",
     "histogram excercize.md",
     "Single pixel operations and histogram processing.md",
-    "Color Vision.md",
     "corner detection.md",
     "Field of View and Focal Distance.md",
-    "intro.md",
-    "Hough Transform.md",
-    "Image Formation.md",
-    "Bayer Filter.md",
-    "Aperture.md",
     "stuff",
     "Real Cameras.md",
     "Thin Lens Model.md",
     "Visual Sensors.md",
-    "Mathematical Camera model.md",
-    "Homogeneous Coordinates.md",
-    "Parallelism.md"
+    "Mathematical Camera model.md"
   ]
 }

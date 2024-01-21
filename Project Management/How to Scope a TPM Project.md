@@ -1,5 +1,17 @@
 ![[Pasted image 20240112122511.png]]![[Pasted image 20240112122540.png]]
 
+
+# requirements (from TMP planning )
+
+- Functional Requirements:
+- Non-functional Requirements:
+- Global Requirements
+- Product and/or Project Constraints:
+![[Pasted image 20240120193920.png]]
+![[Pasted image 20240120193932.png]]
+
+
+
 ## Client Wants vs Client Needs 
 What your client wants may not be what your client needs:
 
