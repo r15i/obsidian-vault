@@ -1,4 +1,3 @@
-project management is much more than just GATT chart,Microsoft Project or similar tools
 # Project 
 ### Common definition
 A project is a [[#Sequence of activities|sequence]] of **[[#Unique activities|unique]], [[#Complex Activities|complex]] and [[#Connected Activities|connected]]** [[Definitions#Activities|activities]], that have one goal or **purpose** and that must be completed by a specific time within budget, and **according to specification**

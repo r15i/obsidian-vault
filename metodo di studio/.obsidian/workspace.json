@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf851d13d311b079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecniche di memorizzazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "062762ab37d9fff5",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettura efficace.md",
+                "file": "Tecniche di memorizzazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lettura efficace.md",
+                "file": "Tecniche di memorizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lettura efficace.md"
+                "file": "Tecniche di memorizzazione.md"
               }
             }
           }
@@ -146,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "228b82eafd5f2810",
+  "active": "bf851d13d311b079",
   "lastOpenFiles": [
-    "ADC.md",
+    "Memorizzata tramite palazzo della memoria.md",
+    "Tecniche di memorizzazione.md",
+    "Memorizzazione immagini.md",
     "Lettura efficace.md",
+    "ADC.md",
     "Caratteristiche del metodo di studio e fasi dell’apprendimento.md",
     "metodi e tecniche di studio.md",
     "Ambiente di studio, strumenti, stato psicofisico e atteggiamento.md",
