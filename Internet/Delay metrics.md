@@ -10,10 +10,12 @@ Time required to process a packet in a router or destination host
 ### 2. Queuing Delay  $d_{queue}$ :    
 Time a packet waits in input and output queues in a router
 ### 3. Transmission Delay $d_{trans}$ :
-### $d_{trans} = (Packet\,length)/(Transmission\,Rate)$
-
+OR also known as $Tx$ tempo di trasmissione
+ $d_{trans} = (Packet\,length)/(Transmission\,Rate)$
+$d_{trans} = L/C$
 ### 4.  Propagation Delay $d_{proc}$ :
 Fiscal time for the signal to get by the wire 
+usually one of packet and expressed as $\tau$
 ### $d_{prop} = (Distance)/(Propagation\,speed)$
 
 

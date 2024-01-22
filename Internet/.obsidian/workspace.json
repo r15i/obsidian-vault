@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP.md",
+                "file": "Delay metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP.md",
+                "file": "Delay metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP.md",
+                "file": "Delay metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP.md"
+                "file": "Delay metrics.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "fe272263087a0b7c",
   "lastOpenFiles": [
+    "Performance Analysis.md",
+    "Pipe Capacity metrics.md",
+    "Traffic metrics.md",
+    "Delay metrics.md",
+    "Reliability metrics.md",
+    "cheat sheet esercizi/cheat sheet esercizi.md",
+    "TCP.md",
     "Pasted image 20240119120855.png",
     "Pasted image 20240119120802.png",
     "Pasted image 20240119120440.png",
@@ -159,15 +166,12 @@
     "Pasted image 20240119115608.png",
     "Pasted image 20240119115142.png",
     "Pasted image 20240119115131.png",
-    "Pasted image 20240119112831.png",
     "Tree Map for exam.md",
-    "TCP.md",
     "UDP.md",
     "Transport Layer.md",
     "Stop-and-wait.md",
     "cheat sheet lab/private and public ip.md",
     "cheat sheet lab/Nat Table.md",
-    "cheat sheet esercizi/cheat sheet esercizi.md",
     "Internet Control Message Protocol (ICMP).md",
     "Routing.md",
     "Internet Protocol (IP).md",
@@ -182,11 +186,7 @@
     "Sub",
     "Internet Corporation for Assigned Names and Numbers (ICANN).md",
     "Internet Group Management Protocol(IGMP).md",
-    "Forwarding.md",
-    "Net Framing.md",
-    "Dll Framing.md",
     "cheat sheet esercizi",
-    "Network.md",
     "CSMA",
     "cheat sheet lab",
     "stuff",
