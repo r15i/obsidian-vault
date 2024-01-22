@@ -1,36 +1,44 @@
 ![[Pasted image 20240111191240.png]]
-# Static risk assessment (Project Management Process Groups)
-For a "static" risk assessment, where a risk has a medium probability of occurrence and a medium impact, the most recommended action is:
 
-**a) Keep into consideration**
 
-This means that the project team should be aware of the risk, monitor it, and factor it into their planning and decision-making processes. Ignoring or hiding the risk is not advisable, and taking action would typically be reserved for risks with higher probabilities or impacts that require proactive mitigation or response efforts. Keeping the risk into consideration allows for ongoing awareness and management without necessarily implementing immediate actions.
+
+## Project Management process groups 
+The Project Management Process Groups are a set of interrelated phases that represent the entire project life cycle.
 
 
 # Five Project Management Process Groups
 Refer to a set of interrelated and distinct phases or stages that a project goes through from initiation to closure.
-#### The Scoping Process Group 
+#### The Scoping PG 
 Develop and gain approval of a general statement of the goal and business value of the project 
-- Identifying stake holders 
-- Recruiting the Project manager
-- Eliciting the true needs 
-#### The Planning Process Group 
-(make estimate on time,cost and requirements)
+#### The Planning PG
 Identify work to be done and estimate time, cost and resource requirements and gain approval 
-#### The Launching Process Group 
+#### The Launching PG 
 Recruit the team and establish team operating rules 
-#### The Monitoring & Controlling Process Group 
+#### The Monitoring & Controlling PG 
 Respond to change request and resolve problem situations to maintain project progress.
-## The Closing Process Group 
+#### The Closing Process Group 
 Assure attainment of client requirements and install deliverables
 
+## NOTE 
+Process Groups are not a [[Project Management#Project Management Life Cycle (PMLC)|PMLC]] but are mapped to PMLC
+
+# Project Management Knowledge Areas
+## LIST 
+- Project Integration Management 
+- Project Scope Management 
+- Project Time Management 
+- Project Cost Management 
+- Project Quality Management 
+- Project Human Resources Management 
+- Project Communications Management 
+- Project Risk Management 
+- Project Procurement Management 
+- Project Stakeholder Management
 
 
 
-
-## Project Management Knowledge Areas
-#### **Project Integration Management**
-- Develop Project Overview Statement 
+##### **Project Integration Management**
+- Develop [[How to Scope a TPM Project#POS (Project Overview Statements)|POS]]
 - Develop Scope Statement 
 - Develop Project Plan 
 - Launch Project
@@ -38,17 +46,28 @@ Assure attainment of client requirements and install deliverables
 - Integrated Change Control 
 - Close Project 
 #### **Project Scope Management**
-- What the client wants and needs
+- [[How to Scope a TPM Project]]
 ![[Pasted image 20240112105958.png]]
+[[How to Scope a TPM Project#Requirements Breakdown Structure (RBS)|Requirements Breakdown Structure (RBS)]]
+
 ![[Pasted image 20240112110038.png]]
 ![[Pasted image 20240112110126.png]]
 #### **Project Time Management**
-- Delphi technique 
+##### Estimate task duration 
+- Expert advice
+- Similarity with other activities
+- historical data 
+-  Delphi technique : uses at each path the highest and lowest estimation from the groups to estimate the duration of the task
+![[Pasted image 20240121220618.png]]
+		
 - Three-point technique 
+  
+  ![[Pasted image 20240121221518.png]]
 - Wide-band Delphi technique
+  ![[Pasted image 20240121221540.png]]
 
 #### **Project Cost Management**
-- Labor Rates (Single and by position class)
+- Labor Rates (costo del lavoro)(Single and by position class)
 - Capital Equipment
 - Contracted Services	
 
@@ -60,12 +79,7 @@ Delivered on time within budget and according to client specification
 - Product Quality: The quality of the deliverables from the project
 
 Is divided in :
-- Quality Planning 
-	 Used to determine relevant quality standards for the project:
-	 - **Environmental factors**: stage agency regulations, rules, standards and guidelines 
-	 - **Organizational assets** : such as quality policies, and procedures
-	 - **Project Overview Statement** 
-	 - **Project Management Plan** 
+- Quality Planning: Factors that influence the quality 
 - Quality assurance 
      - Quality Audits
      - Process Analysis 
@@ -78,14 +92,10 @@ A Quality plan documents :
 - Process improvement program
 
 #### **Project Human Resources Management**
-- Project Team 
-	- Developer co-manager 
-	- Client co-mangaer 
-	- Core Team 
-	- Task Leaders 
-	- Team Members
+- Project Team ([[Collaborative Project Team#The Collaborative Co-Manager Model|team components]])
+- Skills and competences
 #### **Project Communications Management**
-Main problemes: Who are the project stakeholders, What do they need to know about the project,How should their need be met.
+Communication inside and to the stakeholders
 
 Communication is the process of passing information and understanding from one person to another 
 - Transmitted properly 
@@ -93,12 +103,10 @@ Communication is the process of passing information and understanding from one p
 - understood and accepted by the receiver
 ##### Types of communication
 ![[Pasted image 20240112114556.png]]
-
 ##### Types of interfaces 
 ![[Pasted image 20240112114738.png]]
 #### **Project Risk Management**
 #### Risk identification 
-Technical risk, project management risk , organizational risk, external risk
 
     ![[Pasted image 20240112114952.png]]
 	![[Pasted image 20240112115119.png]]
@@ -107,6 +115,8 @@ Technical risk, project management risk , organizational risk, external risk
 	
 ###### Static risk Assessment Matrix
 ![[Pasted image 20240112115447.png]]
+
+- impact=loss
 ###### Dynamic Risk Assessment Worksheet
 ![[Pasted image 20240112115813.png]]
 #### Risk mitigation
@@ -122,14 +132,22 @@ How can the losses be reduced or eliminated?
 ![[Pasted image 20240112120716.png]]
 
 #### **Project Procurement Management**
+It focuses on the processes and activities related to acquiring goods and services from external sources to meet the project requirements.
 ![[Pasted image 20240112121209.png]]
-- Vendor Solicitation and Evaluation 
+- Vendor Solicitation (develop [[How to Scope a TPM Project#Requirements Breakdown Structure (RBS)|Requirements Breakdown Structure (RBS)]] )
+- Vendor Evaluation 
 ![[Pasted image 20240112122128.png]]![[Pasted image 20240112122208.png]]
 - Vendor Selection 
-- Vendor Contracting 
+- Vendor Contracting (Negotiate the final contract) 
+		Type of contract:
+		- fixed price
+		- Time and Materials
+		- Retainer
+		- Cost Plus
 - Vendor Management 
 
 #### **Project Stakeholder Management**
+handling of the stake holders
 
 
 ## Process Groups PMLC 

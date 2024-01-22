@@ -5,10 +5,10 @@
 | ---- | ---- |
 | [[Definitions]] | 1 |
 | [[Project Management]] |  |
-| [[Strategic Project Management]] |  |
-| [[Collaborative Project Team]] |  |
-| [[Project Management Process Groups]] |  |
-| [[How to Scope a TPM Project]] |  |
+| [[Strategic Project Management]] | 1 |
+| [[Collaborative Project Team]] | 1 |
+| [[Project Management Process Groups]] | 1 |
+| [[How to Scope a TPM Project]] | 1 |
 | [[Bonus stuff]] (bonus) |  |
 | [[exams]] |  |
 

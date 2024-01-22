@@ -1,4 +1,5 @@
 ## **Project management**
+
 IDEA: Project management is the handling of a [[Definitions#Project|project]] in a [[Project Management#Project Management Life Cycle (PMLC)|life cycle]]
 
 Project management is an **organized** common sense approach that utilizes the appropriate **client involvement** in order to **deliver** client requirements that meet expected **incremental business value**
