@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettura efficace.md",
+                "file": "Lettura veloce.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tecniche di memorizzazione.md",
+                "file": "Lettura veloce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecniche di memorizzazione.md",
+                "file": "Lettura veloce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tecniche di memorizzazione.md"
+                "file": "Lettura veloce.md"
               }
             }
           }
@@ -160,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf851d13d311b079",
+  "active": "228b82eafd5f2810",
   "lastOpenFiles": [
-    "Memorizzata tramite palazzo della memoria.md",
-    "Tecniche di memorizzazione.md",
-    "Memorizzazione immagini.md",
-    "Lettura efficace.md",
     "ADC.md",
+    "Lettura veloce.md",
+    "Lettura efficace.md",
     "Caratteristiche del metodo di studio e fasi dell’apprendimento.md",
-    "metodi e tecniche di studio.md",
     "Ambiente di studio, strumenti, stato psicofisico e atteggiamento.md",
+    "Tecniche di memorizzazione.md",
+    "Memorizzata tramite palazzo della memoria.md",
+    "Memorizzazione immagini.md",
+    "metodi e tecniche di studio.md",
     "Esercizio - Auto-valutazione del sonno (PDF).md"
   ]
 }

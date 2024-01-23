@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe272263087a0b7c",
+            "id": "f64ff57a26229b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Delay metrics.md",
+                "file": "theory check 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Delay metrics.md",
+                "file": "theory check 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Delay metrics.md",
+                "file": "theory check 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Delay metrics.md"
+                "file": "theory check 1.md"
               }
             }
           }
@@ -147,26 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe272263087a0b7c",
+  "active": "f64ff57a26229b0e",
   "lastOpenFiles": [
+    "TCP.md",
+    "theory check 1.md",
+    "theory question/theory questions.md",
+    "theory question",
+    "Pasted image 20240123192533.png",
+    "Pasted image 20240123192518.png",
+    "Pasted image 20240123192505.png",
+    "Tree Map for exam.md",
+    "DNS.md",
+    "Application Layer.md",
+    "Pasted image 20240123192339.png",
+    "Pasted image 20240123192328.png",
+    "Pasted image 20240123192214.png",
+    "Pasted image 20240123192149.png",
+    "Pasted image 20240123191841.png",
+    "Pasted image 20240123191658.png",
+    "Pasted image 20240123191606.png",
+    "Delay metrics.md",
     "Performance Analysis.md",
     "Pipe Capacity metrics.md",
     "Traffic metrics.md",
-    "Delay metrics.md",
     "Reliability metrics.md",
     "cheat sheet esercizi/cheat sheet esercizi.md",
-    "TCP.md",
-    "Pasted image 20240119120855.png",
-    "Pasted image 20240119120802.png",
-    "Pasted image 20240119120440.png",
-    "Pasted image 20240119120418.png",
-    "Pasted image 20240119120400.png",
-    "Pasted image 20240119120340.png",
-    "Pasted image 20240119120201.png",
-    "Pasted image 20240119115608.png",
-    "Pasted image 20240119115142.png",
-    "Pasted image 20240119115131.png",
-    "Tree Map for exam.md",
     "UDP.md",
     "Transport Layer.md",
     "Stop-and-wait.md",
@@ -181,11 +186,7 @@
     "ACK.md",
     "Automatic Repeat reQuest (ARQ).md",
     "Sub and Supernetting.md",
-    "DHCP.md",
-    "Network layer.md",
     "Sub",
-    "Internet Corporation for Assigned Names and Numbers (ICANN).md",
-    "Internet Group Management Protocol(IGMP).md",
     "cheat sheet esercizi",
     "CSMA",
     "cheat sheet lab",
@@ -194,7 +195,6 @@
     "Internet/Performance Analysis",
     "Internet/Types of analysis",
     "Senza nome.canvas",
-    "Internet/Performance analysis",
-    "Internet"
+    "Internet/Performance analysis"
   ]
 }

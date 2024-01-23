@@ -258,5 +258,19 @@ It starts when **three duplicate ACKs arrive** wich is interpreted as light cong
 # TCP variants
 ![[Pasted image 20240118165228.png]]
 
+## Tahoe
+![[Pasted image 20240123192533.png]]
+## Reno
+![[Pasted image 20240123192505.png]]
+
+
+## Reno 2 
+![[Pasted image 20240123192518.png]]
+
+
+
+
+
+
 ![[Pasted image 20240118165326.png]]
 

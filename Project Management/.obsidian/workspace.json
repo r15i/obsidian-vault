@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strategic Project Management.md",
+                "file": "Tree map for exam.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "bda75903ca6857ba"
+          }
+        ]
+      },
+      {
+        "id": "2a70194fa619bdf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fdb3b1090077dbc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tree map for exam.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "bda75903ca6857ba"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strategic Project Management.md",
+                "file": "Tree map for exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strategic Project Management.md",
+                "file": "Tree map for exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strategic Project Management.md"
+                "file": "Tree map for exam.md"
               }
             }
           }
@@ -146,61 +189,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "49398ed958655b4b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "68145229d2fac4d7",
-        "type": "window",
-        "children": [
-          {
-            "id": "87d5a5b311625da7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68536625efd562aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "placeholder.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2276,
-        "y": 367,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "01e95d3519302afd",
   "lastOpenFiles": [
-    "Tree map for exam.md",
     "Definitions.md",
-    "exams.md",
-    "Collaborative Project Team.md",
-    "Strategic Project Management.md",
-    "How to Scope a TPM Project.md",
-    "18_gennaio_2021.md",
+    "Tree map for exam.md",
     "Bonus stuff.md",
+    "Strategic Project Management.md",
     "Project Management Process Groups.md",
+    "How to Scope a TPM Project.md",
     "Project Management.md",
+    "placeholder.md",
+    "Collaborative Project Team.md",
+    "exams.md",
+    "18_gennaio_2021.md",
     "Agile Project Management.md",
     "Extreme Project Management.md",
     "Emertxe Project Management.md",
     "Traditional Project Management.md",
     "stuff/Pasted image 20240121221540.png",
-    "placeholder.md",
     "stuff/Pasted image 20240121221538.png",
     "stuff/Pasted image 20240121221518.png",
     "stuff/Pasted image 20240121220618.png",

@@ -48,8 +48,7 @@
   - Schema metodo lettura 
     - [[Schema metodo lettura (PDF)]]
 - Stanza del Metronomo
-  - Lettura veloce…? 
-    - [[Leggere per sapere (PDF)]]
+- [[Lettura veloce]]
 - Archivio
   - Testi diversi, approcci diversi 
     - [[Leggere per sapere (PDF)]]

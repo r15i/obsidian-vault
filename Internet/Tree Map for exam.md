@@ -1,3 +1,6 @@
+![[Pasted image 20240123161342.png]]
+
+
 1.  intro :
 	- [[Internet]]
 	- [[ISO OSI MODEL]]
