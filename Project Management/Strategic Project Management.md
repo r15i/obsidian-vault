@@ -1,5 +1,3 @@
-![[Pasted image 20240111174425.png]]
-
 # Strategic Project Management
 Strategic Project Management (SPM) is an approach to project management that aligns project activities and objectives with an organization's overall strategic goals and objectives
 ## Project management 

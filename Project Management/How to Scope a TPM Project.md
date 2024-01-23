@@ -1,14 +1,14 @@
-![[Pasted image 20240112122511.png]]![[Pasted image 20240112122540.png]]
 ## Scoping 
 
 What your client wants may not be what your client needs
 **Scoping** is making sure that what they want is what they need and that you are able to deliver
 ## Project scoping process
 ![[Pasted image 20240112123418.png]]
+
+
 ## Establishing Condition of Satisfaction
 ![[Pasted image 20240112123501.png]]
-
-## Project Scoping Meeting 
+# Project Scoping Meeting 
 How to conduct a meeting 
 #### Purpose 
 - Document requirements 
@@ -18,48 +18,40 @@ How to conduct a meeting
 - Client Group 
 - Core Team Members
 - The Facilitator & Technographer
-#### Agenda 
-- Introductions 
-- Porpose of the meeting (led by Facilitator)
-- COS(conduct or review if done earlier)
-- Description of current state (by client representative)
-- Description of problem or business opportunity(by client representative)
-- Description of problem or business opportunity(by client representative)
-- Description of end state(by client representative)
-- Discussion of the gap between current and end state (by project manager)
-- Choose best fit project management approach to close the gap (by project manager)
-- Draft and approve the POS(whole group)
-- Adjourn
 #### Deliverables
 - [[#Requirements Breakdown Structure (RBS)|RBS]] creation
 - Assessment of completeness of [[#Requirements Breakdown Structure (RBS)|RBS]]
 - Project classification 
 - Determination of best fit [[Project Management#Project Management Life Cycle (PMLC)|PMLC]] Model
 - The [[#POS (Project Overview Statements)|POS]]
-# Requirements 
+
+
+### Requirements 
 
 A requirement is something the **product/project** should do/produce or a quality that it must have.
-## Business Value Perspective
+##### Business Value Perspective
 A requirement is a desired **end-state** whose successful integration into the solution **meets** one or more **needs** and delivers **specific, measurable, and incremental business** value to the organization
-# Types of requirements
-#### Functional and Non-functional Requirements  
+##### Types of requirements
+##### Functional and Non-functional Requirements  
 - **Functional requirements** : specify what the **product or service must do**
 	ex.  when a site visitor creates an account, the sending of a confirmation email
 - **Non-functional requirements** demonstrate **properties** that the product or service **should have** in order to do **what must be done**(a consequence )  
 	  ex.  The fact that the email must be sent in 10 minutes
-#### Global Requirement
+##### Global Requirement
 Can be seen **General requirements** ex A drill need to be able to drill 
-#### Product/Project Constraint 
+##### Product/Project Constraint 
 Product or project constraints are **limitations** or restrictions that can affect the development and execution of a project 
-# Requirements Breakdown Structure (RBS)
-The Requirements Breakdown Structure (RBS) is a hierarchical decomposition of project or system requirements that helps in organizing and categorizing them in a structured manner
-![[Pasted image 20240112154338.png]]
 
 ## Stakeholder Interaction in Requirements
 how the stakeholder interacts with the requirements
 ![[Pasted image 20240112154432.png]]
 
 
+
+
+# Requirements Breakdown Structure (RBS)
+The Requirements Breakdown Structure (RBS) is a hierarchical decomposition of project or system requirements that helps in organizing and categorizing them in a structured manner
+![[Pasted image 20240112154338.png]]
 
 ### Requirement Gathering 
 How to Gather information for the requirements 
@@ -84,7 +76,6 @@ How to Gather information for the requirements
      - Description may differ from actual detailed activities
      - Without structure, stakeholders may not know what information to provide
      - Real needs ignored if analyst is prejudiced
-     
 4. **Prototyping** 
    - Innovative ideas 
    - Users clarify what they want 

@@ -3,12 +3,12 @@
 
 | Subject | repetitions |
 | ---- | ---- |
-| [[Definitions]] | 1 |
-| [[Project Management]] |  |
-| [[Strategic Project Management]] | 1 |
-| [[Collaborative Project Team]] | 1 |
-| [[Project Management Process Groups]] | 1 |
-| [[How to Scope a TPM Project]] | 1 |
+| [[Definitions]] | 2 |
+| [[Project Management]] | 2 |
+| [[Strategic Project Management]] | 2 |
+| [[Collaborative Project Team]] | 2 |
+| [[Project Management Process Groups]] | 2 |
+| [[How to Scope a TPM Project]] | 2 |
 | [[Bonus stuff]] (bonus) |  |
 | [[exams]] |  |
 

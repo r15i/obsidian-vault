@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management Process Groups.md",
+                "file": "Strategic Project Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed80a099329c655c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management Process Groups.md",
+                "file": "Strategic Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management Process Groups.md",
+                "file": "Strategic Project Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management Process Groups.md"
+                "file": "Strategic Project Management.md"
               }
             }
           }
@@ -179,7 +178,7 @@
         "y": 367,
         "width": 600,
         "height": 600,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
@@ -187,30 +186,30 @@
   "active": "01e95d3519302afd",
   "lastOpenFiles": [
     "Tree map for exam.md",
-    "Project Management Process Groups.md",
-    "How to Scope a TPM Project.md",
-    "Collaborative Project Team.md",
     "Definitions.md",
-    "Project Management.md",
-    "placeholder.md",
-    "Pasted image 20240121221540.png",
-    "Pasted image 20240121221538.png",
-    "Pasted image 20240121221518.png",
-    "Pasted image 20240121220618.png",
+    "exams.md",
+    "Collaborative Project Team.md",
     "Strategic Project Management.md",
+    "How to Scope a TPM Project.md",
     "18_gennaio_2021.md",
+    "Bonus stuff.md",
+    "Project Management Process Groups.md",
+    "Project Management.md",
     "Agile Project Management.md",
     "Extreme Project Management.md",
     "Emertxe Project Management.md",
     "Traditional Project Management.md",
-    "Pasted image 20240120202230.png",
-    "Bonus stuff.md",
-    "exams.md",
-    "Pasted image 20240120195025.png",
-    "Pasted image 20240120194814.png",
-    "Pasted image 20240120193932.png",
-    "Pasted image 20240120193920.png",
-    "Pasted image 20240120193053.png",
+    "stuff/Pasted image 20240121221540.png",
+    "placeholder.md",
+    "stuff/Pasted image 20240121221538.png",
+    "stuff/Pasted image 20240121221518.png",
+    "stuff/Pasted image 20240121220618.png",
+    "stuff/Pasted image 20240120202230.png",
+    "stuff/Pasted image 20240120195025.png",
+    "stuff/Pasted image 20240120194814.png",
+    "stuff/Pasted image 20240120193932.png",
+    "stuff/Pasted image 20240120193920.png",
+    "stuff/Pasted image 20240120193053.png",
     "Process.md",
     "exam_chat_gpt1.md",
     "Program.md",

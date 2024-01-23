@@ -6,7 +6,7 @@ Characteristic:
 
 ## Extreme PMLC Model
 ![[Pasted image 20240120193053.png]]
-
+has phase
 When to use: 
 - Goal and solution not known 
 - through iteration converge on goal and solution 
