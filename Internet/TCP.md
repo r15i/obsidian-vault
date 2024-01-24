@@ -1,44 +1,33 @@
 - connection-oriented
 - reliable 
 
-# Connection phases:
-1. Connection set-up: Three-way handshake
-2. Data transmission : byte stream (as if a dedicated circuit were enstablished between source and destination)
-3. Connection close: close the connection(only at the 2 hosts connected)
-# reliablilty 
-TCP uses a combination of GBN and SR
-- checksum for error detection
-- Byte numbers, sequence numbers, acknowledgment numbers:
-  1. **retransmission**
-  2. **reordering**
-  3. **cumulative** and **selective** acknoledgments
 
 ## Services 
 1. Proces2process 
 2. Full-duplex Communication:(data flow in both directions at the same time)
 3. Multiplexing and Demultiplexing
 4. Reliable Service
-5. Connection-Oriented Service:
-   - TCP, unlike UDP, is a connection-oriented protocol
-   - There is a **logical** connection 
-   - TCP turns the **unreliable/connectionless** services offered by IP into a reliable/connection-oriented service offered to the application 
-   
+	   TCP uses a combination of GBN and SR
+	- checksum for error detection
+	- Byte numbers, sequence numbers, acknowledgment numbers:
+	  1. **retransmission**
+	  2. **reordering**
+	  3. **cumulative** and **selective** acknoledgments
+5. Connection-Oriented Service TCP, unlike UDP, is a connection-oriented protocolThere is a **logical** connection 
 
 # TCP Packet Format
 ![[Pasted image 20240118123705.png]]
 ### Source e port (16bit)
 #### Sequence Number(SN)(32bit)
 defines the number assigned to the first byte of data contained in this segment 
-- During connection establishment, each party uses a random generator to create a **initial sequence number(ISN)**
+- During connection establishment, the **initial sequence number(ISN)** is random 
 - **segment without payload do not have SN**
-- SN is the sequence number of any other segment  is the sequence number of the prev_seg + num of bytes carried by the previous segment
+- SN is the sequence number of any other segment  is the sequence number of the **prev_seg + num of bytes carried by the previous segment**
 # Ack number(32-bit)
 defines the next byte number expected by the receiver 
-
 - if the receiver of the segment has received succesfully x from the other party returns x+1 as the ack num 
 # HLEN(4BIT)
-the number of 4-bytes words in the TCP header
-
+the number of 4-bytes (32 bit * HLEN) words in the TCP header
 
 # Resv(6bit)
 Reserved for future
@@ -50,7 +39,10 @@ defines the available buffer space at the **receiver** in bytes
 # Flags (or Control)(6bit)
 ![[Pasted image 20240118125116.png]]
 # Urgent Pointer(16bit)
-used when the segment contains urgent data. It defines a value that must be added to the SN to obtain the number of the last urgent byte
+points to urgent data, if there is
+location of urgent data is obtained by 
+UP +SN = LOCATION OF URGENT DATA IN THE PACKET
+
 ![[Pasted image 20240118130115.png]]
 # Checksum(16bit)
 ![[Pasted image 20240118130332.png]]
@@ -71,54 +63,54 @@ the same as UDP but  **mandatory**
 
 ## Connection Establishment
 #### Three-way Handshaking
-1. SYN flag = 1 , for the synchronization of the sequence numbers  ![[Pasted image 20240118170949.png]]
-	The client chooses a **random** **Initial sequence number (ISN)** as the first sequence number
-	- SYN segment carries no data
-	- SYN consumes one sequence number
+1. **SYN** (client)
+	 ![[Pasted image 20240118170949.png]]
+	 **SYN  = 1** **synchronization** FLAG
+	 random(ISN)
+	- **SYN** segment carries no data
+	- **SYN** consumes one sequence number
+	- no **ACKn** no **rwnd** def
 	![[Pasted image 20240118172959.png]]
-2. The server sends the second segment, a **SYN + ACK** segment with ACK,SYN = 1
-   ![[Pasted image 20240118172229.png]]
-   - with a different ISN choosen by the server for **FULL-DUPLEX** communication
-   - display the next SN it expects from the client by setting the ACK flag and displying the next SN 
-   - Note that this segment **does not** contain an acknowledgment number.
-     it does not define the window size either
-   - it also needs to reply with the **receive window** size for flow control 
+2. **SYN + ACK** (server)
+	   ![[Pasted image 20240118172229.png]]
+	- **SYN + ACK** flag segment with ACK,SYN = 1
+	- with a different ISN choosen by the server for **FULL-DUPLEX** communication
+	- the server also send **ACK** the receipt of the **SYN** segment and displaying the next SN it expects to receive
+	- Note that this segment **does not** contain an acknowledgment number.
+	- **it also needs to reply with the **receive window** size for flow control **
   ![[Pasted image 20240118173020.png]]
-3. The client sends the third segment. 
+3. ACK (client)
    - just an ACK with ACK = 1
-   -  Contains **receive window** size   
+   -  Contains **receive window** size  for the server
     ![[Pasted image 20240118173529.png]]
-- ACK + piggy back 
+3.  ACK + piggy back  (client)
 	the sender also sends some data:
 	-  in this case the SN is changed on the number of bytes
 	- in this case the communication starts immediately
 ![[Pasted image 20240118173702.png]]
 
-   exists also the **four-way handshaking** with half closing 
-
-### Time for connection Establishment
+## Time for connection Establishment
+###### without Piggyback
 - SYN +(SYN+ACK)+ACK (than data transfer)
 - $T_{CE}=3\cdot(\tau_p+T_{tx})=3\cdot(\tau_p)$
-#### Time for connection Establishment Piggyback
+###### with Piggyback
 - SYN+(SYN+ACK)+ACK (transmission data already starts)
 - $T_{CE}=2\cdot(\tau_p+T_{tx})=2\cdot(\tau_p)$ 
 ## Data transfer 
-- After connection is established, **bidirectional data tranfer** can start
+- After connection is established, **bidirectional data transfer** can start
 ![[Pasted image 20240118174344.png]]
-
-
 ## Connection Termination
 ## Three-way handshaking 
 - **FIN** *consumens a sequence number*
-- TCP server gets the fin and replies with FIN+ACK
+- FIN +  ACK  TCP server 
 - TCP clients sends ACK and closes the session in both direction 
 ![[Pasted image 20240118175650.png]]
 ## Four-way handshaking 
-- TCP client sends a segment with **FIN** 
+- FIN TCP client 
 - TCP server receives **FIN** and replies with **ACK** 
-  - TCP server keeps sending data
-  - TCP CLINET CAN ONLY SEND ACKs with no payload
-- When data TXis completed, TCP server sends **FIN**  
+  1.  TCP server keeps sending data
+  2.  TCP CLIENTT CAN ONLY SEND ACKs with no payload
+- TX completed $\rightarrow$  TCP server sends **FIN**  
 - TCP client sends **ACK** and closes the connection 
 ![[Pasted image 20240118180039.png]]
 
@@ -136,8 +128,6 @@ difference with TCP:
 - rwnd = buffer size-number of waiting bytes to be pulled
 - ACK is SR is selective , defining the uncorrupted packets that have been received. ACK in TCP is cumulative annuncing the next expected byte to receive
   ![[Pasted image 20240119110832.png]]
- 
-
 ### Achieve flow control 
 TCP forces the sender and the receiver to **adjust their window sizes** , although the size of the buffer is fixed 
 

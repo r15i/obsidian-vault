@@ -13,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory check 2.md",
+                "file": "DNS.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1b49e53e7935036c"
+            }
           },
           {
             "id": "aace22c9af5c9e79",
@@ -31,48 +30,6 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "b09d5960c1b19f5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5b447a86c1f36815",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "theory check 2.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "1b49e53e7935036c"
           }
         ]
       }
@@ -141,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory check 2.md",
+                "file": "DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory check 2.md",
+                "file": "DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory check 2.md"
+                "file": "DNS.md"
               }
             }
           }
@@ -204,16 +161,21 @@
   },
   "active": "f64ff57a26229b0e",
   "lastOpenFiles": [
+    "Pasted image 20240124130616.png",
+    "Pasted image 20240124130353.png",
+    "Tree Map for exam.md",
+    "TCP.md",
+    "UDP.md",
+    "Transport Layer.md",
+    "theory check 2.md",
+    "ICANN.md",
     "CSMA_CD.md",
     "Random Access.md",
     "Medium Access Control (MAC).md",
     "Controlled Access.md",
-    "Tree Map for exam.md",
     "Automatic Repeat reQuest (ARQ).md",
-    "theory check 2.md",
     "theory question/theory questions.md",
     "theory check 1.md",
-    "TCP.md",
     "theory question",
     "Pasted image 20240123192533.png",
     "Pasted image 20240123192518.png",
@@ -226,21 +188,16 @@
     "Pasted image 20240123192149.png",
     "Pasted image 20240123191841.png",
     "Pasted image 20240123191658.png",
-    "Pasted image 20240123191606.png",
     "Delay metrics.md",
     "Performance Analysis.md",
     "Pipe Capacity metrics.md",
     "Traffic metrics.md",
     "Reliability metrics.md",
     "cheat sheet esercizi/cheat sheet esercizi.md",
-    "UDP.md",
-    "Transport Layer.md",
     "Stop-and-wait.md",
     "cheat sheet lab/private and public ip.md",
     "cheat sheet lab/Nat Table.md",
     "Internet Control Message Protocol (ICMP).md",
-    "Routing.md",
-    "Internet Protocol (IP).md",
     "Sub",
     "cheat sheet esercizi",
     "CSMA",

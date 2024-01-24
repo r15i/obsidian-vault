@@ -110,7 +110,8 @@
 **Seconda Torre - Conquistare la Memoria**
 
 - Sala delle Spirali
-  - Ripasso, ripetizioni programmate, metodo Leitner 
+  - [[Ripasso, ripetizioni programmate, metodo Leitner ]]
+  - 
     - [[Quando, quanto e come ripassare (PDF)]]
     - Esempi Leitner 
       - [[Esempi Leitner (ZIP)]]

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lettura veloce.md",
+                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87ee1954907ca30c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lettura veloce.md",
+                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lettura veloce.md",
+                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lettura veloce.md"
+                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md"
               }
             }
           }
@@ -159,17 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "228b82eafd5f2810",
+  "active": "87ee1954907ca30c",
   "lastOpenFiles": [
+    "Pasted image 20240124115835.png",
+    "Pasted image 20240124114507.png",
+    "Ripasso.md",
+    "Tecniche di memorizzazione.md",
+    "Memorizzazione immagini.md",
+    "metodi e tecniche di studio.md",
+    "Ripasso, ripetizioni programmate, metodo Leitner.md",
     "ADC.md",
     "Lettura veloce.md",
     "Lettura efficace.md",
     "Caratteristiche del metodo di studio e fasi dell’apprendimento.md",
     "Ambiente di studio, strumenti, stato psicofisico e atteggiamento.md",
-    "Tecniche di memorizzazione.md",
     "Memorizzata tramite palazzo della memoria.md",
-    "Memorizzazione immagini.md",
-    "metodi e tecniche di studio.md",
     "Esercizio - Auto-valutazione del sonno (PDF).md"
   ]
 }
