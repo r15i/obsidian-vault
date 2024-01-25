@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74f474984753005a",
+            "id": "c7213523c0391263",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iteration 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iteration 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iteration 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "iteration 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74f474984753005a",
+  "active": "c7213523c0391263",
   "lastOpenFiles": [
+    "iteration 1.md",
     "intro.md",
     "Image Formation.md",
     "Hough Transform.md",
@@ -183,7 +176,6 @@
     "stuff",
     "Real Cameras.md",
     "Thin Lens Model.md",
-    "Visual Sensors.md",
-    "Mathematical Camera model.md"
+    "Visual Sensors.md"
   ]
 }

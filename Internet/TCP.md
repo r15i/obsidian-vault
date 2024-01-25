@@ -56,7 +56,11 @@ the same as UDP but  **mandatory**
    up to 40 bytes of optional information in th TCP HEADER as:
    - EOP(end of operation) for padding
    - No operation: used to align the beginning of an option
-   - **Maximum segment size** (MSS): define the maximum size of the segment to be used, to avoid fragmentation in the IP layer (usually is MTU_SIZE-IP/TCP headers)
+   - **Maximum segment size** (MSS): define the maximum size of the segment to be used IS \[536,65535 byte\]
+ - TO NOTE to avoid fragmentation in the IP layer (usually is MTU_SIZE-(IP/TCP) headers)
+     
+     
+    
 # TCP Connection 
 ![[Pasted image 20240118130754.png]]
 - **Establish** the **connection-oriented** logical path between the source and destination
@@ -192,14 +196,23 @@ tools:
 - time-out
 
 ## retransmission
-##### after RTO
-the sender maintains a **retransmission time-out (RTO)** for each connection
-when the timer matures, RCP resends the segment in the front of the queue(the smallest ACK)
-- RTO is dynamic and is updated based on the round-trip time (RTT) of segments
+##### after RTO (retransmission time out)
+The sending TCP maintains one **retransmission time-out (RTO)** for each connection.
+
+When the timer matures, i.e., times out, TCP resends the segment in the front of the queue (the segment with the smallest sequence number) and restarts the timer.
+
+- The value of RTO is dynamic in TCP and is updated based on the round-trip time (RTT) of segments.
 ##### after Duplicate ACK (Fast retransmission )
-to expedite service throughout the Internet by allowing senders to retransmit without waiting for a time out, most implementations today
+to expedite service throughout the Internet by allowing **senders** to -**re transmit** without waiting for a time out.
+- most implementation after 3 dup Ack will retransmit the missing segment immediately (FAST RETRASMISSION)
+
+## Lost segment example
 ![[Pasted image 20240119115131.png]]
+## Fast retransmiossion
 ![[Pasted image 20240119115142.png]]
+- **Text:** In which way does a TCP endpoint react to the third received duplicate ACK?
+- ** It immediately retransmits the first non-ACKed segment, and restarts the RTO with the current value.**
+
 # Congestion Control 
 control the number of segments to transmit
 using a **congestion window (cwnd)**

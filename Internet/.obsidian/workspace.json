@@ -11,25 +11,65 @@
             "id": "f64ff57a26229b0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DNS.md",
-                "mode": "source",
-                "source": false
+                "file": "stuff/Pasted image 20240124201506.png"
               }
-            }
+            },
+            "group": "570163a69970a7df"
           },
           {
-            "id": "aace22c9af5c9e79",
+            "id": "064ff10c54c8f413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CSMA_CD.md",
-                "mode": "source",
-                "source": false
+                "file": "stuff/Pasted image 20240124183026.png"
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f1d41623115f601b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fcef2930c9e4958",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "stuff/Pasted image 20240124201506.png",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 8,
+                  "close": false
+                }
+              }
+            },
+            "group": "570163a69970a7df"
           }
         ]
       }
@@ -81,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f74e69f5439a5d89",
@@ -98,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNS.md",
+                "file": "stuff/Pasted image 20240124183026.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNS.md",
+                "file": "stuff/Pasted image 20240124183026.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNS.md"
+                "file": "stuff/Pasted image 20240124183026.png"
               }
             }
           }
@@ -159,35 +198,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f64ff57a26229b0e",
+  "active": "dd65e2c100d1ccbc",
   "lastOpenFiles": [
-    "Pasted image 20240124130616.png",
-    "Pasted image 20240124130353.png",
-    "Tree Map for exam.md",
+    "stuff/Pasted image 20240124201506.png",
     "TCP.md",
-    "UDP.md",
+    "theory check 4.md",
+    "stuff/Pasted image 20240124201248.png",
+    "stuff/Pasted image 20240124201231.png",
+    "Immagine WhatsApp 2024-01-24 ore 20.12.07_c945e710.jpg",
+    "Session Layer.md",
+    "stuff/Pasted image 20240124184940.png",
+    "theory question/theory questions.md",
+    "theory check 3.md",
+    "stuff/Pasted image 20240124183030.png",
+    "stuff/Pasted image 20240124183026.png",
+    "theory check 1.md",
     "Transport Layer.md",
+    "CSMA_CD.md",
+    "DNS.md",
+    "stuff/Pasted image 20240124130616.png",
+    "stuff/Pasted image 20240124130353.png",
+    "Tree Map for exam.md",
+    "UDP.md",
     "theory check 2.md",
     "ICANN.md",
-    "CSMA_CD.md",
     "Random Access.md",
     "Medium Access Control (MAC).md",
     "Controlled Access.md",
     "Automatic Repeat reQuest (ARQ).md",
-    "theory question/theory questions.md",
-    "theory check 1.md",
     "theory question",
-    "Pasted image 20240123192533.png",
-    "Pasted image 20240123192518.png",
-    "Pasted image 20240123192505.png",
-    "DNS.md",
+    "stuff/Pasted image 20240123192533.png",
     "Application Layer.md",
-    "Pasted image 20240123192339.png",
-    "Pasted image 20240123192328.png",
-    "Pasted image 20240123192214.png",
-    "Pasted image 20240123192149.png",
-    "Pasted image 20240123191841.png",
-    "Pasted image 20240123191658.png",
     "Delay metrics.md",
     "Performance Analysis.md",
     "Pipe Capacity metrics.md",
@@ -195,9 +236,6 @@
     "Reliability metrics.md",
     "cheat sheet esercizi/cheat sheet esercizi.md",
     "Stop-and-wait.md",
-    "cheat sheet lab/private and public ip.md",
-    "cheat sheet lab/Nat Table.md",
-    "Internet Control Message Protocol (ICMP).md",
     "Sub",
     "cheat sheet esercizi",
     "CSMA",
