@@ -89,6 +89,7 @@ $[SN_{min}+1,SN_{max}]=N=$ sending window size = max number of in-flight packets
 #### on Sender
 ![[Pasted image 20240105145950.png]]
 - if we receive an $ACK(n)$ with n in the window $[SN_{min}SN_{max}]$ the window is slid forward setting $SN_{min} = n$ wich actually mean i have **ACKNOWLEDGED**  those packet (**comulative ACK**) and $SN_{max} = SN_{MIN}+ N -1$ 
+- ![[Immagine WhatsApp 2024-01-25 ore 10.39.38_58f19fd9.jpg]]
 #### on Receiver
 when a packet arrives with $SN = x$  from the lower level 
 - if $x>RN_{min}$ packed is buffered

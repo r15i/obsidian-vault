@@ -1,4 +1,7 @@
 
+![[Pasted image 20240127163654.png]]
+**red** is the whole program 
+**yellow** the part tracted 
 
 
 | Subject | repetitions |

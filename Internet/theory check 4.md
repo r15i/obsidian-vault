@@ -12,7 +12,9 @@ Certainly! Here are the reformatted incorrect questions for Obsidian:
        
     Since the first segment was lost, the receiver would send an acknowledgment (ACK) for the next expected sequence number. In this case, the next expected sequence number would be 230 (the sequence number of the first segment that was lost). Therefore, the ACK number sent by the receiver (Y) would be 230.
 	X = Sequence number of the second segment - Sequence number of the first segment X = 290 - 230 X = 60
-![[Pasted image 20240124184940.png]]
+	**non si spiega perchè non 231** 
+	
+	![[Pasted image 20240124184940.png]]
 rifare i grafichetti
 
 3. **Question:**

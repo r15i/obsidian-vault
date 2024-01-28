@@ -3,10 +3,11 @@
 L≥2×Propagation Time×Bitrate
 
 9 sus
+
+è una sliding window quindi bisogna fare il conto della queue dei pacchetti, quando si arriva a mandare piu di 3 pacchetti in realtà in quella trasmissione manda comunque un pacchetto
+![[Immagine WhatsApp 2024-01-25 ore 10.39.38_58f19fd9 1.jpg]]
 10 sus 
 11 sus 
-14 susu
-has a smaller averatge transmission latency that fdma
 
 **Given Parameters:**
 - Bitrate (\(R\)): 64 Kbps (\(64 \times 10^3\) bps)
@@ -30,6 +31,9 @@ The minimum frame size (\(S\)) for 50% link utilization is 320 bits. Since 1 byt
 12 sus
 
 13 sus
+14 susu
+has a smaller averatge transmission latency that fdma
+
 # Sliding Window Protocol: Optimal Window Size
 
 **Given Parameters:**

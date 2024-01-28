@@ -17,50 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "bda75903ca6857ba"
-          }
-        ]
-      },
-      {
-        "id": "2a70194fa619bdf3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5fdb3b1090077dbc",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Tree map for exam.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "bda75903ca6857ba"
+            }
           }
         ]
       }
@@ -191,6 +148,8 @@
   },
   "active": "01e95d3519302afd",
   "lastOpenFiles": [
+    "Pasted image 20240127163654.png",
+    "Pasted image 20240127163500.png",
     "Definitions.md",
     "Tree map for exam.md",
     "Bonus stuff.md",
@@ -215,7 +174,6 @@
     "stuff/Pasted image 20240120194814.png",
     "stuff/Pasted image 20240120193932.png",
     "stuff/Pasted image 20240120193920.png",
-    "stuff/Pasted image 20240120193053.png",
     "Process.md",
     "exam_chat_gpt1.md",
     "Program.md",

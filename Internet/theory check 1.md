@@ -7,7 +7,10 @@ Ora analizziamo ogni parte dell'equazione:
 
 - $( (K + N - 1) \frac{M}{R})$ : Questa parte rappresenta il tempo richiesto per inviare tutti i pacchetti sulla rete. \(K\) pacchetti devono essere inviati, ognuno con una dimensione di \(M\) bit (incluso l'header), attraverso \(N\) collegamenti con un bitrate \(R\). Il termine \(N - 1\) tiene conto del fatto che ci sono \(N\) collegamenti, ma solo \(N - 1\) "spazi" tra i collegamenti attraverso i quali i pacchetti possono essere inviati.
 
-- \( N\tau \): Questa parte rappresenta il ritardo di propagazione totale attraverso tutti i collegamenti. \(N\) è il numero totale di collegamenti, e \(\tau\) è il ritardo di propagazione per ciascun collegamento.
+- \( N$\tau$ \): Questa parte rappresenta il ritardo di propagazione totale attraverso tutti i collegamenti. \(N\) è il numero totale di collegamenti, e \(\tau\) è il ritardo di propagazione per ciascun collegamento.
+
+semplicemente assume per qualche motivo che i pacchetti sono mandati e si aspetta ogni pacchetto arrivi per poi mandarne un altro 
+tipo stop and wait
 ## Question 6
 
 **Select one:**

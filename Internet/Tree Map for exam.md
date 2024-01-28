@@ -1,4 +1,4 @@
-![[Pasted image 20240123161342.png]]
+ ![[Pasted image 20240123161342.png]]
 
 
 1.  intro :
@@ -7,7 +7,7 @@
 	- [[Network Devices]]
 	- [[Network Architectures]]
 	- [[Performance Analysis]]
-	   ####  [[Answers|Answer intro]] 
+	
 2. Data Link layer(DLL):
 	- [[Data Link layer(DLL)]]
 	- [[Automatic Repeat reQuest (ARQ)]]
@@ -25,7 +25,7 @@
 	- [[TCP]]
 	- [[DNS]]
 
-
+5. [[theory questions]]
 
 
 

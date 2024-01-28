@@ -4,72 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc9db827b9628e2",
+        "id": "7b199cff12e47c67",
         "type": "tabs",
         "children": [
           {
-            "id": "f64ff57a26229b0e",
+            "id": "a982380d61fe95f4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "stuff/Pasted image 20240124201506.png"
-              }
-            },
-            "group": "570163a69970a7df"
-          },
-          {
-            "id": "064ff10c54c8f413",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "stuff/Pasted image 20240124183026.png"
+                "file": "Tree Map for exam.md",
+                "mode": "source",
+                "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f1d41623115f601b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fcef2930c9e4958",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "stuff/Pasted image 20240124201506.png",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 8,
-                  "close": false
-                }
-              }
-            },
-            "group": "570163a69970a7df"
           }
         ]
       }
@@ -137,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stuff/Pasted image 20240124183026.png",
+                "file": "Tree Map for exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stuff/Pasted image 20240124183026.png",
+                "file": "Tree Map for exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stuff/Pasted image 20240124183026.png"
+                "file": "Tree Map for exam.md"
               }
             }
           }
@@ -198,44 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd65e2c100d1ccbc",
+  "active": "a982380d61fe95f4",
   "lastOpenFiles": [
-    "stuff/Pasted image 20240124201506.png",
     "TCP.md",
+    "Internet Control Message Protocol (ICMP).md",
+    "Automatic Repeat reQuest (ARQ).md",
     "theory check 4.md",
+    "theory question/theory questions.md",
+    "Tree Map for exam.md",
+    "Data Link layer(DLL).md",
+    "Dictionary.md",
+    "theory check 3.md",
+    "cheat sheet lab/private and public ip.md",
+    "Internet Protocol (IP).md",
+    "stuff/Pasted image 20240124183026.png",
+    "Bridge.md",
+    "theory check 2.md",
+    "Immagine WhatsApp 2024-01-25 ore 10.39.38_58f19fd9 1.jpg",
+    "Immagine WhatsApp 2024-01-25 ore 10.39.38_58f19fd9.jpg",
+    "Answers.md",
+    "stuff/Pasted image 20240124201506.png",
+    "theory check 1.md",
     "stuff/Pasted image 20240124201248.png",
     "stuff/Pasted image 20240124201231.png",
     "Immagine WhatsApp 2024-01-24 ore 20.12.07_c945e710.jpg",
     "Session Layer.md",
     "stuff/Pasted image 20240124184940.png",
-    "theory question/theory questions.md",
-    "theory check 3.md",
     "stuff/Pasted image 20240124183030.png",
-    "stuff/Pasted image 20240124183026.png",
-    "theory check 1.md",
     "Transport Layer.md",
     "CSMA_CD.md",
     "DNS.md",
     "stuff/Pasted image 20240124130616.png",
-    "stuff/Pasted image 20240124130353.png",
-    "Tree Map for exam.md",
     "UDP.md",
-    "theory check 2.md",
     "ICANN.md",
     "Random Access.md",
     "Medium Access Control (MAC).md",
     "Controlled Access.md",
-    "Automatic Repeat reQuest (ARQ).md",
     "theory question",
-    "stuff/Pasted image 20240123192533.png",
     "Application Layer.md",
     "Delay metrics.md",
-    "Performance Analysis.md",
-    "Pipe Capacity metrics.md",
-    "Traffic metrics.md",
-    "Reliability metrics.md",
-    "cheat sheet esercizi/cheat sheet esercizi.md",
-    "Stop-and-wait.md",
     "Sub",
     "cheat sheet esercizi",
     "CSMA",

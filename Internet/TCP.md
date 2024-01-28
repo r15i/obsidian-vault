@@ -204,14 +204,15 @@ When the timer matures, i.e., times out, TCP resends the segment in the front of
 - The value of RTO is dynamic in TCP and is updated based on the round-trip time (RTT) of segments.
 ##### after Duplicate ACK (Fast retransmission )
 to expedite service throughout the Internet by allowing **senders** to -**re transmit** without waiting for a time out.
-- most implementation after 3 dup Ack will retransmit the missing segment immediately (FAST RETRASMISSION)
+- most implementation after 3 dup Ack will retransmit the missing segment immediately (FAST RETRASMISSION) and do not  restart the RTO (or update its value) just retransmit
+- - **It immediately retransmits the first non-ACKed segment, and restarts the RTO with the current value.**
 
 ## Lost segment example
 ![[Pasted image 20240119115131.png]]
 ## Fast retransmiossion
 ![[Pasted image 20240119115142.png]]
 - **Text:** In which way does a TCP endpoint react to the third received duplicate ACK?
-- ** It immediately retransmits the first non-ACKed segment, and restarts the RTO with the current value.**
+- **It immediately retransmits the first non-ACKed segment, and restarts the RTO with the current value.**
 
 # Congestion Control 
 control the number of segments to transmit
