@@ -19,7 +19,6 @@ usually one of packet and expressed as $\tau$
 ### $d_{prop} = (Distance)/(Propagation\,speed)$
 
 
-
 # Delay metrics in practice 
 usually we approximate as 
 

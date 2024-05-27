@@ -4,6 +4,14 @@
 **yellow** the part tracted 
 
 
+
+| Subject | repetitions |
+| ---- | ---- |
+| [[What is a project]] | 2 |
+| [[Strategic Project Management]] |  |
+
+
+
 | Subject | repetitions |
 | ---- | ---- |
 | [[Definitions]] | 2 |

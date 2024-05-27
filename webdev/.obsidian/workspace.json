@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f12cd1f1a9face50",
+        "id": "5ab440ce4eb8d71b",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ae0bd5ca0034e4",
+            "id": "bf34a410fb5fb83f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Simple Chat.md",
+                "file": "projects/sito per programmare lo studio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Simple Chat.md",
+                "file": "projects/sito per programmare lo studio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Simple Chat.md",
+                "file": "projects/sito per programmare lo studio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Simple Chat.md"
+                "file": "projects/sito per programmare lo studio.md"
               }
             }
           }
@@ -146,18 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ae0bd5ca0034e4",
+  "active": "bf34a410fb5fb83f",
   "lastOpenFiles": [
-    "Immagine WhatsApp 2024-01-19 ore 20.27.21_f02b6490.jpg",
-    "projects",
-    "projects/Adventure-ia.md",
-    "Caratteristiche di una storia.md",
-    "Immagine WhatsApp 2024-01-19 ore 20.06.31_558d2888.jpg",
-    "projects/Simple Chat.md",
-    "Svelte project structure.md",
+    "Immagine WhatsApp 2024-03-09 ore 19.33.14_9826e69e.jpg",
+    "Immagine WhatsApp 2024-03-02 ore 19.16.48_dabd0d24.jpg",
+    "Immagine WhatsApp 2024-02-28 ore 14.11.37_c8b20eae.jpg",
+    "Immagine WhatsApp 2024-03-02 ore 11.39.34_12f598a3.jpg",
+    "projects/sito per programmare lo studio.md",
+    "RUST.md",
     "Svelte.md",
-    "Web dev.md",
+    "GO.md",
     "nvim.md",
-    "Gimp.md"
+    "Web dev.md",
+    "Gimp.md",
+    "Figma.md",
+    "Pasted image 20240224181723.png",
+    "projects/Simple Chat.md",
+    "projects/AdventureLearn Ai.md",
+    "Pocketbase.md",
+    "Pasted image 20240201140841.png",
+    "Spock Stack.md",
+    "Svelte project structure.md",
+    "stuff/Pasted image 20240129114211.png",
+    "sharing data between components.md",
+    "Untitled",
+    "Caratteristiche di una storia.md",
+    "stuff/Pasted image 20240129120236.png",
+    "stuff/Pasted image 20240129120208.png",
+    "stuff/Pasted image 20240129120144.png",
+    "stuff/Pasted image 20240129120131.png",
+    "stuff",
+    "projects",
+    "projects/Adventure-ia.md"
   ]
 }

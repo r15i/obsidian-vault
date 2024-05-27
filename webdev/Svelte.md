@@ -1,4 +1,26 @@
+https://www.youtube.com/watch?v=UGBJHYpHPvA&ab_channel=freeCodeCamp.org
+https://www.youtube.com/watch?v=vhGiGqZ78Rs&ab_channel=freeCodeCamp.org
+https://www.youtube.com/watch?v=ujbE0mzX-CU&ab_channel=freeCodeCamp.org
+
 Svelte is a JavaScript framework designed to build user interfaces (UIs) for the web. It differs from other frameworks like React, Angular, or Vue in its approach to building applications. Svelte shifts the work typically done at runtime to build time, resulting in smaller and more efficient code that runs faster in the browser.
+
+
+
+
+
+![[Pasted image 20240129114211.png]]
+
+you write declarative code that gets compiled into imperative code that works with browser api
+
+
+
+
+
+
+
+
+
+
 
 Key features of Svelte include:
 
@@ -24,6 +46,11 @@ Key features of Svelte include:
 - [[Svelte project structure]]
 
 
+
+
+# Sharing data between components
+- [[sharing data between components]]
+
 # Basic setup
 install [[Node.js]] and npm
 - download template svelte `npx degit sveltejs/template my-svelte-app`
@@ -31,8 +58,12 @@ install [[Node.js]] and npm
  - installare le dipendenze per il progetto  ` npm install`
 - avvia il server di sviluppo `npm run dev`
 
+
+
+
 # Projects
 - [[Simple Chat]]
 - [[Adventure-ia]]
 - 
+
 

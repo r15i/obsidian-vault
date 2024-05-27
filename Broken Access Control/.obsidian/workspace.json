@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "218263e3405b93db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce05c19e42f01a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61909b0a35b2de68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work flow for Broken Access control Vuln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12750abab5d03bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work flow for Broken Access control Vuln.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25701a15508e270e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GRAPHQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a0ba4b497d1a9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broken Access Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed8d4675e5d68c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broken Access Control.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e315b313e3ed58b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d3b98355a7c088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6d6b69dc11fa3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15b556c8274441cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98c920a81968d3ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "422d1dea78bddf5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99f2ef36aaabfcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "936c838438229194",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GRAPHQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a25c4b3854efb45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GRAPHQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "193f978166fa86e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c857d69ac20f7ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GRAPHQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "25701a15508e270e",
+  "lastOpenFiles": [
+    "Work flow for Broken Access control Vuln.md",
+    "GRAPHQL.md",
+    "Untitled",
+    "Broken Access Control.md",
+    "burp.md",
+    "Cheat sheets.md",
+    "Playground owasp.md",
+    "Tools.md",
+    "images/Pasted image 20240504183053.png",
+    "accounts.stage.evernote.com.md",
+    "images",
+    "Amazon s3.md",
+    "images/EVERNOTE.md",
+    "images/Pasted image 20240504193339.png",
+    "images/Pasted image 20240504192748.png",
+    "images/Pasted image 20240504183115.png",
+    "images/Pasted image 20240504183101.png",
+    "scopes_for_evernote_at_2024-05-01_13_41_30_UTC.csv",
+    "Hacking APIs_ Breaking Web Application Programming -- Corey J_ Ball -- 1, 2022 -- No Starch Press -- 9781718502451 -- bd23421009113717119f5f2ec9e337e6 -- Anna’s Archive.mobi"
+  ]
+}

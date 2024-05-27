@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"69e9b3520da439d0","x":100,"y":140,"width":250,"height":60,"type":"text","text":""},
+		{"id":"e4ee69cb6c5c5b8b","x":-300,"y":-180,"width":250,"height":60,"type":"text","text":"$culo$\n "}
+	],
+	"edges":[
+		{"id":"261d97488c9dbc5a","fromNode":"e4ee69cb6c5c5b8b","fromSide":"bottom","toNode":"69e9b3520da439d0","toSide":"top"}
+	]
+}

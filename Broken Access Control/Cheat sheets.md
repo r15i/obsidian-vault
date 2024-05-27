@@ -1,0 +1,2 @@
+- Path traversal cheat sheets: https://github.com/JahTheTrueGod/Directory-Traversal-Cheat-Sheet
+- cheat sheet awasp authentication  https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html

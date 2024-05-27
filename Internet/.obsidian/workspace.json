@@ -8,18 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a982380d61fe95f4",
+            "id": "73985656f2591869",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree Map for exam.md",
+                "file": "Intro formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2398830a46567ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traffic metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c7c46b365faf648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reliability metrics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "252bb188956a6f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automatic Repeat reQuest (ARQ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa0a967f2f57af27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b982e1d132bf8b30",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "stuff/Pasted image 20240123192533.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -49,9 +108,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree Map for exam.md",
+                "file": "TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree Map for exam.md",
+                "file": "TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree Map for exam.md"
+                "file": "TCP.md"
               }
             }
           }
@@ -146,45 +205,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a982380d61fe95f4",
+  "active": "fa0a967f2f57af27",
   "lastOpenFiles": [
+    "Pasted image 20240212222337.png",
+    "Pasted image 20240212222142.png",
+    "Pasted image 20240212222114.png",
+    "Pasted image 20240212222055.png",
+    "stuff/Pasted image 20240123192533.png",
     "TCP.md",
-    "Internet Control Message Protocol (ICMP).md",
+    "Delay metrics.md",
+    "Data Link Control (DLC).md",
     "Automatic Repeat reQuest (ARQ).md",
-    "theory check 4.md",
-    "theory question/theory questions.md",
-    "Tree Map for exam.md",
-    "Data Link layer(DLL).md",
-    "Dictionary.md",
-    "theory check 3.md",
-    "cheat sheet lab/private and public ip.md",
-    "Internet Protocol (IP).md",
+    "Routing.md",
+    "Sub and Supernetting.md",
+    "Packet-switched network (PS).md",
+    "Network Topology.md",
+    "Network formulas.md",
+    "Network Devices.md",
+    "Network Architectures.md",
+    "Network layer.md",
+    "Network.md",
+    "Circuit-switched network (CS).md",
+    "Address Resolution Protocol (ARP).md",
+    "Routers.md",
+    "Reliability metrics.md",
+    "stuff/Pasted image 20240123192505.png",
+    "Traffic metrics.md",
+    "theory check 1.md",
+    "2024-02-09.md",
+    "Intro formulas.md",
+    "cheat sheet esercizi/cheat sheet esercizi.md",
+    "Pipe Capacity metrics.md",
+    "Performance Analysis.md",
+    "Transport Formulas.md",
     "stuff/Pasted image 20240124183026.png",
-    "Bridge.md",
-    "theory check 2.md",
     "Immagine WhatsApp 2024-01-25 ore 10.39.38_58f19fd9 1.jpg",
     "Immagine WhatsApp 2024-01-25 ore 10.39.38_58f19fd9.jpg",
-    "Answers.md",
     "stuff/Pasted image 20240124201506.png",
-    "theory check 1.md",
     "stuff/Pasted image 20240124201248.png",
-    "stuff/Pasted image 20240124201231.png",
-    "Immagine WhatsApp 2024-01-24 ore 20.12.07_c945e710.jpg",
-    "Session Layer.md",
-    "stuff/Pasted image 20240124184940.png",
-    "stuff/Pasted image 20240124183030.png",
-    "Transport Layer.md",
-    "CSMA_CD.md",
-    "DNS.md",
-    "stuff/Pasted image 20240124130616.png",
-    "UDP.md",
-    "ICANN.md",
-    "Random Access.md",
-    "Medium Access Control (MAC).md",
-    "Controlled Access.md",
     "theory question",
-    "Application Layer.md",
-    "Delay metrics.md",
     "Sub",
     "cheat sheet esercizi",
     "CSMA",

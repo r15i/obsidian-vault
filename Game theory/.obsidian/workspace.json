@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian games.md",
+                "file": "Tree Map for Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian games.md",
+                "file": "Tree Map for Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian games.md",
+                "file": "Tree Map for Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian games.md"
+                "file": "Tree Map for Exam.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "3c92a4eadb03e7d9",
   "lastOpenFiles": [
-    "incomplete information.md",
     "Bayesian games.md",
+    "incomplete information.md",
     "types.md",
     "Minmax And Maximin.md",
     "Iterated elimination of strictly dominated strategies (IESDS).md",

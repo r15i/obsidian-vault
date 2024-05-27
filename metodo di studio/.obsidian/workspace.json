@@ -8,31 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "228b82eafd5f2810",
+            "id": "11fabf002471a11a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
+                "file": "ADC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "87ee1954907ca30c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf851d13d311b079",
+            "id": "ff302c8bd4598bcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,12 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "062762ab37d9fff5",
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
+                "file": "Tecniche di memorizzazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md",
+                "file": "Tecniche di memorizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ripasso, ripetizioni programmate, metodo Leitner.md"
+                "file": "Tecniche di memorizzazione.md"
               }
             }
           }
@@ -159,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,21 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87ee1954907ca30c",
+  "active": "ff302c8bd4598bcf",
   "lastOpenFiles": [
-    "Pasted image 20240124115835.png",
-    "Pasted image 20240124114507.png",
-    "Ripasso.md",
-    "Tecniche di memorizzazione.md",
+    "Memorizzazione lettere e parole.md",
     "Memorizzazione immagini.md",
-    "metodi e tecniche di studio.md",
-    "Ripasso, ripetizioni programmate, metodo Leitner.md",
+    "Memorizzazione codici.md",
+    "Appunti.md",
     "ADC.md",
-    "Lettura veloce.md",
-    "Lettura efficace.md",
-    "Caratteristiche del metodo di studio e fasi dell’apprendimento.md",
+    "Tecniche di memorizzazione.md",
+    "Optimized Study.md",
+    "Ripasso, ripetizioni programmate, metodo Leitner.md",
+    "Basi tecniche mnemoniche.md",
+    "desktop.ini",
+    "Basi metodo di studio.md",
     "Ambiente di studio, strumenti, stato psicofisico e atteggiamento.md",
+    "Master Plan.md",
+    "Lettura veloce.md",
+    "Caratteristiche del metodo di studio e fasi dell’apprendimento.md",
+    "Lettura efficace.md",
+    "Ripasso.md",
+    "Procrastinazione.md",
     "Memorizzata tramite palazzo della memoria.md",
+    "metodi e tecniche di studio.md",
+    "stuff/Pasted image 20240207120530.png",
+    "Quando, quanto e come ripassare.md",
+    "Spacing, cramming e frequenza delle lezioni.md",
+    "Untitled",
+    "stuff/Pasted image 20240124114507 1.png",
+    "stuff",
+    "forgetting curve.md",
+    "stuff/Pasted image 20240124115835 1.png",
     "Esercizio - Auto-valutazione del sonno (PDF).md"
   ]
 }

@@ -1,0 +1,3 @@
+- https://academic.oup.com/tas/article/6/3/txac082/6609516
+Questo invece è un sistema di riconoscimento automatico dei suini tramite marca auricolare implementato da un team americano con cui avevano contatti qualche mese fa. Può essere interessante per darti un'idea di qual è il problema anche se ho trovato risorse più interessanti per, in teoria, fare la stessa roba...
+

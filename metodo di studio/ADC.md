@@ -1,13 +1,17 @@
 
 
+
+
+
+
+
+
 **Piano Terra - Conquistare le Basi**
 - Portone e Ingresso
   - Introduzione, programma del corso 
     - [[Programma del corso (PDF)]]
   - Atrio
-    - [[Caratteristiche del metodo di studio e fasi dell’apprendimento]]
-    - Esercizio - Autovalutazione del metodo di studio e obiettivi 
-      - [[Esercizio - Autovalutazione del metodo di studio e obiettivi (PDF)]]
+   
   - Stanza di Servizio
         [[Ambiente di studio, strumenti, stato psicofisico e atteggiamento]]
 
@@ -21,8 +25,8 @@
   - Esercizio - Stabilire le tempistiche di studio 
     - [[Esercizio - Stabilire le tempistiche di studio (PDF)]]
 - Stanza Binaria
-  - Spacing, cramming e frequenza delle lezioni 
-    - [[Spacing e Craming (PDF)]]
+  - [[Spacing, cramming e frequenza delle lezioni]]
+     
   - Esercizio - Valutazione frequenza o non frequenza lezioni 
     - [[Esercizio - Valutazione frequenza o non frequenza lezioni (PDF)]]
 - Stanza delle Carte
@@ -31,8 +35,8 @@
   - Esercizio - Pianifica un tuo esame test concorso 
     - [[Esercizio - Pianifica un tuo esame test concorso (PDF)]]
 - Stanza dei Calendari
-  - MasterPlan layout 
-    - [[Master Plan layout (XLSX)]]
+   - [[Master Plan]]
+   - 
 
 **Secondo Piano - Conquistare il Testo**
 
@@ -112,9 +116,7 @@
 - Sala delle Spirali
   - [[Ripasso, ripetizioni programmate, metodo Leitner ]]
   - 
-    - [[Quando, quanto e come ripassare (PDF)]]
-    - Esempi Leitner 
-      - [[Esempi Leitner (ZIP)]]
+    - [[Quando, quanto e come ripassare]]
 - Stanza della Mente
   - Basi memoria e mnemotecniche 
     - [[Basi delle mnemotecniche (PDF)]]
@@ -146,8 +148,8 @@
 **Terza Torre - Conquistare il Risultato**
 
 - Stanza della Meditazione
-  - Sconfiggere la procrastinazione e prevenire il fallimento 
-    - [[Sconfiggere la procrastinazione e prevenire il fallimento (PDF)]]
+- [[Procrastinazione]]
+- 
 - Armeria
   - Tipologie diverse di esami 
     - [[Tipologie diverse di esami (PDF)]]

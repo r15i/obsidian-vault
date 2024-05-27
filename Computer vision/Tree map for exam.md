@@ -6,7 +6,10 @@ Closed book written exam
 First exam: 1/2/2023 h 10.00 
 Second exam: 16/2/2023 h 10.00
 
-
+First exam: 1/2/2024 h 10.00 (1st session) 
+Second exam: 16/2/2024 h 10.00 (1st session) 
+Third exam: **24/6/2024** h 14.30 (2nd session) 
+Fourth exam: 12/9/2024 h 10.00 (3rd session)
 
 ## Priority order based on exercises/project
 1. [[Single pixel operations and histogram processing]] 

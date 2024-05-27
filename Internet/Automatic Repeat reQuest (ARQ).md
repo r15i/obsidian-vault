@@ -114,6 +114,8 @@ What happens if a frame of the sequence is corrupted?
 We want to choose $N$ large enough to allow **continuous transmission** while waiting for an ACK for the first packet of the window: 
 - $N\geq t_G/t_F$ 
 - $N*t_F\geq RTT$
+-  $N*T_i\geq RTT_i$ = $T_i+2\tau_i$
+- 
 with $RTT=t_F+2\tau_p$
 essentially we want that the ack falls in the first ack of each window falls in the time of RTT wich means we don't have stopped sending packet of the same frame
 ![[Pasted image 20240108163546.png]]

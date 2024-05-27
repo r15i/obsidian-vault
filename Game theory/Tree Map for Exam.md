@@ -1,4 +1,6 @@
+# appunti x
 
+https://goldshish.it/
 ## Theory
 - Part 1: [[Static Game of Complete Information]]
 - Part 2: [[Dynamic Game of Complete Information]]

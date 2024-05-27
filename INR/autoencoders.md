@@ -1,0 +1,1 @@
+![[Adobe Scan 24 mar 2024.pdf]]

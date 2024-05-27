@@ -3,8 +3,9 @@ range of frequencies contained in a modulated signal or range of frequencies
 a channel can pass with acceptable attenuatin 
 
 ## Bitrate $R_0$  \[Bit/s\] or \[bps\] :
-maximum transmission peed at bit level of a link
-usally for calculating speeds as $T = \frac{M}{R_0}$ 
+maximum transmission speed at bit level of a link
+ 
+- usally for calculating speeds as $T = \frac{M}{R_0}$ 
 
 ## Throughput $S$ \[Bit/s\], \[pck/s\], \[pck/slots\]: 
 Rate at which data is traversing a link

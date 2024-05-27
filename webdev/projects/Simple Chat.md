@@ -27,4 +27,23 @@ In Svelte, `{}` is used for reactive statements and expressions. When you wrap a
 
 
 
+pocket base 
 
+
+default collaction for the users
+
+- create users and messages schema in pocket base: make the objects and link it with id like in a relational database
+- create new record to test
+- create api rules for frontend application are based on each collection of data![[Pasted image 20240201140841.png]]
+- adds a rule for the id 
+
+
+
+
+
+- pocket base javascript sdk 
+		for user autentication and for the communication with the db 
+		
+```
+npm i pocketbase
+```

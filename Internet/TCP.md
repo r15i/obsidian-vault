@@ -264,10 +264,13 @@ It starts when **three duplicate ACKs arrive** wich is interpreted as light cong
 
 ## Tahoe
 ![[Pasted image 20240123192533.png]]
+![[Pasted image 20240212222055.png]]
+![[Pasted image 20240212222114.png]]
+
 ## Reno
 ![[Pasted image 20240123192505.png]]
-
-
+![[Pasted image 20240212222142.png]]
+![[Pasted image 20240212222337.png]]
 ## Reno 2 
 ![[Pasted image 20240123192518.png]]
 

@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tree for the exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78729d3e584bc81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree for the exam.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4713e1e36bcbfb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning.md",
+                "file": "Deep Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree for the exam.md",
+                "file": "Deep Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree for the exam.md",
+                "file": "Deep Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree for the exam.md"
+                "file": "Deep Networks.md"
               }
             }
           },
@@ -174,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +166,17 @@
   },
   "active": "93887827510bb8e3",
   "lastOpenFiles": [
+    "Tree for the exam.md",
+    "Machine Learning.md",
+    "Error.md",
+    "EMPIRICAL ERROR.md",
+    "Empirical Risk Minimization.md",
+    "TRUE ERROR.md",
+    "Hypothesis Class.md",
+    "Deep Learning.md",
+    "PAC learning.md",
     "Pasted image 20240127182133.png",
     "stuff/Pasted image 20240109093147.png",
-    "PAC learning.md",
-    "Tree for the exam.md",
     "Random Forest.md",
     "stuff/Pasted image 20240109124405.png",
     "stuff/Pasted image 20240109124208.png",
@@ -205,9 +189,7 @@
     "Supervised Learning.md",
     "Unsupervised learning.md",
     "Principal Component Analysis (PCA).md",
-    "stuff/Pasted image 20240109121015.png",
     "Principal Component Analysis.md",
-    "Deep Learning.md",
     "Neural Networks (NN).md",
     "Advanced CNN schemes.md",
     "Residual Networks.md",
@@ -220,11 +202,6 @@
     "Convolutional Neural Networks.md",
     "Assumptions on f.md",
     "Assumtions.md",
-    "Realizability Assumption.md",
-    "Machine Learning.md",
-    "True Error.md",
-    "Empirical Risk Minimization (ERM).md",
-    "Empirical Error.md",
     "test",
     "K fold cross validation algo.canvas",
     "Untitled.canvas",

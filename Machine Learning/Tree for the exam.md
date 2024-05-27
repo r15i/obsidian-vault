@@ -4,4 +4,14 @@
 4. [[Neural Networks (NN)]]
 5. [[Deep Networks]]
 6. [[Random Forest]]
+
+
+
+
+
+
+
+
 ![[Pasted image 20240127182133.png]]
+
+

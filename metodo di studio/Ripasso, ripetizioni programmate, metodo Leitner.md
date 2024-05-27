@@ -7,17 +7,18 @@ ripensare e riportarli alla memoria consapevole, alla memoria di lavoro
 # quando e quanto?
 - non appena finito, la fase di studio, mantenendo il numero di ripetizioni minimo, è un andamento esponenziale
 ## Ripetizioni programmate (spaced repetition)
-- basata sulla ebbinghaus forgetting curve 
-![[Pasted image 20240124114507.png]]
+- basata sulla ebbinghaus [[forgetting curve]] 
+![[Pasted image 20240124114507 1.png]]
 si vuole mettere a posto le informazioni prima del clean up del cervello
 
 spaziamento della ripetizione :
 1. dopo qualche ora 
 2. dopo 24 ore 
-3. dopo qualche giorno 
+3. dopo 3 giorni
 4. dopo una settimana (riepilogo di tutta la settimana )
 5. dopo un mese (riepilogo del mese)
 6. riepilogo semestrale(esame)
+
 
 ## Allenare le performace 
 la ripetizione non riguarda la velocità di reperimento di una informazione, questo si ottiene tramite ripetezione ulteriore, 
@@ -31,6 +32,6 @@ non è come lo studio , si può spaziare e aggiungere e ridurre le dimensioni
 2. Rifare l'applicazione dell'esercizio
 	   - rifacendo esercizi 
 	   - rifacendo esami 
-3. Metodo Leitner : modello per implementare esercizi e domande con la ripetizione programmata
-   ![[Pasted image 20240124115835.png]]
+3. Metodo Leitner : modello per implementare esercizi e domande con la ripetizione programmata fatto tramite **DOMANDE** 
+   ![[Pasted image 20240124115835 1.png]]
    4. Ri-schematizzare: fare una reilaborazzione dello schema non uguale e rapidamente (ripasso ricostruendo)
