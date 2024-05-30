@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c403933acea03223",
+        "id": "c29ec3c377fb645e",
         "type": "tabs",
         "children": [
           {
-            "id": "1019dc01055a5ae3",
+            "id": "3f94480ac340fce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript.md"
+              }
             }
           }
         ]
@@ -138,39 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1019dc01055a5ae3",
+  "active": "3f94480ac340fce1",
   "lastOpenFiles": [
+    "Pasted image 20240530185238.png",
+    "Pasted image 20240530185215.png",
+    "Pasted image 20240530182737.png",
+    "jQuery Library.md",
+    "Canvas.md",
+    "JavaScript.md",
+    "JavaServer Pages (JSP).md",
+    "stuffs/Pasted image 20240529205653.png",
+    "Form validation.md",
     "Tree map for exam.md",
+    "AJAX.md",
+    "stuffs/Pasted image 20240527201503.png",
+    "stuffs/Pasted image 20240527202048.png",
+    "Java.md",
+    "stuffs/Pasted image 20240527203534.png",
+    "Pasted image 20240527201357.png",
+    "Pasted image 20240527200737.png",
+    "Pasted image 20240527200748.png",
+    "Pasted image 20240527201042.png",
+    "postgresql.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Dao.md",
     "servlet Java.md",
-    "Immagine WhatsApp 2024-03-25 ore 12.58.40_c2c06a8f.jpg",
     "Tomcat.md",
-    "Untitled 1.canvas",
-    "Pasted image 20240320203457.png",
-    "Pasted image 20240319191111.png",
-    "JavaServer Pages (JSP).md",
-    "Untitled.canvas",
     "sito web/Back end.md",
-    "Pasted image 20240320203529.png",
-    "Pasted image 20240320182345.png",
-    "Pasted image 20240319191100.png",
     "sito web/Front end.md",
-    "stuffs/menu 1.png",
-    "stuffs/Pasted image 20240306000902 1.png",
-    "stuffs/Pasted image 20240306000458 1.png",
-    "stuffs/Pasted image 20240229193223 1.png",
     "sito web/outline.md",
     "sito web/Database.md",
-    "Java.md",
     "Untitled",
     "sito web",
     "Database cucina.md",
     "stuffs/01-webapp-2023-24-organisation.pdf",
     "stuffs/template.pdf",
     "Report.md",
-    "JavaScript.md",
     "SQL.md",
-    "postgresql.md",
     "stuffs",
     "template report.pdf"
   ]

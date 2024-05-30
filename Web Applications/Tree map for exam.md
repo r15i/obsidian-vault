@@ -49,12 +49,15 @@ https://crane.dei.unipd.it/my-courses
 - [[XML]]
 ## Javascript
 - [[JavaScript]]
-- [[jQuery]]
+- [[jQuery Library]]
 - [[AJAX]]
+- [[Form validation]]
+- [[Canvas]]
 
 # Theory
 - [[Architettura Model-View-Controller (MVC)]]
 - [[Web services REST e SOAP]]
+- [[Security]]
 
 
 # Esempi di codice
